@@ -1,0 +1,670 @@
+Unit_ID,Region,Equipment_Type,Equipment_Quantity,Maintenance_Status,Fuel_Consumption_Litres,Supply_Requests,Delivery_Date,Delivery_Status,Personnel_Count,Operational_Readiness,Monthly_Cost_INR
+Unit-127,Eastern Command,Medical  Unit,207,Awaiting Parts,4777.3,23,2026-01-21,,252,0.68,877456.83
+Unit-121,Eastern Command,Artillery Support,147,Awaiting Parts,496.9,39,2026-07-28,In Transit,764,0.97,852278.97
+Unit-127,Central Command,Transport Vehicle,101,Under Maintenance,3749.5,17,2026-06-10,In Transit,577,0.42,1393112.64
+Unit-103,Western Command,Medical Unit,143,Awaiting Parts,330.8,9,05/05/2026,Delayed,405,0.51,798436.42
+Unit-103,Eastern Command,Artillery Support,102,Operational,,14,08-04-2026,Delivered,471,0.92,969147.93
+Unit-127,Central Command,Transport Vehicle,200,Decommissioned,604.7,34,12-05-2026,In Transit,743,0.41,1197236.76
+Unit-121,Southern Command,transport vehicle,81,Operational,,30,2026-03-27,Delivered,274,0.68,2466674.39
+Unit-103,Western Command,Medical  Unit,165,Decommissioned,263.5,12,11-04-2026,Cancelled,220,0.62,1755650.81
+Unit-124,Eastern Command,Communication Equipment,25,Decommissioned,1735.1,23,30-01-2026,In Transit,756,0.58,656213.85
+Unit-100,Western Command,Medical  Unit,42,Operational,2733.9,23,2026-04-08,Cancelled,22,0.89,1729825.09
+Unit-100,Western Command,Engineering Equipment,11,Decommissioned,3218.3,28,2026-01-03,In Transit,551,0.48,1072135.36
+Unit-103,Western Command,Communication Equipment,75,Decommissioned,1772.3,31,2026-01-24,Cancelled,306,0.92,1514553.65
+Unit-118,Central Command,Engineering Equipment,214,Operational,2952.1,28,2026-03-09,Delayed,471,0.63,1543404.95
+Unit-112,Eastern Command,Medical Unit,179,Operational,4579.5,6,21-02-2026,Delivered,391,0.88,1992953.13
+Unit-103,Southern Command,Engineering Equipment,204,Operational,630.5,6,02-04-2026,Delayed,502,0.45,2198037.33
+Unit-100,Western Command,Artillery Support,115,Awaiting Parts,4136.4,30,24-04-2026,Delivered,259,0.51,2029382.66
+Unit-103,Central Command,Engineering Equipment,90,Operational,760.7,4,09-07-2026,Cancelled,261,0.98,2319663.25
+Unit-121,Central Command,Artillery Support,73,Decommissioned,3009.4,12,21-03-2026,In Transit,42,0.46,903771.6
+Unit-121,Southern Command,COMMUNICATION EQUIPMENT,160,Operational,3313.4,23,09-02-2026,Cancelled,78,0.45,1433243.78
+Unit-127,Eastern Command,Medical  Unit,243,Operational,3398.6,33,2026-02-28,Cancelled,403,0.7,1638914.02
+Unit-115,Western Command,COMMUNICATION EQUIPMENT,153,,97.6,39,10-02-2026,Delayed,511,0.91,810928.25
+Unit-100,Southern Command,Transport Vehicle,156,Under Maintenance,2182.0,19,09-02-2026,Delivered,585,0.59,1613871.53
+Unit-112,Central Command,Medical Unit,180,Under Maintenance,3310.4,20,16/03/2026,Delayed,753,0.69,1560641.27
+Unit-121,Central Command,transport vehicle,174,Awaiting Parts,4106.9,19,15/03/2026,Delivered,366,0.51,695069.9
+Unit-109,Eastern Command,Medical  Unit,50,,,30,08/01/2026,Cancelled,273,0.89,1928336.61
+Unit-115,Eastern Command,Medical  Unit,60,Under Maintenance,1528.3,40,31/03/2026,Cancelled,606,0.61,1756962.93
+Unit-124,Western Command,Medical Unit,5,Operational,1676.0,20,2026-02-28,Delivered,448,0.51,276824.81
+Unit-124,Eastern Command,Engineering Equipment,48,Decommissioned,219.5,1,21/04/2026,Delivered,529,0.74,31614285.24
+Unit-109,Northern Command,Engineering Equipment,6,Awaiting Parts,3560.9,15,01-03-2026,Delayed,353,0.86,1624638.89
+Unit-121,Southern Command,Medical Unit,183,Decommissioned,1166.4,20,2026-06-25,In Transit,303,0.41,2103967.17
+Unit-106,Western Command,Communication Equipment,9,Operational,849.0,16,02/01/2026,Delivered,237,0.61,256859.14
+Unit-106,Eastern Command,COMMUNICATION EQUIPMENT,124,Decommissioned,147.3,26,13/05/2026,Delayed,690,0.6,76048.66
+Unit-112,Central Command,Transport Vehicle,203,Decommissioned,2325.6,5,18-05-2026,Delivered,258,0.64,1326547.05
+Unit-103,Eastern Command,Medical  Unit,246,Decommissioned,1740.0,9,16/02/2026,In Transit,27,0.47,2342632.87
+Unit-109,Central Command,Engineering Equipment,222,Operational,1023.7,3,03/02/2026,Delivered,,0.44,2050095.99
+Unit-115,Northern Command,Medical  Unit,31,Awaiting Parts,3345.7,24,14-01-2026,In Transit,463,0.59,1754358.75
+Unit-118,Central Command,Communication Equipment,64,Decommissioned,1469.3,3,06/04/2026,Delivered,147,0.86,1497653.15
+Unit-100,Central Command,transport vehicle,103,Under Maintenance,841.8,31,07/07/2026,Cancelled,180,0.71,427517.17
+Unit-112,Western Command,Medical  Unit,75,Under Maintenance,3567.3,37,06-06-2026,Cancelled,765,0.67,2201251.02
+Unit-103,Central Command,Transport Vehicle,107,Operational,217.6,28,19-06-2026,Cancelled,747,0.86,300721.55
+Unit-106,Eastern Command,Artillery Support,241,Under Maintenance,2516.7,7,2026-06-12,Cancelled,733,0.74,306166.87
+Unit-124,Western Command,Medical Unit,107,Awaiting Parts,3357.8,8,2026-06-22,In Transit,550,0.46,2147844.12
+Unit-106,Northern Command,Communication Equipment,190,Operational,1479.2,24,20-05-2026,In Transit,507,0.98,1473445.86
+Unit-109,Eastern Command,Medical Unit,168,Operational,3009.4,25,2026-03-19,Delivered,767,0.44,85616.42
+Unit-127,Eastern Command,Communication Equipment,44,Awaiting Parts,1624.5,4,31-07-2026,Delayed,133,0.79,772555.34
+Unit-124,Western Command,COMMUNICATION EQUIPMENT,193,Under Maintenance,1274.2,4,2026-06-16,Cancelled,585,0.73,443696.35
+Unit-121,Southern Command,Engineering Equipment,30,Under Maintenance,943.5,12,21/05/2026,Delivered,246,0.92,671049.44
+Unit-103,Western Command,Transport Vehicle,217,Awaiting Parts,3943.8,5,16/06/2026,In Transit,616,0.5,2416086.78
+Unit-121,Western Command,COMMUNICATION EQUIPMENT,222,Under Maintenance,4974.4,19,2026-06-25,Delivered,175,0.98,73092.82
+Unit-115,Central Command,Transport Vehicle,19,Under Maintenance,3089.6,9,12-06-2026,In Transit,636,0.62,350963.47
+Unit-124,Central Command,COMMUNICATION EQUIPMENT,27,Decommissioned,534.9,6,08/05/2026,Cancelled,536,0.76,333699.99
+Unit-121,Eastern Command,Engineering Equipment,42,Decommissioned,,5,24-06-2026,Delivered,139,0.53,678541.07
+Unit-100,Eastern Command,Engineering Equipment,86,Under Maintenance,1340.3,6,23-03-2026,Cancelled,136,0.49,1307971.24
+Unit-115,Northern Command,Transport Vehicle,249,Awaiting Parts,3452.7,9,10-06-2026,Delayed,561,0.97,1682735.8
+Unit-106,Eastern Command,COMMUNICATION EQUIPMENT,25,Operational,2206.1,6,05-01-2026,Delivered,315,0.85,479177.99
+Unit-115,Western Command,transport vehicle,11,Awaiting Parts,3399.2,23,16-02-2026,Cancelled,239,0.59,1356894.07
+Unit-112,Central Command,Transport Vehicle,249,,4329.0,7,10-06-2026,Delayed,633,0.69,575171.82
+Unit-127,Northern Command,COMMUNICATION EQUIPMENT,13,Under Maintenance,280.6,8,16-03-2026,Delayed,573,0.47,805780.47
+Unit-127,Central Command,COMMUNICATION EQUIPMENT,217,Under Maintenance,3356.1,37,2026-08-07,Delayed,676,0.47,1109695.68
+Unit-121,Northern Command,Medical  Unit,45,Under Maintenance,4983.2,16,01/03/2026,Delivered,146,0.6,1886652.45
+Unit-115,Central Command,Artillery Support,56,Under Maintenance,1444.5,36,18/05/2026,Delivered,248,0.87,119512.59
+Unit-121,Southern Command,Communication Equipment,229,Under Maintenance,1592.8,5,2026-05-02,In Transit,489,0.45,1291215.36
+Unit-127,Central Command,COMMUNICATION EQUIPMENT,212,Awaiting Parts,67047.1,27,2026-07-19,Cancelled,132,0.83,1996093.71
+Unit-121,Northern Command,Transport Vehicle,15,Decommissioned,3622.6,23,2026-03-31,Delivered,300,0.48,1560687.63
+Unit-109,Eastern Command,transport vehicle,17,Operational,1565.6,30,16/02/2026,Cancelled,665,0.98,2204708.37
+Unit-121,Northern Command,Engineering Equipment,185,Under Maintenance,2281.3,11,13-01-2026,Delayed,767,0.86,768201.1
+Unit-115,Central Command,Medical Unit,146,Decommissioned,1738.5,35,23/01/2026,Delayed,248,0.74,1565100.94
+Unit-124,Eastern Command,transport vehicle,130,Operational,4207.3,3,09-04-2026,Delivered,436,0.8,1115312.49
+Unit-112,Northern Command,Artillery Support,18,Under Maintenance,1975.2,27,21/03/2026,In Transit,559,0.87,943952.08
+Unit-118,Eastern Command,Transport Vehicle,40,Decommissioned,140.2,6,14/07/2026,Delivered,211,0.49,1346297.38
+Unit-100,Southern Command,Engineering Equipment,108,Awaiting Parts,4802.1,31,2026-01-18,Cancelled,711,0.83,592425.9
+Unit-103,Northern Command,Artillery Support,143,Under Maintenance,1332.6,38,04/04/2026,Delayed,201,0.92,2146426.6
+Unit-112,Western Command,Transport Vehicle,94,Awaiting Parts,4489.9,1,18/06/2026,Cancelled,274,1.0,1031290.08
+Unit-103,Southern Command,Medical Unit,125,Operational,1123.0,9,27-07-2026,Delayed,21,0.43,2286066.18
+Unit-106,Eastern Command,COMMUNICATION EQUIPMENT,239,Operational,4099.9,32,04-03-2026,Delivered,484,0.82,1681079.88
+Unit-100,Central Command,Communication Equipment,55,Under Maintenance,4267.4,2,2026-07-22,In Transit,176,0.98,440627.07
+Unit-127,Central Command,COMMUNICATION EQUIPMENT,136,Operational,3306.6,12,03/08/2026,In Transit,97,0.93,333025.01
+Unit-118,Northern Command,Artillery Support,127,Decommissioned,2522.7,10,18/03/2026,Delivered,165,0.81,450913.29
+Unit-121,Northern Command,transport vehicle,28,Under Maintenance,1851.2,30,2026-05-05,In Transit,346,0.69,2063681.97
+Unit-127,Western Command,Medical  Unit,22,Awaiting Parts,2608.1,27,17/05/2026,Delayed,430,0.98,1568679.66
+Unit-109,Northern Command,Artillery Support,120,Decommissioned,4514.4,20,2026-05-27,Cancelled,652,0.7,1294167.32
+Unit-109,Southern Command,Artillery Support,144,Awaiting Parts,4650.4,17,11-04-2026,Delayed,765,0.68,2379652.61
+Unit-109,Eastern Command,Communication Equipment,21,Decommissioned,1928.0,33,17-04-2026,Delivered,130,0.76,1183226.16
+Unit-124,Western Command,Transport Vehicle,171,Awaiting Parts,4592.8,20,14/02/2026,In Transit,212,0.94,1139176.28
+Unit-100,Central Command,Engineering Equipment,34,Decommissioned,2095.9,0,22-04-2026,Delivered,538,1.0,305733.01
+Unit-103,Western Command,transport vehicle,172,Awaiting Parts,1424.4,0,2026-08-05,Delivered,111,0.49,1665156.52
+Unit-118,Eastern Command,Medical  Unit,178,Operational,2274.1,30,2026-07-07,Delayed,26,0.81,948967.3
+Unit-109,Eastern Command,Transport Vehicle,76,Awaiting Parts,1985.2,39,14-03-2026,In Transit,92,0.75,963085.62
+Unit-124,Eastern Command,Artillery Support,127,Under Maintenance,2677.4,28,2026-06-21,Delivered,290,0.65,2076282.0
+Unit-118,Western Command,Engineering Equipment,171,Decommissioned,425.7,39,26-03-2026,In Transit,322,0.62,1669852.2
+Unit-112,Central Command,transport vehicle,242,Under Maintenance,3760.0,24,2026-02-20,Delivered,584,0.82,1065794.09
+Unit-103,Central Command,Transport Vehicle,172,Operational,1023.4,31,16/07/2026,In Transit,682,0.94,1310123.03
+Unit-127,Southern Command,Medical Unit,11,Awaiting Parts,4162.8,1,16-06-2026,Delayed,46,0.76,1965679.45
+Unit-115,Central Command,Medical  Unit,163,Decommissioned,1859.6,6,2026-02-27,In Transit,551,0.47,1885750.42
+Unit-127,Central Command,COMMUNICATION EQUIPMENT,217,Under Maintenance,3356.1,37,2026-08-07,Delayed,676,0.47,1109695.68
+Unit-115,Western Command,Medical Unit,81,Decommissioned,3437.6,36,25-04-2026,In Transit,639,0.73,381584.9
+Unit-109,Northern Command,COMMUNICATION EQUIPMENT,186,Awaiting Parts,193.8,0,2026-08-03,Delivered,732,0.55,475286.83
+Unit-118,Southern Command,Medical  Unit,187,Under Maintenance,1845.7,26,15-03-2026,In Transit,177,0.65,2127172.04
+Unit-109,Southern Command,Communication Equipment,44,Under Maintenance,1625.6,34,18-02-2026,In Transit,24,0.98,1993866.22
+Unit-124,Eastern Command,COMMUNICATION EQUIPMENT,92,Decommissioned,4790.8,9,2026-01-22,Delayed,257,0.8,79554.5
+Unit-103,Western Command,Communication Equipment,74,Awaiting Parts,3940.0,22,2026-06-22,Delivered,509,0.93,1452673.69
+Unit-118,Northern Command,Engineering Equipment,108,Awaiting Parts,1495.3,7,24-02-2026,In Transit,475,0.57,2166846.75
+Unit-106,Eastern Command,Medical Unit,113,Awaiting Parts,3494.2,30,18-01-2026,Delayed,460,0.67,1287643.54
+Unit-112,Eastern Command,Medical Unit,163,Operational,2719.6,1,2026-03-03,In Transit,36,0.94,2166704.56
+Unit-124,Southern Command,COMMUNICATION EQUIPMENT,95,Awaiting Parts,1211.7,39,27-06-2026,In Transit,192,0.68,945598.09
+Unit-103,Western Command,Transport Vehicle,5,Under Maintenance,2228.1,29,2026-05-17,Delayed,227,0.59,1604060.18
+Unit-106,Eastern Command,Medical  Unit,139,Decommissioned,2695.5,30,2026-02-04,Cancelled,634,0.91,344053.79
+Unit-100,Eastern Command,Medical Unit,29,Decommissioned,852.0,11,20/02/2026,In Transit,708,0.96,535178.33
+Unit-121,Eastern Command,Communication Equipment,54,Awaiting Parts,1135.3,18,22-04-2026,Delivered,61,0.9,362690.64
+Unit-121,Southern Command,Artillery Support,240,Awaiting Parts,2796.2,4,2026-05-11,Cancelled,782,0.53,1547298.45
+Unit-106,Northern Command,Engineering Equipment,65,Decommissioned,1386.7,29,14/03/2026,In Transit,281,0.8,2429451.42
+Unit-127,Southern Command,Transport Vehicle,19,Decommissioned,4654.7,33,07-08-2026,Cancelled,274,0.87,598311.02
+Unit-106,Southern Command,transport vehicle,97,Awaiting Parts,648.5,21,01-01-2026,In Transit,427,0.47,2319677.21
+Unit-109,Southern Command,Transport Vehicle,72,Operational,1740.0,9,03/03/2026,Delayed,114,0.52,1384922.25
+Unit-103,Southern Command,Transport Vehicle,51,Decommissioned,3218.4,19,25-07-2026,Cancelled,337,0.78,2223241.13
+Unit-127,Western Command,Communication Equipment,68,Operational,2296.2,21,22-05-2026,In Transit,656,0.48,1340941.81
+Unit-115,Central Command,Medical Unit,165,,82.3,40,2026-06-28,Delivered,85,0.99,890416.57
+Unit-109,Southern Command,COMMUNICATION EQUIPMENT,181,Decommissioned,1840.6,31,2026-07-17,Delayed,376,0.57,1387138.1
+Unit-115,Eastern Command,transport vehicle,162,Under Maintenance,4623.0,25,01/06/2026,In Transit,163,0.53,35432825.72
+Unit-106,Southern Command,Medical  Unit,99,Decommissioned,56044.8,36,27-03-2026,In Transit,82,0.77,1644820.19
+Unit-112,Eastern Command,COMMUNICATION EQUIPMENT,165,Decommissioned,1454.0,32,2026-04-05,In Transit,548,0.94,595490.13
+Unit-100,Northern Command,transport vehicle,187,Decommissioned,745.8,2,09/05/2026,Delayed,311,0.43,259906.09
+Unit-124,Eastern Command,Engineering Equipment,48,Decommissioned,219.5,1,21/04/2026,Delivered,529,0.74,31614285.24
+Unit-100,Eastern Command,Artillery Support,56,Under Maintenance,2864.1,28,01-03-2026,Cancelled,246,0.84,226578.0
+Unit-127,Southern Command,COMMUNICATION EQUIPMENT,66,Decommissioned,1330.2,6,01/03/2026,Delayed,543,0.66,2477070.7
+Unit-124,Central Command,COMMUNICATION EQUIPMENT,86,Operational,1693.4,14,01-07-2026,Delivered,429,0.54,693371.37
+Unit-109,Western Command,Transport Vehicle,120,Under Maintenance,4004.3,10,2026-08-02,Delivered,653,0.92,2227333.51
+Unit-124,Northern Command,transport vehicle,108,Awaiting Parts,2830.7,30,08-05-2026,Delayed,270,0.93,1540414.09
+Unit-115,Central Command,transport vehicle,126,Awaiting Parts,1459.9,13,2026-03-17,Delivered,182,0.73,1534514.43
+Unit-127,Northern Command,COMMUNICATION EQUIPMENT,56,Awaiting Parts,3170.6,38,28/02/2026,Delayed,683,0.61,305545.87
+Unit-115,Northern Command,Medical  Unit,125,Under Maintenance,217.8,26,2026-06-10,In Transit,116,0.92,947087.91
+Unit-115,Eastern Command,Medical  Unit,213,Under Maintenance,2605.9,13,16-05-2026,Delayed,726,0.73,116254.1
+Unit-124,Southern Command,transport vehicle,136,Decommissioned,3341.8,34,30/03/2026,Delivered,133,0.45,1825735.38
+Unit-115,Northern Command,Artillery Support,162,Decommissioned,2758.1,35,12/03/2026,Cancelled,164,0.52,1347466.33
+Unit-106,Northern Command,Medical Unit,221,Decommissioned,676.5,13,30-05-2026,Cancelled,100,0.96,877949.09
+Unit-124,Central Command,Communication Equipment,35,Under Maintenance,559.4,8,22-06-2026,Delivered,263,0.43,76087.41
+Unit-115,Northern Command,Engineering Equipment,59,Under Maintenance,1210.4,20,2026-07-23,Delivered,518,0.86,865745.14
+Unit-118,Eastern Command,Transport Vehicle,15,,2993.9,37,24/04/2026,Cancelled,274,0.5,50978.96
+Unit-124,Eastern Command,Engineering Equipment,23,Awaiting Parts,1949.4,19,23-05-2026,Cancelled,717,0.43,795999.77
+Unit-115,Eastern Command,Medical Unit,174,Operational,3141.6,12,2026-02-22,Delayed,320,0.46,1784953.22
+Unit-112,Western Command,Artillery Support,36,Under Maintenance,2935.5,12,2026-01-03,Cancelled,758,0.95,1320225.0
+Unit-127,Central Command,Transport Vehicle,11,Decommissioned,1804.6,40,02/07/2026,Cancelled,,0.77,433349.96
+Unit-124,Southern Command,Engineering Equipment,141,Under Maintenance,4551.9,38,2026-05-16,Cancelled,209,0.45,1871912.32
+Unit-124,Western Command,COMMUNICATION EQUIPMENT,158,Decommissioned,3249.5,30,30-05-2026,In Transit,610,0.73,895504.45
+Unit-103,Southern Command,Artillery Support,218,Under Maintenance,3909.9,37,2026-04-16,In Transit,,0.78,1068567.18
+Unit-115,Central Command,Communication Equipment,186,Operational,3946.8,37,04/03/2026,In Transit,253,0.48,21343381.73
+Unit-106,Eastern Command,Artillery Support,188,Decommissioned,4194.4,33,05-06-2026,Delayed,123,0.55,1314268.07
+Unit-121,Central Command,Medical  Unit,51,Operational,379.1,8,26/05/2026,Delivered,769,0.92,1294742.5
+Unit-106,Western Command,transport vehicle,155,Awaiting Parts,846.6,20,18-02-2026,Delivered,188,0.98,299013.08
+Unit-103,Eastern Command,Medical  Unit,48,Decommissioned,1382.1,25,02-07-2026,Cancelled,443,0.81,890445.93
+Unit-106,Northern Command,COMMUNICATION EQUIPMENT,109,Under Maintenance,804.1,23,2026-05-11,Delivered,,0.66,31152986.98
+Unit-109,Northern Command,Engineering Equipment,99,Awaiting Parts,4488.2,21,2026-04-20,Cancelled,177,0.43,1263363.09
+Unit-106,Western Command,Medical  Unit,121,Decommissioned,4669.5,36,2026-04-05,Cancelled,800,0.98,854806.79
+Unit-106,Northern Command,Medical  Unit,30,Awaiting Parts,1486.7,34,2026-02-23,Cancelled,386,0.91,1524816.57
+Unit-103,Central Command,Communication Equipment,41,Awaiting Parts,85814.2,36,25/01/2026,Cancelled,442,0.68,1887591.47
+Unit-103,Eastern Command,Medical  Unit,241,Operational,,13,2026-06-27,Delivered,115,0.94,500362.94
+Unit-106,Southern Command,Communication Equipment,230,,2846.7,33,2026-02-10,Delayed,348,0.47,1816252.08
+Unit-103,Eastern Command,Communication Equipment,55,Operational,4123.1,35,08-05-2026,Delayed,318,0.89,1978765.16
+Unit-118,Eastern Command,COMMUNICATION EQUIPMENT,194,Decommissioned,2108.2,9,15/07/2026,Delayed,783,0.76,174189.09
+Unit-124,Eastern Command,Medical Unit,140,Under Maintenance,4848.6,40,02/03/2026,In Transit,275,0.98,461725.1
+Unit-100,Northern Command,Transport Vehicle,4,Operational,1975.3,19,06/07/2026,Delayed,518,0.77,824884.77
+Unit-118,Central Command,Transport Vehicle,142,Under Maintenance,2724.0,8,2026-07-08,Delivered,418,0.41,48741174.22
+Unit-100,Western Command,Engineering Equipment,243,Decommissioned,3883.4,24,11-02-2026,Delayed,,0.41,574370.4
+Unit-100,Central Command,Engineering Equipment,48,Awaiting Parts,2204.5,26,25-02-2026,Delayed,161,0.91,1328049.2
+Unit-115,Western Command,COMMUNICATION EQUIPMENT,170,Operational,1853.9,33,2026-02-17,In Transit,463,0.52,1689393.9
+Unit-112,Southern Command,COMMUNICATION EQUIPMENT,40,Operational,4623.1,8,2026-01-11,Cancelled,320,0.85,2193062.7
+Unit-127,Northern Command,Communication Equipment,91,Under Maintenance,2118.7,40,18-05-2026,In Transit,662,0.5,1598959.18
+Unit-127,Western Command,transport vehicle,17,Decommissioned,1295.7,15,10/05/2026,Delayed,685,0.89,1650650.05
+Unit-127,Northern Command,Artillery Support,22,Operational,257.2,40,2026-04-03,,482,0.74,1588029.42
+Unit-127,Northern Command,COMMUNICATION EQUIPMENT,118,Under Maintenance,3135.3,30,19/03/2026,Delivered,741,0.57,1682292.18
+Unit-124,Central Command,Medical Unit,158,Operational,2208.2,17,03-05-2026,Delayed,161,0.87,1963415.38
+Unit-127,Eastern Command,Medical  Unit,92,Decommissioned,,4,03-08-2026,In Transit,199,0.57,680971.14
+Unit-106,Western Command,transport vehicle,126,Awaiting Parts,2522.1,7,2026-04-18,Delivered,716,0.69,1160778.41
+Unit-121,Southern Command,Artillery Support,86,Decommissioned,195.5,19,24/07/2026,Delayed,715,0.67,2121703.75
+Unit-121,Eastern Command,COMMUNICATION EQUIPMENT,202,Under Maintenance,2471.7,18,2026-06-27,Delivered,746,0.8,1020293.84
+Unit-100,Western Command,transport vehicle,218,Decommissioned,4344.9,28,15-03-2026,Delayed,341,0.49,1621396.66
+Unit-127,Eastern Command,Transport Vehicle,29,Awaiting Parts,4510.3,37,05/06/2026,Delivered,270,0.81,140970.46
+Unit-112,Central Command,Engineering Equipment,117,Decommissioned,2235.1,36,09-08-2026,Delayed,333,0.85,1317129.78
+Unit-124,Central Command,Artillery Support,9,Operational,1241.6,38,25/01/2026,Delayed,110,0.42,1495363.89
+Unit-106,Central Command,Transport Vehicle,203,Operational,608.8,20,2026-03-03,Delayed,616,0.97,707218.52
+Unit-124,Southern Command,Medical  Unit,15,Under Maintenance,3001.6,20,28-06-2026,In Transit,50,0.74,951709.71
+Unit-115,Central Command,Medical  Unit,200,Awaiting Parts,3112.8,6,16-07-2026,Delivered,672,0.95,375972.71
+Unit-115,Southern Command,Communication Equipment,40,Decommissioned,3784.6,10,25-07-2026,Cancelled,341,0.69,1237131.3
+Unit-127,Eastern Command,Transport Vehicle,212,Decommissioned,4480.9,15,31/03/2026,Cancelled,407,0.46,1590191.06
+Unit-115,Northern Command,COMMUNICATION EQUIPMENT,225,Awaiting Parts,4556.5,1,30-03-2026,Delivered,322,0.55,949672.59
+Unit-103,Western Command,Artillery Support,249,Under Maintenance,253.4,35,04/08/2026,Delivered,703,0.9,338440.99
+Unit-109,Northern Command,Medical Unit,40,Awaiting Parts,4990.9,27,11/04/2026,Delivered,318,0.74,345842.86
+Unit-106,Central Command,Engineering Equipment,76,Under Maintenance,1310.0,26,05-04-2026,Delivered,605,0.81,1250127.18
+Unit-103,Northern Command,COMMUNICATION EQUIPMENT,28,Under Maintenance,100.7,0,04/04/2026,Cancelled,372,0.46,1456791.93
+Unit-121,Northern Command,Artillery Support,231,Awaiting Parts,2526.9,0,19/02/2026,Delayed,83,0.59,1308923.1
+Unit-121,Central Command,Transport Vehicle,79,Operational,2732.7,2,31-01-2026,Cancelled,171,0.83,1264695.95
+Unit-127,Northern Command,Communication Equipment,91,Under Maintenance,2118.7,40,18-05-2026,In Transit,662,0.5,1598959.18
+Unit-121,Northern Command,Artillery Support,214,Decommissioned,460.0,7,2026-04-14,Cancelled,244,0.43,1165728.79
+Unit-115,Central Command,Communication Equipment,237,Operational,744.3,30,07/02/2026,Delivered,358,0.91,1119225.21
+Unit-121,Eastern Command,Artillery Support,206,Operational,1737.8,39,28-06-2026,In Transit,638,0.71,305598.6
+Unit-127,Northern Command,Transport Vehicle,87,Awaiting Parts,1007.2,4,2026-04-14,Delayed,32,0.54,578676.94
+Unit-103,Northern Command,transport vehicle,56,Operational,,8,25-04-2026,Delivered,476,0.75,1509391.57
+Unit-115,Central Command,transport vehicle,116,Awaiting Parts,,4,25-07-2026,Delivered,730,0.52,2412329.32
+Unit-109,Northern Command,transport vehicle,88,Under Maintenance,268.6,16,10/01/2026,Delayed,31,0.89,1052037.49
+Unit-118,Western Command,COMMUNICATION EQUIPMENT,87,Awaiting Parts,3665.3,27,2026-06-22,Cancelled,92,0.83,911566.66
+Unit-103,Southern Command,Medical  Unit,138,Awaiting Parts,4688.5,22,2026-06-14,Delayed,523,0.79,63501.87
+Unit-118,Eastern Command,Transport Vehicle,245,Operational,4970.0,27,09/06/2026,Cancelled,184,0.62,945411.35
+Unit-124,Southern Command,transport vehicle,221,Decommissioned,,3,19/02/2026,Delayed,455,0.71,1216637.16
+Unit-115,Northern Command,Engineering Equipment,141,Operational,1741.7,26,09-01-2026,In Transit,254,0.6,1206963.89
+Unit-103,Western Command,Artillery Support,74,Operational,3585.8,27,2026-07-03,Delayed,645,0.66,1732853.37
+Unit-103,Southern Command,transport vehicle,201,Awaiting Parts,3560.8,12,26/07/2026,In Transit,308,0.56,1544706.63
+Unit-115,Central Command,Communication Equipment,68,,1775.6,7,04-05-2026,Cancelled,627,0.75,583480.4
+Unit-100,Southern Command,Artillery Support,185,Operational,294.9,26,26/04/2026,Delayed,679,0.92,1239658.95
+Unit-106,Northern Command,Engineering Equipment,191,Awaiting Parts,1927.9,22,2026-03-23,In Transit,159,0.73,954726.26
+Unit-100,Southern Command,Communication Equipment,115,Operational,4928.5,38,21/01/2026,Delivered,772,0.47,1664423.47
+Unit-109,Northern Command,Medical Unit,169,Decommissioned,3833.3,31,08-02-2026,Delayed,64,0.89,1801776.95
+Unit-109,Southern Command,COMMUNICATION EQUIPMENT,72,Under Maintenance,543.8,36,2026-08-04,Delayed,506,0.75,523157.01
+Unit-124,Western Command,transport vehicle,55,Operational,461.2,16,30-04-2026,Delayed,96,0.88,1595942.28
+Unit-124,Western Command,Medical  Unit,239,Under Maintenance,2821.8,9,09/02/2026,Cancelled,51,0.65,1525174.98
+Unit-106,Western Command,Medical Unit,100,Decommissioned,3554.1,23,2026-02-01,Cancelled,585,0.47,685943.82
+Unit-109,Southern Command,COMMUNICATION EQUIPMENT,72,Under Maintenance,543.8,36,2026-08-04,Delayed,506,0.75,523157.01
+Unit-103,Southern Command,Medical Unit,79,Decommissioned,2599.1,18,25-03-2026,Cancelled,314,0.95,2269508.14
+Unit-118,Southern Command,Artillery Support,43,Under Maintenance,4650.6,4,27/07/2026,Delayed,500,0.79,1815726.62
+Unit-124,Southern Command,Medical  Unit,215,Operational,4294.7,27,2026-07-05,In Transit,237,0.63,1484064.13
+Unit-127,Western Command,transport vehicle,192,Decommissioned,4045.5,30,07-02-2026,Delayed,231,0.6,1309786.06
+Unit-118,Central Command,Transport Vehicle,126,Operational,2241.0,5,18/01/2026,Cancelled,165,0.59,470413.29
+Unit-103,Southern Command,Medical Unit,73,Under Maintenance,428.4,33,05-01-2026,Delayed,740,0.85,1944625.51
+Unit-115,Western Command,Engineering Equipment,8,Decommissioned,2219.8,7,29-01-2026,Cancelled,115,0.64,1238157.73
+Unit-115,Eastern Command,COMMUNICATION EQUIPMENT,81,Awaiting Parts,325.5,38,2026-03-22,In Transit,70,0.6,629045.31
+Unit-109,Central Command,Medical  Unit,15,Under Maintenance,3569.7,30,2026-08-09,Cancelled,617,0.48,1047026.74
+Unit-121,Central Command,transport vehicle,152,Decommissioned,1210.5,40,22/07/2026,Cancelled,383,0.83,1014133.47
+Unit-121,Western Command,Medical  Unit,196,Awaiting Parts,1407.3,15,04-01-2026,Delivered,368,0.54,2221393.49
+Unit-124,Eastern Command,Medical  Unit,136,Awaiting Parts,3888.4,6,2026-06-18,Cancelled,467,0.69,668873.35
+Unit-118,Northern Command,Engineering Equipment,59,Decommissioned,4629.5,14,2026-05-07,In Transit,755,0.65,1722288.37
+Unit-115,Central Command,Artillery Support,106,Awaiting Parts,2966.0,13,04/04/2026,Cancelled,182,0.48,2344647.74
+Unit-127,Eastern Command,Communication Equipment,208,Operational,3394.4,27,05/06/2026,Cancelled,777,0.45,943094.78
+Unit-121,Central Command,Medical  Unit,18,Operational,4726.2,30,28/06/2026,Delivered,82,0.84,808538.07
+Unit-103,Northern Command,Communication Equipment,125,Awaiting Parts,219.2,25,10/06/2026,In Transit,400,0.67,620682.79
+Unit-112,Central Command,Medical  Unit,170,Operational,3269.3,5,01-05-2026,Delayed,515,0.93,349360.62
+Unit-112,Eastern Command,Transport Vehicle,214,Under Maintenance,4332.5,11,02-08-2026,In Transit,270,0.7,1311756.75
+Unit-109,Central Command,Medical Unit,93,Under Maintenance,,19,17/03/2026,Delayed,746,0.98,207727.08
+Unit-115,Northern Command,COMMUNICATION EQUIPMENT,194,Awaiting Parts,417.2,28,04/03/2026,Delayed,196,0.58,844515.17
+Unit-109,Southern Command,Communication Equipment,106,Operational,,8,19-05-2026,Delayed,264,0.53,593474.77
+Unit-106,Western Command,transport vehicle,106,Awaiting Parts,4801.7,22,16/06/2026,Delayed,574,0.96,544557.88
+Unit-106,Western Command,Medical  Unit,46,Operational,1643.7,23,02-08-2026,Delivered,439,0.49,666130.42
+Unit-115,Southern Command,Medical Unit,77,Awaiting Parts,2675.5,40,2026-01-08,Delayed,714,0.84,1743830.19
+Unit-103,Northern Command,Communication Equipment,129,Operational,3544.4,34,07-06-2026,Cancelled,426,0.8,1421752.4
+Unit-127,Southern Command,Medical Unit,14,Awaiting Parts,2934.4,0,2026-07-02,Delivered,539,0.56,1357679.33
+Unit-118,Southern Command,transport vehicle,7,Operational,4613.1,33,07-04-2026,Delayed,52,0.53,1642662.55
+Unit-118,Western Command,transport vehicle,12,Under Maintenance,1430.6,34,01/05/2026,Cancelled,790,0.45,1009522.72
+Unit-112,Eastern Command,Engineering Equipment,240,Decommissioned,3900.5,28,26-04-2026,Cancelled,797,0.74,2303927.06
+Unit-103,Western Command,Medical Unit,250,Awaiting Parts,2304.0,29,2026-05-10,In Transit,394,0.45,188893.97
+Unit-124,Central Command,Medical Unit,171,Operational,4589.3,18,2026-04-22,In Transit,498,0.44,749378.78
+Unit-106,Northern Command,COMMUNICATION EQUIPMENT,210,Awaiting Parts,4071.0,0,2026-04-08,Delayed,269,0.77,89099.04
+Unit-109,Western Command,Transport Vehicle,10,Under Maintenance,2384.4,32,2026-04-16,Delivered,639,0.97,387245.58
+Unit-112,Northern Command,Transport Vehicle,192,Awaiting Parts,4369.6,11,09/08/2026,Cancelled,191,0.82,1760765.12
+Unit-109,Northern Command,Transport Vehicle,129,Decommissioned,4211.2,37,2026-06-26,Cancelled,104,0.45,2303455.96
+Unit-103,Western Command,Communication Equipment,82,Awaiting Parts,4608.0,25,15/01/2026,Delayed,668,0.43,1371093.53
+Unit-100,Eastern Command,Communication Equipment,24,Awaiting Parts,3679.0,3,17/06/2026,Delivered,135,0.43,2056391.81
+Unit-115,Eastern Command,Artillery Support,38,Awaiting Parts,663.1,37,2026-04-23,Delayed,470,0.47,1765153.76
+Unit-109,Northern Command,Engineering Equipment,65,Operational,2913.5,14,17-02-2026,In Transit,176,0.53,1036086.6
+Unit-100,Central Command,Engineering Equipment,18,Decommissioned,,4,16/05/2026,Delayed,192,0.69,2010827.66
+Unit-112,Southern Command,COMMUNICATION EQUIPMENT,179,Operational,2557.0,26,2026-06-30,In Transit,98,0.5,1167765.82
+Unit-109,Eastern Command,transport vehicle,19,Operational,4575.3,23,2026-01-07,Delayed,369,0.95,2056700.94
+Unit-118,Eastern Command,COMMUNICATION EQUIPMENT,78,Awaiting Parts,851.5,13,2026-04-25,Delayed,217,0.75,354938.98
+Unit-127,Southern Command,Artillery Support,212,Under Maintenance,3334.0,5,04/08/2026,Delivered,753,0.43,42386193.79
+Unit-112,Central Command,Transport Vehicle,25,Operational,1063.0,36,05/05/2026,Delayed,287,0.96,735570.0
+Unit-112,Southern Command,Transport Vehicle,115,Decommissioned,1819.4,1,17-06-2026,Delayed,565,0.9,781857.8
+Unit-124,Eastern Command,Communication Equipment,9,Under Maintenance,1310.3,12,27-06-2026,Delivered,615,0.66,1988385.67
+Unit-121,Eastern Command,Artillery Support,35,Under Maintenance,4058.0,35,2026-01-04,In Transit,740,0.51,684826.97
+Unit-100,Eastern Command,Medical Unit,135,Decommissioned,1939.0,17,12-07-2026,Cancelled,421,0.77,1204339.95
+Unit-115,Eastern Command,Artillery Support,161,Under Maintenance,4334.6,33,11-05-2026,Delayed,611,0.92,321560.35
+Unit-115,Western Command,Medical Unit,97,Operational,186.2,2,23-05-2026,Cancelled,518,0.97,2279303.3
+Unit-124,Northern Command,Medical  Unit,243,Awaiting Parts,2377.6,29,20/07/2026,Delayed,,0.6,660894.73
+Unit-118,Eastern Command,Medical Unit,166,Decommissioned,3081.1,17,2026-07-02,In Transit,642,0.53,598473.77
+Unit-118,Central Command,transport vehicle,26,Operational,4108.6,8,19/05/2026,Delivered,505,0.75,1142861.2
+Unit-115,Eastern Command,transport vehicle,132,Awaiting Parts,153.1,8,17/01/2026,Delayed,,0.98,2191780.45
+Unit-100,Eastern Command,Artillery Support,78,Awaiting Parts,2168.9,34,2026-05-09,Cancelled,665,0.54,1179224.63
+Unit-115,Central Command,Artillery Support,220,Under Maintenance,1985.1,0,2026-01-01,Delivered,271,0.67,2033016.96
+Unit-112,Eastern Command,Engineering Equipment,96,Awaiting Parts,2002.3,18,2026-01-29,Delivered,712,0.65,1607737.72
+Unit-109,Southern Command,Communication Equipment,220,Operational,3762.3,21,2026-03-28,Cancelled,463,0.56,2033708.07
+Unit-112,Central Command,transport vehicle,188,Operational,64198.5,14,08-02-2026,,447,0.71,2244079.0
+Unit-112,Northern Command,Communication Equipment,32,Decommissioned,4428.0,34,2026-06-01,Delayed,,0.8,1182034.06
+Unit-100,Northern Command,COMMUNICATION EQUIPMENT,23,Operational,1244.9,32,26-04-2026,Delivered,460,0.97,797744.6
+Unit-127,Eastern Command,transport vehicle,45,,3429.0,26,2026-01-15,Delayed,608,0.61,1979268.63
+Unit-100,Northern Command,Transport Vehicle,172,Under Maintenance,4257.4,27,2026-07-25,Delayed,653,0.97,1132260.35
+Unit-109,Central Command,Engineering Equipment,9,Operational,4838.4,22,2026-02-19,In Transit,71,0.5,908063.15
+Unit-121,Central Command,Transport Vehicle,192,Awaiting Parts,2592.1,34,07/05/2026,Delayed,450,0.67,2381120.49
+Unit-112,Southern Command,COMMUNICATION EQUIPMENT,137,Operational,260.6,4,14/02/2026,Delayed,725,0.46,424397.24
+Unit-124,Eastern Command,Medical Unit,59,Decommissioned,67.8,2,05/05/2026,Delivered,429,0.79,1295040.48
+Unit-118,Eastern Command,Transport Vehicle,202,Decommissioned,1934.3,19,17/02/2026,In Transit,168,0.66,973647.7
+Unit-124,Northern Command,Engineering Equipment,75,Awaiting Parts,4147.3,25,27/03/2026,In Transit,538,0.61,548652.18
+Unit-109,Southern Command,Medical  Unit,248,Under Maintenance,1963.1,40,17/06/2026,Delayed,82,0.6,1568633.67
+Unit-121,Northern Command,Medical  Unit,45,Under Maintenance,4983.2,16,01/03/2026,Delivered,146,0.6,1886652.45
+Unit-124,Western Command,Communication Equipment,10,Awaiting Parts,2153.8,21,2026-04-04,Delivered,489,0.5,1350750.13
+Unit-106,Western Command,Medical Unit,72,Decommissioned,108.0,39,2026-05-04,Delivered,788,0.45,2488849.9
+Unit-112,Western Command,transport vehicle,88,Decommissioned,,38,2026-05-24,Delayed,729,0.65,773102.59
+Unit-103,Eastern Command,Transport Vehicle,100,,4394.0,34,01/08/2026,Delayed,425,0.91,344894.89
+Unit-109,Western Command,Communication Equipment,113,Operational,1655.4,20,2026-05-02,Cancelled,502,0.82,843857.71
+Unit-115,Central Command,Communication Equipment,139,Decommissioned,2337.0,26,17/02/2026,Delivered,728,0.67,1586618.36
+Unit-115,Central Command,Artillery Support,90,Decommissioned,1705.4,21,21-06-2026,,535,0.62,646383.9
+Unit-127,Western Command,Artillery Support,184,Operational,1756.4,22,15-06-2026,Cancelled,386,0.57,1745558.46
+Unit-109,Southern Command,Communication Equipment,157,Operational,2753.3,22,2026-06-23,Delivered,767,0.54,2209328.48
+Unit-103,Western Command,COMMUNICATION EQUIPMENT,105,Operational,4664.4,22,09/01/2026,Cancelled,618,0.59,1287013.36
+Unit-115,Northern Command,COMMUNICATION EQUIPMENT,46,Awaiting Parts,2094.6,1,26-05-2026,Delayed,264,0.9,50386.8
+Unit-127,Northern Command,Communication Equipment,218,Decommissioned,3413.5,28,04/02/2026,Delivered,661,0.99,1817918.47
+Unit-100,Northern Command,Communication Equipment,44,Decommissioned,4124.5,39,2026-04-21,Delivered,720,0.86,840913.77
+Unit-103,Northern Command,transport vehicle,243,Operational,4707.4,28,2026-08-04,Delivered,213,0.87,1638025.8
+Unit-118,Eastern Command,COMMUNICATION EQUIPMENT,123,Decommissioned,1104.1,1,27-01-2026,In Transit,322,0.98,1097726.76
+Unit-112,Central Command,Artillery Support,75,Decommissioned,2525.4,11,11-03-2026,Delivered,276,0.42,95163.05
+Unit-115,Southern Command,Engineering Equipment,103,Decommissioned,1625.4,26,2026-04-09,Cancelled,,0.63,1054432.52
+Unit-103,Western Command,Engineering Equipment,87,Under Maintenance,860.8,14,2026-05-02,In Transit,285,0.95,591831.91
+Unit-109,Northern Command,transport vehicle,57,Under Maintenance,440.1,18,26-04-2026,Delivered,29,0.74,699158.41
+Unit-100,Eastern Command,Medical Unit,192,Under Maintenance,2715.9,14,2026-05-13,Delayed,637,0.5,2187323.44
+Unit-118,Eastern Command,Artillery Support,88,Under Maintenance,2769.5,25,2026-06-16,In Transit,138,0.48,2265839.9
+Unit-109,Southern Command,Medical Unit,53,Under Maintenance,965.1,25,20-01-2026,In Transit,730,0.93,1657537.21
+Unit-118,Central Command,COMMUNICATION EQUIPMENT,167,Decommissioned,2936.4,29,23-02-2026,Delayed,339,0.54,1535346.89
+Unit-100,Northern Command,Engineering Equipment,91,Awaiting Parts,1364.3,15,18/01/2026,Delivered,791,0.76,2079371.64
+Unit-115,Northern Command,Medical  Unit,130,Operational,251.2,8,22/01/2026,In Transit,757,0.71,182949.08
+Unit-109,Southern Command,COMMUNICATION EQUIPMENT,162,Under Maintenance,1521.4,30,2026-05-10,Delayed,483,0.81,2358113.59
+Unit-121,Northern Command,transport vehicle,73,Operational,,31,2026-04-11,In Transit,382,0.98,261615.98
+Unit-127,Central Command,Medical Unit,229,Under Maintenance,541.6,17,30/03/2026,Cancelled,429,0.73,454977.73
+Unit-103,Central Command,Medical  Unit,183,Awaiting Parts,2043.8,31,14-01-2026,Delivered,426,0.86,532720.14
+Unit-127,Northern Command,Medical  Unit,63,Decommissioned,3307.7,37,24-06-2026,Delayed,466,0.45,2248978.93
+Unit-118,Northern Command,Communication Equipment,98,Awaiting Parts,4302.2,38,2026-05-27,In Transit,550,0.44,2233614.65
+Unit-124,Western Command,Medical Unit,224,Operational,3405.4,5,19-05-2026,Cancelled,49,0.79,1440818.4
+Unit-100,Northern Command,transport vehicle,192,Operational,2288.6,31,2026-07-19,Delayed,234,0.61,817834.21
+Unit-100,Central Command,Artillery Support,14,Operational,1452.2,27,12/06/2026,Delayed,653,0.76,240622.99
+Unit-100,Central Command,Engineering Equipment,69,Decommissioned,3892.0,30,2026-04-30,Delivered,699,0.63,608184.5
+Unit-127,Northern Command,COMMUNICATION EQUIPMENT,118,Under Maintenance,3135.3,30,19/03/2026,Delivered,741,0.57,1682292.18
+Unit-112,Central Command,transport vehicle,100,Under Maintenance,2320.2,40,2026-05-24,In Transit,308,0.49,1958542.76
+Unit-103,Northern Command,Transport Vehicle,51,Under Maintenance,1068.8,16,2026-03-06,In Transit,521,0.51,50445.09
+Unit-115,Western Command,COMMUNICATION EQUIPMENT,229,Operational,176.6,16,25-05-2026,In Transit,569,0.86,1369324.03
+Unit-118,Southern Command,transport vehicle,115,Decommissioned,934.9,0,08-06-2026,Cancelled,260,0.67,1565509.38
+Unit-121,Western Command,Medical  Unit,101,Under Maintenance,4371.5,39,2026-05-13,In Transit,357,0.72,812579.59
+Unit-106,Southern Command,transport vehicle,44,Decommissioned,2222.1,16,2026-05-29,Delayed,362,0.68,2218557.53
+Unit-106,Western Command,Engineering Equipment,199,Under Maintenance,393.2,18,12-05-2026,Delayed,783,0.78,2116907.05
+Unit-118,Eastern Command,Engineering Equipment,227,Decommissioned,4867.1,3,13/05/2026,Cancelled,350,0.48,1145645.94
+Unit-127,Eastern Command,transport vehicle,70,Awaiting Parts,4790.6,39,12-01-2026,In Transit,302,0.58,1817851.57
+Unit-118,Central Command,Artillery Support,83,Decommissioned,1788.8,27,11/05/2026,Cancelled,538,0.8,2274391.85
+Unit-121,Eastern Command,Communication Equipment,132,Decommissioned,1634.2,25,30/06/2026,Delivered,450,0.82,1400487.07
+Unit-121,Western Command,transport vehicle,207,Under Maintenance,2980.5,26,23-04-2026,Cancelled,572,0.8,1381435.87
+Unit-112,Central Command,Transport Vehicle,166,Awaiting Parts,710.6,22,18-04-2026,Cancelled,764,0.84,1463054.71
+Unit-106,Central Command,transport vehicle,249,Under Maintenance,1302.6,21,12/07/2026,Cancelled,448,0.97,1576934.87
+Unit-121,Northern Command,Communication Equipment,38,Awaiting Parts,3787.0,12,23/06/2026,In Transit,623,0.75,1906849.61
+Unit-103,Eastern Command,Transport Vehicle,87,Decommissioned,2230.3,1,09-04-2026,In Transit,544,0.98,326482.4
+Unit-103,Central Command,Artillery Support,184,Awaiting Parts,2198.8,14,14-05-2026,Cancelled,,0.72,492276.65
+Unit-103,Southern Command,COMMUNICATION EQUIPMENT,58,Operational,1263.9,33,2026-04-14,In Transit,259,0.97,726212.96
+Unit-121,Eastern Command,transport vehicle,33,,508.4,15,09-04-2026,Cancelled,462,0.97,2129275.01
+Unit-127,Western Command,Medical  Unit,191,,2855.1,23,07-05-2026,Delayed,80,0.79,310912.81
+Unit-109,Northern Command,Engineering Equipment,15,Under Maintenance,1567.4,34,12-03-2026,In Transit,267,0.56,1123266.17
+Unit-124,Southern Command,Medical  Unit,172,Awaiting Parts,2565.3,35,09-06-2026,Delivered,194,0.89,2217208.72
+Unit-118,Southern Command,transport vehicle,81,Under Maintenance,4969.5,29,2026-06-15,Cancelled,292,0.54,2039324.6
+Unit-121,Northern Command,COMMUNICATION EQUIPMENT,27,Under Maintenance,2054.3,35,11/04/2026,Delayed,699,0.56,2297377.46
+Unit-115,Southern Command,Engineering Equipment,156,Operational,634.4,26,12-02-2026,Delayed,520,0.65,2406946.75
+Unit-106,Northern Command,Engineering Equipment,151,Operational,2494.8,26,2026-05-27,Delayed,357,0.66,1082251.43
+Unit-127,Western Command,Communication Equipment,245,Decommissioned,954.2,10,2026-04-05,Delayed,196,0.42,676862.37
+Unit-100,Southern Command,COMMUNICATION EQUIPMENT,76,Under Maintenance,440.2,32,15-05-2026,Cancelled,705,0.77,1962837.1
+Unit-127,Western Command,Engineering Equipment,135,Operational,1777.7,27,24-04-2026,Cancelled,540,0.43,1760725.2
+Unit-127,Northern Command,transport vehicle,237,Decommissioned,3790.5,3,2026-03-13,Delivered,697,0.57,2342195.23
+Unit-103,Northern Command,Communication Equipment,247,Decommissioned,3770.4,29,2026-04-16,In Transit,230,0.72,1487863.32
+Unit-103,Western Command,Engineering Equipment,93,Awaiting Parts,2042.3,33,2026-08-08,Delayed,65,0.95,1258508.1
+Unit-103,Central Command,Engineering Equipment,94,Awaiting Parts,1151.0,25,2026-04-04,Delayed,753,0.66,1133847.34
+Unit-103,Southern Command,COMMUNICATION EQUIPMENT,110,Awaiting Parts,,2,26/02/2026,Delivered,483,0.99,635156.08
+Unit-103,Western Command,Engineering Equipment,147,Awaiting Parts,1086.6,7,25-01-2026,Delayed,595,0.99,2080396.85
+Unit-115,Northern Command,Transport Vehicle,26,,2559.7,12,07-04-2026,Delayed,739,0.82,429411.1
+Unit-100,Western Command,Engineering Equipment,172,Awaiting Parts,1538.5,5,22-02-2026,In Transit,586,0.96,2036198.9
+Unit-121,Southern Command,Artillery Support,92,Awaiting Parts,3904.0,24,18/03/2026,Delayed,226,0.4,1728706.72
+Unit-100,Central Command,Engineering Equipment,216,Decommissioned,2843.6,9,2026-07-30,In Transit,113,0.48,1762422.54
+Unit-124,Northern Command,Medical Unit,67,Awaiting Parts,2466.3,10,01-03-2026,In Transit,,0.93,1851707.36
+Unit-124,Eastern Command,transport vehicle,41,Decommissioned,4762.7,5,2026-05-06,Delayed,458,0.86,1454652.63
+Unit-115,Northern Command,Transport Vehicle,216,Decommissioned,82166.5,4,2026-06-19,Cancelled,366,0.44,71554.9
+Unit-115,Southern Command,Artillery Support,67,Operational,2251.9,1,2026-01-23,Delivered,240,0.68,1199120.89
+Unit-112,Northern Command,Medical Unit,153,Operational,1455.1,27,31-01-2026,,128,0.96,971669.54
+Unit-106,Southern Command,Medical  Unit,202,Under Maintenance,,7,07/08/2026,Cancelled,769,0.78,503767.89
+Unit-121,Eastern Command,Transport Vehicle,156,Decommissioned,477.2,39,2026-06-26,Delayed,655,0.64,2123560.88
+Unit-106,Southern Command,Artillery Support,56,Decommissioned,909.3,23,2026-04-06,In Transit,561,0.72,39256647.16
+Unit-115,Central Command,Transport Vehicle,152,Under Maintenance,3521.1,31,03-02-2026,Delivered,644,0.43,2489732.36
+Unit-127,Eastern Command,Medical  Unit,249,Under Maintenance,1590.2,13,04/05/2026,In Transit,149,0.62,1300717.07
+Unit-109,Central Command,transport vehicle,118,Awaiting Parts,3083.4,30,29-07-2026,Delivered,268,0.6,512570.01
+Unit-127,Southern Command,Engineering Equipment,241,Decommissioned,4372.9,1,23/03/2026,In Transit,,0.65,1789852.61
+Unit-127,Eastern Command,Transport Vehicle,65,Awaiting Parts,1940.1,3,2026-01-04,Cancelled,450,0.78,1703466.06
+Unit-106,Southern Command,Communication Equipment,48,Awaiting Parts,4111.0,22,2026-01-26,Delivered,244,0.62,2358243.31
+Unit-127,Central Command,Medical Unit,85,Awaiting Parts,1152.6,40,28/07/2026,Delayed,273,0.67,2052711.1
+Unit-106,Northern Command,Engineering Equipment,130,Operational,1710.0,6,14/05/2026,Delayed,542,0.64,610863.63
+Unit-127,Southern Command,COMMUNICATION EQUIPMENT,213,Under Maintenance,616.7,18,04-01-2026,Cancelled,231,0.43,2244739.42
+Unit-103,Central Command,COMMUNICATION EQUIPMENT,79,Operational,4323.2,6,2026-04-20,,621,0.9,2163258.73
+Unit-109,Central Command,Medical  Unit,221,Under Maintenance,1161.3,17,2026-04-30,Delivered,427,0.56,2308486.85
+Unit-106,Western Command,Engineering Equipment,54,Awaiting Parts,3305.7,14,2026-06-26,Cancelled,550,0.46,944898.44
+Unit-109,Western Command,Medical  Unit,199,Decommissioned,880.4,22,2026-05-23,In Transit,141,0.84,1130181.5
+Unit-127,Eastern Command,Engineering Equipment,154,Under Maintenance,,31,30/05/2026,Delivered,306,0.54,809733.67
+Unit-124,Southern Command,COMMUNICATION EQUIPMENT,150,Decommissioned,1408.8,26,30-07-2026,Delayed,696,0.43,578484.82
+Unit-100,Eastern Command,Engineering Equipment,239,Awaiting Parts,289.6,23,24/03/2026,Cancelled,314,0.77,125904.33
+Unit-100,Eastern Command,Artillery Support,101,Decommissioned,1058.2,0,2026-04-22,,136,0.89,1045233.33
+Unit-115,Southern Command,COMMUNICATION EQUIPMENT,57,Under Maintenance,3384.3,29,2026-05-01,Delivered,507,0.47,1399811.48
+Unit-121,Central Command,Transport Vehicle,101,Decommissioned,3978.6,21,31-07-2026,Cancelled,109,0.54,1696238.76
+Unit-103,Eastern Command,Communication Equipment,50,Operational,1369.5,27,23-01-2026,In Transit,602,0.82,1312177.3
+Unit-115,Eastern Command,COMMUNICATION EQUIPMENT,89,,3303.9,38,28-05-2026,Delayed,778,0.77,2042962.52
+Unit-127,Eastern Command,Communication Equipment,131,Decommissioned,655.6,13,23-04-2026,Cancelled,391,0.41,609195.96
+Unit-109,Southern Command,Transport Vehicle,17,Decommissioned,2475.3,25,2026-04-09,Delayed,36,0.9,30265923.36
+Unit-124,Southern Command,Engineering Equipment,195,Under Maintenance,2382.0,29,08-08-2026,,61,0.46,2370860.34
+Unit-106,Northern Command,Medical  Unit,103,Awaiting Parts,2191.0,39,01-04-2026,Cancelled,440,0.4,362787.55
+Unit-103,Western Command,transport vehicle,199,Operational,2051.6,3,2026-04-06,Delivered,738,0.76,572177.57
+Unit-127,Southern Command,Communication Equipment,146,Operational,4315.4,10,13/04/2026,Delayed,754,0.79,1745478.79
+Unit-100,Western Command,Communication Equipment,220,Awaiting Parts,1725.3,35,29-04-2026,Delayed,27,0.55,2269198.93
+Unit-112,Northern Command,Communication Equipment,7,Decommissioned,4871.3,26,11-07-2026,In Transit,36,0.95,1852556.86
+Unit-100,Western Command,COMMUNICATION EQUIPMENT,206,Decommissioned,3733.7,16,07-05-2026,In Transit,632,0.84,2426826.05
+Unit-103,Northern Command,Artillery Support,172,Awaiting Parts,4271.7,5,06/06/2026,Cancelled,503,0.99,974733.68
+Unit-109,Central Command,COMMUNICATION EQUIPMENT,159,Under Maintenance,1802.6,10,27/03/2026,In Transit,279,0.68,2187551.64
+Unit-100,Southern Command,Medical  Unit,80,Operational,1566.7,36,17-05-2026,Delivered,60,0.92,416878.36
+Unit-103,Southern Command,Engineering Equipment,225,Operational,3050.4,27,24/04/2026,In Transit,103,0.84,1639419.38
+Unit-109,Central Command,Engineering Equipment,68,Decommissioned,4295.6,22,14/05/2026,Cancelled,604,0.53,398119.44
+Unit-121,Northern Command,Medical  Unit,83,Decommissioned,342.7,33,26/02/2026,In Transit,674,0.54,1107291.29
+Unit-103,Central Command,Transport Vehicle,159,Under Maintenance,2507.3,34,20-04-2026,Cancelled,619,0.95,935876.77
+Unit-118,Southern Command,Medical  Unit,70,Awaiting Parts,1540.7,34,2026-08-01,Delayed,521,0.51,550412.5
+Unit-118,Eastern Command,Communication Equipment,247,Awaiting Parts,4185.9,13,2026-06-12,Delayed,398,0.86,787073.08
+Unit-124,Eastern Command,Communication Equipment,120,Under Maintenance,2227.9,32,03-02-2026,Cancelled,611,0.57,646331.69
+Unit-121,Southern Command,Engineering Equipment,234,Decommissioned,4083.3,8,2026-05-08,Delivered,776,0.58,1745669.35
+Unit-112,Southern Command,Artillery Support,22,Operational,2735.7,36,2026-01-15,Cancelled,,0.51,1058371.68
+Unit-109,Central Command,Artillery Support,118,,1987.4,9,23/02/2026,Delivered,,0.94,2393399.11
+Unit-124,Southern Command,Medical  Unit,33,Decommissioned,4742.2,1,22-06-2026,Cancelled,60,0.55,1296675.33
+Unit-106,Central Command,Medical Unit,44,Operational,820.6,36,2026-05-16,Cancelled,364,0.92,1335308.43
+Unit-118,Northern Command,Artillery Support,105,Operational,,18,04-04-2026,Delayed,292,0.8,858935.17
+Unit-127,Western Command,Artillery Support,114,Under Maintenance,4388.2,21,14-02-2026,In Transit,433,0.91,2452858.49
+Unit-112,Eastern Command,COMMUNICATION EQUIPMENT,148,Under Maintenance,1603.6,1,2026-03-23,Cancelled,146,0.97,1165359.62
+Unit-100,Eastern Command,Engineering Equipment,86,Under Maintenance,1340.3,6,23-03-2026,Cancelled,136,0.49,1307971.24
+Unit-106,Central Command,Transport Vehicle,42,Awaiting Parts,2366.4,36,08/05/2026,In Transit,496,0.62,1076101.19
+Unit-115,Eastern Command,Communication Equipment,47,Decommissioned,3985.4,16,2026-02-14,In Transit,650,0.95,1781226.3
+Unit-118,Northern Command,Artillery Support,53,Under Maintenance,604.3,2,06/08/2026,Delivered,789,0.78,754044.47
+Unit-109,Eastern Command,COMMUNICATION EQUIPMENT,53,Decommissioned,3528.1,14,2026-03-21,In Transit,774,0.63,612606.76
+Unit-118,Northern Command,COMMUNICATION EQUIPMENT,170,Under Maintenance,3214.0,5,2026-06-17,Cancelled,732,0.56,2471184.91
+Unit-127,Central Command,Communication Equipment,27,Awaiting Parts,1239.7,37,18/04/2026,In Transit,403,0.97,1019217.89
+Unit-127,Western Command,Transport Vehicle,137,Awaiting Parts,1415.2,40,30-06-2026,In Transit,549,0.69,1775709.38
+Unit-118,Northern Command,Transport Vehicle,219,Under Maintenance,2910.2,25,24/02/2026,In Transit,715,0.87,2104086.68
+Unit-100,Central Command,Artillery Support,99,Decommissioned,1236.3,21,2026-03-06,In Transit,,0.96,657597.84
+Unit-124,Eastern Command,Communication Equipment,25,Decommissioned,1735.1,23,30-01-2026,In Transit,756,0.58,656213.85
+Unit-103,Western Command,Medical Unit,185,Under Maintenance,3055.3,29,12-05-2026,Cancelled,488,0.66,1241965.49
+Unit-115,Western Command,Medical  Unit,207,Decommissioned,2221.0,23,29/04/2026,Cancelled,,0.95,1927604.22
+Unit-106,Eastern Command,Artillery Support,137,Awaiting Parts,3200.4,39,2026-07-27,,,0.84,605511.75
+Unit-106,Western Command,Communication Equipment,77,Awaiting Parts,2650.2,1,2026-05-14,Delayed,712,0.52,150328.43
+Unit-103,Northern Command,COMMUNICATION EQUIPMENT,186,Decommissioned,2749.7,3,13-04-2026,Delivered,26,0.43,2063805.0
+Unit-109,Western Command,Medical  Unit,43,Awaiting Parts,4084.6,3,08-01-2026,Delayed,348,0.81,1705461.02
+Unit-121,Western Command,Medical Unit,200,Decommissioned,4020.1,8,09-05-2026,In Transit,292,0.45,332387.93
+Unit-112,Western Command,Engineering Equipment,73,Operational,1691.1,31,2026-03-05,In Transit,719,0.77,2394230.01
+Unit-109,Western Command,Communication Equipment,45,Awaiting Parts,2801.6,20,03-03-2026,In Transit,603,0.52,99200.23
+Unit-100,Southern Command,transport vehicle,229,Under Maintenance,1344.6,3,2026-01-31,In Transit,563,0.89,1713257.34
+Unit-103,Eastern Command,Artillery Support,227,Decommissioned,,0,13-04-2026,,532,0.99,775722.52
+Unit-103,Northern Command,COMMUNICATION EQUIPMENT,83,Under Maintenance,1342.5,28,2026-06-15,Cancelled,571,0.9,1418702.43
+Unit-100,Eastern Command,Medical  Unit,60,Operational,2411.4,32,07/08/2026,Cancelled,708,1.0,1571989.6
+Unit-121,Central Command,Medical  Unit,241,,1554.2,30,26-05-2026,Delayed,787,0.73,2163280.21
+Unit-127,Southern Command,Artillery Support,97,Decommissioned,3439.9,38,2026-07-17,Cancelled,310,0.81,837738.41
+Unit-109,Central Command,transport vehicle,26,Decommissioned,2728.1,30,2026-05-12,In Transit,554,0.61,1868169.33
+Unit-103,Western Command,COMMUNICATION EQUIPMENT,215,Under Maintenance,247.3,31,08/08/2026,Cancelled,452,0.46,2188672.16
+Unit-112,Eastern Command,Medical  Unit,209,Under Maintenance,3991.4,1,20/06/2026,Delivered,494,0.78,1529721.74
+Unit-118,Eastern Command,transport vehicle,181,Under Maintenance,64393.2,34,2026-04-10,Delivered,370,0.72,920451.98
+Unit-127,Eastern Command,Artillery Support,2,Operational,421.2,7,24/06/2026,Delayed,552,0.63,2460139.12
+Unit-100,Central Command,Medical Unit,219,Awaiting Parts,2537.2,6,13-07-2026,Cancelled,749,0.65,1035820.95
+Unit-112,Eastern Command,Medical Unit,163,Operational,2719.6,1,2026-03-03,In Transit,36,0.94,2166704.56
+Unit-112,Southern Command,Artillery Support,121,Under Maintenance,2525.9,14,19-01-2026,Cancelled,91,0.64,917525.03
+Unit-106,Northern Command,Transport Vehicle,11,Under Maintenance,3478.5,40,11/01/2026,Delivered,774,0.43,2148420.05
+Unit-115,Western Command,COMMUNICATION EQUIPMENT,85,Decommissioned,697.0,36,23/04/2026,Delivered,677,0.76,2098383.05
+Unit-109,Northern Command,Artillery Support,239,Operational,1373.9,32,24/03/2026,Cancelled,434,1.0,115875.72
+Unit-127,Central Command,Artillery Support,37,Decommissioned,1037.6,38,14/06/2026,Cancelled,647,0.5,45332974.29
+Unit-103,Western Command,Communication Equipment,225,Decommissioned,4651.8,3,10/01/2026,Delayed,368,0.98,1112527.36
+Unit-115,Central Command,Artillery Support,87,Operational,684.4,5,2026-03-15,In Transit,333,0.88,1736656.61
+Unit-106,Central Command,Medical Unit,71,Decommissioned,1766.9,5,19/05/2026,Cancelled,410,0.52,1887951.16
+Unit-115,Western Command,Transport Vehicle,117,Decommissioned,2020.4,25,27-01-2026,Cancelled,83,0.51,2462435.62
+Unit-118,Northern Command,Artillery Support,139,Decommissioned,2035.2,8,2026-07-11,In Transit,772,0.82,981215.94
+Unit-127,Central Command,transport vehicle,246,Operational,3573.6,31,22/05/2026,Delayed,29,0.6,1799078.12
+Unit-112,Central Command,COMMUNICATION EQUIPMENT,133,Under Maintenance,3254.7,11,06-05-2026,In Transit,276,0.66,2245959.75
+Unit-109,Eastern Command,COMMUNICATION EQUIPMENT,67,Under Maintenance,4629.1,6,10-04-2026,Cancelled,,0.43,1829858.64
+Unit-115,Central Command,COMMUNICATION EQUIPMENT,199,Decommissioned,2655.5,35,25-05-2026,Delivered,580,0.69,1667378.73
+Unit-109,Western Command,Transport Vehicle,65,Under Maintenance,1500.2,15,15/07/2026,In Transit,285,0.73,2093777.74
+Unit-127,Southern Command,Communication Equipment,89,Operational,200.3,11,14-04-2026,Delayed,793,0.73,1476133.94
+Unit-106,Southern Command,Medical  Unit,97,Decommissioned,4156.1,14,13-03-2026,Delayed,156,0.82,1020427.95
+Unit-124,Eastern Command,COMMUNICATION EQUIPMENT,108,Operational,1514.2,30,07-02-2026,Delayed,647,0.51,1671860.55
+Unit-109,Eastern Command,Communication Equipment,98,Decommissioned,1302.3,6,21-06-2026,Cancelled,318,0.44,1493823.27
+Unit-112,Eastern Command,Communication Equipment,22,Operational,2456.9,20,13/01/2026,Cancelled,513,0.88,559600.33
+Unit-109,Eastern Command,COMMUNICATION EQUIPMENT,118,Under Maintenance,1653.0,1,28/01/2026,Delivered,87,0.88,2288457.76
+Unit-127,Western Command,Medical  Unit,198,Decommissioned,,5,14-06-2026,Delayed,175,0.78,1096149.51
+Unit-124,Central Command,Transport Vehicle,59,Under Maintenance,2267.9,10,2026-01-24,Delivered,777,0.53,1804423.24
+Unit-109,Eastern Command,Engineering Equipment,72,Operational,161.3,15,15/05/2026,Delayed,337,0.58,1408511.24
+Unit-115,Western Command,Transport Vehicle,86,Decommissioned,465.3,17,09/05/2026,Delayed,274,0.7,62128.8
+Unit-124,Northern Command,Artillery Support,49,Awaiting Parts,258.9,6,10-05-2026,Delivered,798,0.94,205253.65
+Unit-124,Southern Command,Engineering Equipment,147,Under Maintenance,2662.0,22,2026-02-26,Delivered,779,0.65,788106.14
+Unit-127,Central Command,Medical Unit,180,Under Maintenance,1495.7,6,21/07/2026,Cancelled,498,0.66,1699703.0
+Unit-100,Eastern Command,Artillery Support,31,Operational,988.4,37,2026-02-19,In Transit,544,0.92,1150328.95
+Unit-124,Eastern Command,Communication Equipment,180,Operational,3140.0,30,24/02/2026,In Transit,29,0.67,883074.77
+Unit-124,Northern Command,transport vehicle,31,Under Maintenance,3539.5,9,17-01-2026,Delayed,117,0.88,2392027.89
+Unit-118,Southern Command,COMMUNICATION EQUIPMENT,58,Operational,4030.6,34,26/03/2026,In Transit,93,0.79,1460228.21
+Unit-100,Southern Command,Communication Equipment,83,Under Maintenance,897.1,19,18/05/2026,Delayed,547,0.56,2284797.0
+Unit-109,Eastern Command,Transport Vehicle,7,,4219.3,27,08-08-2026,Cancelled,402,0.9,1485381.08
+Unit-112,Southern Command,Medical Unit,183,Operational,4923.3,1,03-06-2026,In Transit,38,0.44,695504.3
+Unit-109,Western Command,Medical Unit,39,Awaiting Parts,3862.4,13,2026-02-20,In Transit,745,0.99,2493369.81
+Unit-121,Northern Command,Artillery Support,231,Awaiting Parts,2526.9,0,19/02/2026,Delayed,83,0.59,1308923.1
+Unit-115,Eastern Command,transport vehicle,42,Decommissioned,4138.1,34,2026-03-30,Delayed,548,0.88,201033.74
+Unit-124,Western Command,Medical Unit,135,Operational,4370.4,11,2026-06-05,Delayed,196,0.48,1566798.04
+Unit-124,Eastern Command,transport vehicle,87,Decommissioned,4356.4,13,22-01-2026,Delayed,684,0.69,745884.14
+Unit-127,Southern Command,COMMUNICATION EQUIPMENT,213,Under Maintenance,616.7,18,04-01-2026,Cancelled,231,0.43,2244739.42
+Unit-103,Southern Command,transport vehicle,165,Decommissioned,89631.2,2,2026-05-30,Delayed,662,0.81,142791.32
+Unit-118,Western Command,Engineering Equipment,82,Under Maintenance,712.3,10,25-04-2026,Delayed,149,0.58,382023.93
+Unit-127,Central Command,COMMUNICATION EQUIPMENT,85,Awaiting Parts,1958.3,31,07-07-2026,Delivered,531,0.74,557134.87
+Unit-124,Central Command,COMMUNICATION EQUIPMENT,248,,4054.0,0,2026-08-03,In Transit,331,0.74,1969755.45
+Unit-106,Central Command,COMMUNICATION EQUIPMENT,196,Operational,993.7,23,22-06-2026,,674,0.89,1409540.51
+Unit-121,Central Command,Artillery Support,179,Awaiting Parts,4617.8,12,04-08-2026,Delayed,446,0.47,1133189.32
+Unit-106,Western Command,Engineering Equipment,65,Awaiting Parts,1934.3,19,2026-02-04,In Transit,706,0.89,895931.58
+Unit-127,Eastern Command,transport vehicle,112,Under Maintenance,2152.8,9,20/06/2026,Cancelled,301,0.52,738591.78
+Unit-121,Central Command,Medical  Unit,127,Under Maintenance,74.7,19,2026-02-22,Cancelled,671,0.97,691565.14
+Unit-109,Southern Command,Medical  Unit,248,Under Maintenance,1963.1,40,17/06/2026,Delayed,82,0.6,1568633.67
+Unit-121,Southern Command,Engineering Equipment,238,Under Maintenance,2954.6,9,19/03/2026,In Transit,278,0.84,1400612.61
+Unit-106,Eastern Command,Medical Unit,210,Decommissioned,53542.6,16,2026-04-14,Cancelled,737,0.6,733702.64
+Unit-118,Eastern Command,Engineering Equipment,91,Under Maintenance,2481.2,18,2026-04-29,In Transit,400,0.72,1276225.37
+Unit-124,Central Command,Communication Equipment,177,Decommissioned,3882.4,14,2026-06-03,In Transit,173,0.46,1969722.39
+Unit-127,Northern Command,transport vehicle,50,Decommissioned,3138.8,1,2026-01-14,Cancelled,616,0.86,157612.85
+Unit-127,Central Command,Transport Vehicle,102,Operational,3895.7,21,2026-04-13,In Transit,752,0.66,2453991.24
+Unit-115,Eastern Command,Medical  Unit,44,Operational,64.2,17,21-01-2026,Cancelled,146,0.74,1909072.16
+Unit-100,Northern Command,Artillery Support,186,Operational,1143.8,18,24/02/2026,Cancelled,649,0.52,500664.23
+Unit-127,Southern Command,Medical Unit,4,Under Maintenance,2516.2,18,2026-07-25,Delayed,169,0.87,1802519.62
+Unit-115,Southern Command,Engineering Equipment,43,Awaiting Parts,1408.3,17,2026-03-08,Delivered,603,0.66,833999.91
+Unit-118,Eastern Command,Medical  Unit,54,Decommissioned,3931.2,35,2026-06-03,Cancelled,57,0.68,2227549.35
+Unit-106,Western Command,Medical Unit,148,Decommissioned,2898.3,11,03-01-2026,In Transit,725,0.79,2393506.83
+Unit-127,Western Command,COMMUNICATION EQUIPMENT,7,Operational,3364.5,12,29/05/2026,Cancelled,366,0.61,722393.55
+Unit-112,Northern Command,Engineering Equipment,83,Operational,3716.7,29,26/07/2026,Delayed,473,0.46,905058.91
+Unit-100,Western Command,Medical Unit,47,Under Maintenance,,40,08/07/2026,Delivered,476,0.72,1717730.96
+Unit-121,Southern Command,Artillery Support,160,Operational,4133.0,30,25-05-2026,Delayed,33,0.52,1477111.67
+Unit-115,Eastern Command,COMMUNICATION EQUIPMENT,89,,3303.9,38,28-05-2026,Delayed,778,0.77,2042962.52
+Unit-115,Central Command,Medical Unit,126,Operational,3358.8,9,04-06-2026,Delayed,207,0.41,1640691.99
+Unit-103,Northern Command,transport vehicle,207,Awaiting Parts,1004.5,19,2026-01-23,In Transit,149,0.89,1027483.24
+Unit-109,Northern Command,Engineering Equipment,181,Under Maintenance,125.3,17,2026-01-18,Delayed,540,0.43,1984321.06
+Unit-121,Western Command,Artillery Support,35,Decommissioned,2331.6,15,11/07/2026,Delivered,320,0.58,1438866.31
+Unit-115,Western Command,COMMUNICATION EQUIPMENT,197,Awaiting Parts,2308.3,20,13/04/2026,Cancelled,141,0.43,2098633.1
+Unit-112,Western Command,Transport Vehicle,161,Operational,3235.6,2,18/05/2026,Delayed,530,0.8,391281.77
+Unit-121,Southern Command,Medical Unit,107,Under Maintenance,1460.4,22,23/04/2026,Delayed,798,0.66,1882003.43
+Unit-100,Northern Command,Transport Vehicle,47,Decommissioned,176.8,30,25/03/2026,Delivered,572,0.68,1254348.37
+Unit-109,Northern Command,Engineering Equipment,44,Decommissioned,56.4,12,2026-03-15,Delivered,376,0.69,1254136.03
+Unit-124,Eastern Command,Medical  Unit,169,Decommissioned,3563.9,9,04-04-2026,Delayed,487,0.95,1412512.03
+Unit-115,Northern Command,Engineering Equipment,204,Decommissioned,309.5,7,2026-02-11,Cancelled,580,0.81,1880295.71
+Unit-121,Eastern Command,Medical Unit,157,Operational,2493.8,13,16-07-2026,Delayed,776,0.55,1007826.77
+Unit-124,Central Command,Communication Equipment,169,Operational,3741.4,30,2026-03-06,In Transit,260,0.84,552782.94
+Unit-127,Northern Command,Communication Equipment,225,Decommissioned,2122.4,38,18-03-2026,Delayed,363,0.73,253593.32
+Unit-106,Northern Command,COMMUNICATION EQUIPMENT,188,Under Maintenance,,28,20/06/2026,Cancelled,651,0.48,1755014.78
+Unit-106,Southern Command,transport vehicle,66,Awaiting Parts,3563.5,29,25-05-2026,Cancelled,334,0.83,609660.21
+Unit-127,Northern Command,Engineering Equipment,53,Decommissioned,1620.4,4,05/03/2026,In Transit,685,0.49,608096.62
+Unit-115,Western Command,COMMUNICATION EQUIPMENT,28,Operational,4024.3,13,09/04/2026,In Transit,213,0.71,62628.93
+Unit-115,Southern Command,Artillery Support,146,Decommissioned,73195.7,26,27-03-2026,Delayed,343,0.94,517614.08
+Unit-109,Western Command,Engineering Equipment,195,Decommissioned,4664.7,1,27/02/2026,,244,0.86,2140185.68
+Unit-100,Central Command,Artillery Support,20,Under Maintenance,1692.3,19,09/06/2026,Delayed,32,0.69,1240205.22
+Unit-127,Northern Command,transport vehicle,67,Decommissioned,1682.2,16,26-07-2026,Delayed,206,0.53,1326012.9
+Unit-103,Eastern Command,COMMUNICATION EQUIPMENT,134,Operational,766.9,6,03/07/2026,Delivered,52,0.57,1931417.16
+Unit-112,Western Command,Medical Unit,61,Decommissioned,59743.5,4,16/02/2026,Delayed,242,0.69,2093146.74
+Unit-124,Eastern Command,Engineering Equipment,165,Under Maintenance,472.8,32,2026-01-04,In Transit,261,0.91,546802.15
+Unit-100,Eastern Command,Medical Unit,234,Under Maintenance,3240.1,39,12/05/2026,Cancelled,156,0.68,395198.62
+Unit-118,Eastern Command,Communication Equipment,146,Under Maintenance,357.2,18,04-01-2026,Delayed,383,0.62,1820471.47
+Unit-115,Northern Command,Medical  Unit,125,Under Maintenance,217.8,26,2026-06-10,In Transit,116,0.92,947087.91
+Unit-127,Western Command,Medical Unit,105,Under Maintenance,2570.5,2,2026-01-15,Delivered,597,0.46,904157.49
+Unit-106,Central Command,transport vehicle,143,Decommissioned,231.3,5,03/03/2026,Delivered,752,0.74,472520.25
+Unit-124,Southern Command,Engineering Equipment,89,Decommissioned,845.7,5,01/07/2026,In Transit,633,0.66,524716.38
+Unit-109,Northern Command,transport vehicle,26,,1113.8,11,28-07-2026,In Transit,106,0.89,1181385.08
+Unit-106,Western Command,Engineering Equipment,95,Operational,1677.3,37,01-04-2026,Cancelled,632,0.85,2367319.92
+Unit-121,Western Command,Engineering Equipment,228,Under Maintenance,1751.6,20,12/07/2026,Delivered,651,0.72,1303705.26
+Unit-121,Western Command,Transport Vehicle,172,Under Maintenance,69877.7,25,2026-05-19,In Transit,587,0.6,999350.25
+Unit-106,Western Command,Transport Vehicle,154,Decommissioned,4512.9,5,2026-04-26,Delivered,312,0.66,394187.51
+Unit-115,Southern Command,Communication Equipment,65,Decommissioned,3702.7,23,09-03-2026,In Transit,611,0.49,860530.69
+Unit-112,Southern Command,transport vehicle,188,Under Maintenance,3659.9,22,01-07-2026,Cancelled,388,0.45,932926.27
+Unit-115,Northern Command,Engineering Equipment,73,Operational,2588.7,17,2026-02-05,In Transit,139,0.78,888588.18
+Unit-127,Western Command,COMMUNICATION EQUIPMENT,14,Operational,961.3,28,02-07-2026,Delivered,101,0.96,856644.76
+Unit-103,Western Command,Artillery Support,117,Operational,4374.2,26,10-06-2026,Delivered,51,0.64,542742.44
+Unit-112,Southern Command,COMMUNICATION EQUIPMENT,184,,3683.3,8,2026-07-11,Cancelled,129,0.92,1306959.45
+Unit-115,Western Command,COMMUNICATION EQUIPMENT,163,Decommissioned,4480.9,7,14-05-2026,In Transit,518,0.98,988580.48
+Unit-112,Central Command,Communication Equipment,174,Operational,144.5,27,21-03-2026,Delayed,165,0.66,940658.5
+Unit-124,Southern Command,Communication Equipment,192,Operational,3950.5,38,11-04-2026,Delivered,54,0.42,1469134.28
+Unit-109,Central Command,Medical  Unit,15,Under Maintenance,3569.7,30,2026-08-09,Cancelled,617,0.48,1047026.74
+Unit-124,Southern Command,COMMUNICATION EQUIPMENT,150,Decommissioned,1408.8,26,30-07-2026,Delayed,696,0.43,578484.82
+Unit-121,Eastern Command,transport vehicle,211,Under Maintenance,2413.8,40,2026-04-04,In Transit,246,0.84,491587.19
+Unit-118,Northern Command,Transport Vehicle,67,Decommissioned,3178.6,12,2026-05-01,In Transit,464,0.83,1834387.05
+Unit-115,Southern Command,Artillery Support,83,Awaiting Parts,4627.9,10,2026-04-23,Cancelled,556,0.84,1390383.19
+Unit-106,Northern Command,Medical Unit,24,Decommissioned,4330.4,40,09/02/2026,In Transit,754,0.47,2029042.38
+Unit-100,Eastern Command,Communication Equipment,165,Awaiting Parts,3157.3,16,2026-06-17,Delivered,161,0.85,111967.96
+Unit-103,Western Command,Artillery Support,51,Decommissioned,3097.8,11,08-06-2026,Cancelled,652,0.81,2034493.68
+Unit-124,Eastern Command,Artillery Support,98,Awaiting Parts,78431.0,8,03/04/2026,Cancelled,545,0.72,556832.32
+Unit-115,Northern Command,Artillery Support,83,Awaiting Parts,4345.3,1,16-06-2026,Cancelled,644,0.81,877548.3
+Unit-109,Central Command,Communication Equipment,71,Decommissioned,788.3,8,2026-05-14,In Transit,791,0.43,624059.99
+Unit-109,Western Command,Artillery Support,127,Awaiting Parts,69230.0,21,06-07-2026,Cancelled,67,0.78,474924.86
+Unit-106,Central Command,transport vehicle,51,Decommissioned,1706.1,26,09-06-2026,Delivered,582,0.53,1490661.83
+Unit-121,Northern Command,Communication Equipment,146,Awaiting Parts,3067.0,9,26-03-2026,Cancelled,39,0.72,297190.81
+Unit-127,Eastern Command,Communication Equipment,210,Decommissioned,,2,31-01-2026,Delayed,149,0.95,1897658.58
+Unit-121,Western Command,Communication Equipment,107,Decommissioned,4037.7,3,10-07-2026,Delayed,688,0.68,2066149.18
+Unit-100,Central Command,Engineering Equipment,94,,1453.2,35,2026-02-22,Delayed,764,0.92,1279400.99
+Unit-127,Western Command,Engineering Equipment,92,Decommissioned,3272.9,14,22-05-2026,In Transit,202,0.79,2322412.36
+Unit-115,Northern Command,Transport Vehicle,225,Operational,2809.2,28,21/03/2026,Delayed,,0.76,1174248.15
+Unit-115,Northern Command,Medical  Unit,97,Awaiting Parts,256.7,18,15-04-2026,In Transit,380,0.54,2131759.25
+Unit-106,Central Command,Medical  Unit,207,Under Maintenance,,38,02/05/2026,In Transit,179,0.73,370910.44
+Unit-106,Southern Command,Medical Unit,112,Awaiting Parts,55170.5,33,08/02/2026,In Transit,124,0.44,1595659.2
+Unit-106,Northern Command,Medical  Unit,168,Operational,101.4,25,16-04-2026,Delayed,537,0.68,2053821.68
+Unit-127,Northern Command,transport vehicle,44,Awaiting Parts,3739.9,21,25/07/2026,Delivered,281,0.47,963885.41
+Unit-127,Western Command,Transport Vehicle,227,Awaiting Parts,743.6,10,08/02/2026,Delivered,800,0.92,1863019.57
+Unit-106,Eastern Command,Artillery Support,63,Under Maintenance,4230.1,29,2026-07-19,Delivered,210,0.95,1770977.7
+Unit-103,Northern Command,COMMUNICATION EQUIPMENT,201,Under Maintenance,2416.3,11,22/04/2026,In Transit,108,0.88,2430560.36
+Unit-112,Western Command,Engineering Equipment,104,Operational,3383.1,14,06-03-2026,Cancelled,122,0.65,1349108.76
+Unit-100,Eastern Command,transport vehicle,164,Decommissioned,625.4,16,10/04/2026,In Transit,37,0.62,999883.09
+Unit-112,Eastern Command,Medical Unit,38,Decommissioned,3066.3,19,02/03/2026,Delayed,162,0.41,1405927.58
+Unit-109,Northern Command,COMMUNICATION EQUIPMENT,145,Under Maintenance,3187.8,2,2026-03-04,Delayed,20,0.42,169268.03
+Unit-121,Northern Command,Transport Vehicle,1,Under Maintenance,1201.3,2,15/06/2026,In Transit,151,0.78,1344220.2
+Unit-112,Eastern Command,Transport Vehicle,106,Awaiting Parts,3692.0,31,2026-04-22,In Transit,113,0.78,1176270.51
+Unit-127,Northern Command,Medical  Unit,5,Awaiting Parts,3621.4,25,07-05-2026,Delayed,626,0.47,140415.66
+Unit-100,Northern Command,Engineering Equipment,235,Awaiting Parts,3159.8,2,2026-06-09,In Transit,144,0.71,1112543.62
+Unit-121,Northern Command,Engineering Equipment,56,Under Maintenance,2434.8,36,20/06/2026,In Transit,685,0.4,2452215.55
+Unit-103,Central Command,transport vehicle,100,Decommissioned,1653.0,36,03-03-2026,Delayed,428,0.61,1743574.95
+Unit-118,Southern Command,COMMUNICATION EQUIPMENT,249,,3454.3,14,2026-03-29,Delayed,434,0.99,2455610.73
+Unit-127,Western Command,Transport Vehicle,22,Under Maintenance,3765.5,14,14-02-2026,In Transit,420,0.99,197746.82
+Unit-121,Western Command,Artillery Support,2,Decommissioned,708.9,22,28-06-2026,Delayed,744,0.49,1430007.88
+Unit-121,Northern Command,Artillery Support,100,Awaiting Parts,2277.2,16,19/07/2026,Delivered,161,0.55,2435536.07
+Unit-103,Central Command,Transport Vehicle,53,Operational,3623.9,39,2026-05-16,Cancelled,424,0.54,896289.03
+Unit-109,Central Command,Transport Vehicle,111,Under Maintenance,3429.7,11,25-05-2026,Delayed,344,0.71,1942102.89
+Unit-106,Eastern Command,Medical Unit,170,Operational,1691.6,30,2026-03-19,In Transit,116,0.46,634863.18
+Unit-100,Southern Command,Transport Vehicle,71,Decommissioned,1902.4,13,2026-04-20,Cancelled,440,0.84,1759931.47
+Unit-115,Central Command,Engineering Equipment,197,Decommissioned,,21,2026-03-31,Delivered,94,0.94,2046125.85
+Unit-118,Northern Command,Transport Vehicle,106,Operational,2514.5,36,08-02-2026,In Transit,656,0.76,979927.7
+Unit-103,Western Command,Medical Unit,121,Awaiting Parts,413.1,22,23-03-2026,Cancelled,785,0.69,683366.12
+Unit-115,Southern Command,Communication Equipment,40,Decommissioned,3784.6,10,25-07-2026,Cancelled,341,0.69,1237131.3
+Unit-115,Western Command,Medical  Unit,182,Operational,4486.0,13,2026-02-06,Delivered,615,0.73,2343641.85
+Unit-115,Western Command,Engineering Equipment,80,Decommissioned,1026.9,20,23-04-2026,Delivered,717,0.56,1015229.04
+Unit-121,Southern Command,Artillery Support,31,Under Maintenance,3430.6,2,2026-04-07,Cancelled,297,0.6,419715.21
+Unit-112,Central Command,Medical Unit,200,,1806.0,14,10/03/2026,Cancelled,723,0.55,1093955.95
+Unit-115,Southern Command,Medical Unit,2,Awaiting Parts,2010.3,23,30-01-2026,Cancelled,363,0.64,210344.97
+Unit-106,Eastern Command,Artillery Support,63,Under Maintenance,4230.1,29,2026-07-19,Delivered,210,0.95,1770977.7
+Unit-124,Northern Command,Medical Unit,5,Decommissioned,2220.8,38,19-06-2026,In Transit,49,0.65,1435711.24
+Unit-112,Southern Command,Medical Unit,231,Operational,1311.9,25,15/04/2026,Delayed,475,0.99,2201259.67
+Unit-115,Southern Command,Communication Equipment,168,Operational,227.2,28,2026-05-14,Delayed,65,0.61,1712595.82
+Unit-103,Southern Command,COMMUNICATION EQUIPMENT,216,Awaiting Parts,2029.9,31,26-07-2026,In Transit,210,0.83,401377.25
+Unit-112,Western Command,Artillery Support,120,Under Maintenance,1361.9,18,28/01/2026,Cancelled,644,0.51,597144.14
+Unit-127,Northern Command,Transport Vehicle,43,Awaiting Parts,4335.4,5,30/07/2026,Cancelled,217,0.55,2455207.64
+Unit-118,Central Command,Communication Equipment,122,Awaiting Parts,4707.8,10,22-05-2026,Delayed,130,0.76,975029.37
+Unit-106,Central Command,Communication Equipment,55,Operational,3351.7,29,2026-06-10,Delivered,699,0.51,140595.23
+Unit-118,Central Command,Engineering Equipment,154,Under Maintenance,3478.8,2,2026-04-28,Delayed,295,0.67,694945.51
+Unit-112,Western Command,Transport Vehicle,3,Awaiting Parts,,17,22/03/2026,Delayed,506,0.72,1390155.48
+Unit-121,Western Command,Engineering Equipment,64,Under Maintenance,2837.5,23,2026-01-10,In Transit,608,0.76,61366.74
+Unit-112,Southern Command,Artillery Support,78,Decommissioned,2808.7,25,2026-01-31,Delayed,96,0.52,2269601.78
+Unit-109,Western Command,Medical  Unit,91,Under Maintenance,4535.3,39,23-01-2026,Delivered,685,0.65,299953.57
+Unit-115,Central Command,transport vehicle,36,Awaiting Parts,3386.3,7,2026-03-28,Cancelled,43,0.97,934092.39
+Unit-106,Eastern Command,Medical Unit,65,Under Maintenance,4839.3,14,2026-07-11,Cancelled,518,0.5,1686190.77
+Unit-103,Western Command,Engineering Equipment,244,Awaiting Parts,706.4,40,11-05-2026,Delivered,740,0.62,1269825.49
+Unit-115,Northern Command,Communication Equipment,206,Under Maintenance,1996.8,19,14/01/2026,Delivered,120,0.92,1312869.37
+Unit-121,Western Command,Engineering Equipment,158,Under Maintenance,1629.4,2,2026-02-20,Cancelled,185,0.78,731585.52
+Unit-124,Eastern Command,transport vehicle,134,Awaiting Parts,702.7,0,23-05-2026,Delivered,691,0.89,2443296.73
+Unit-121,Eastern Command,Artillery Support,63,Operational,3968.8,2,13-03-2026,Cancelled,490,0.41,1365369.74
+Unit-124,Western Command,Artillery Support,106,Under Maintenance,,36,2026-06-04,In Transit,603,1.0,29133698.73
+Unit-100,Central Command,Communication Equipment,119,Awaiting Parts,4920.0,32,2026-01-27,In Transit,,1.0,1360437.58
+Unit-106,Southern Command,Transport Vehicle,20,Under Maintenance,1088.0,8,07-02-2026,Delayed,244,0.43,696396.13
+Unit-115,Northern Command,Artillery Support,173,Under Maintenance,4039.7,3,14-07-2026,Cancelled,243,0.51,1136715.37
+Unit-112,Central Command,Engineering Equipment,239,Decommissioned,4997.5,19,13-06-2026,Delivered,325,0.86,82455.98
+Unit-109,Northern Command,COMMUNICATION EQUIPMENT,18,Awaiting Parts,2743.5,6,22-03-2026,Cancelled,236,1.0,1848299.04
+Unit-115,Southern Command,Transport Vehicle,75,Operational,4772.6,31,25/04/2026,Delivered,563,0.88,379210.5
+Unit-106,Southern Command,Engineering Equipment,17,Awaiting Parts,422.2,20,01/04/2026,Delayed,318,0.43,1470306.72
+Unit-115,Western Command,COMMUNICATION EQUIPMENT,167,Operational,408.6,34,25-01-2026,Delivered,539,0.53,260570.72
+Unit-103,Northern Command,Medical  Unit,249,Under Maintenance,2650.8,0,2026-02-15,Delayed,668,0.84,1276785.54
+Unit-121,Northern Command,Transport Vehicle,7,Under Maintenance,2543.7,40,2026-01-21,Delayed,638,0.71,385526.16
+Unit-121,Northern Command,Medical Unit,115,Under Maintenance,85357.6,12,19/03/2026,Cancelled,629,0.97,2135422.58
+Unit-118,Western Command,Artillery Support,14,Under Maintenance,694.3,34,16-05-2026,Delayed,749,0.42,1364674.12
+Unit-103,Central Command,Communication Equipment,124,Decommissioned,2111.2,14,2026-02-23,In Transit,575,0.62,2398724.13
+Unit-121,Central Command,Medical Unit,112,Decommissioned,4134.6,32,18/03/2026,Delivered,89,0.98,1979324.4
+Unit-127,Eastern Command,Engineering Equipment,44,Operational,275.6,29,12-07-2026,Delivered,785,0.83,2451530.96
+Unit-103,Central Command,Communication Equipment,163,Awaiting Parts,66745.9,9,2026-02-15,Cancelled,166,0.82,2345267.05
+Unit-100,Northern Command,Communication Equipment,238,Under Maintenance,1344.0,38,13/06/2026,Cancelled,555,0.54,1138320.23
+Unit-109,Western Command,Artillery Support,101,Operational,1671.7,9,14-06-2026,Delayed,690,0.73,279296.36
+Unit-124,Eastern Command,Communication Equipment,180,Operational,3140.0,30,24/02/2026,In Transit,29,0.67,883074.77
+Unit-118,Western Command,Engineering Equipment,138,,4746.4,0,07-01-2026,Delayed,518,0.7,2188994.03
+Unit-112,Northern Command,transport vehicle,89,Awaiting Parts,3274.6,29,28/04/2026,Delivered,367,0.58,1787048.16
+Unit-121,Central Command,transport vehicle,196,Under Maintenance,1873.9,22,2026-03-11,In Transit,321,0.63,1423472.35
+Unit-121,Southern Command,Engineering Equipment,198,Awaiting Parts,4832.8,34,05-08-2026,Delivered,278,0.93,1692508.83
+Unit-127,Eastern Command,COMMUNICATION EQUIPMENT,131,Under Maintenance,4304.1,35,2026-05-13,Cancelled,199,0.81,433729.3
+Unit-115,Western Command,Medical  Unit,212,Under Maintenance,4344.3,4,25-03-2026,Delayed,317,0.69,1368692.46
+Unit-103,Western Command,Medical Unit,227,Decommissioned,1475.0,10,25/06/2026,Delayed,87,0.9,1545589.37
+Unit-118,Northern Command,transport vehicle,189,Under Maintenance,772.1,18,11/02/2026,Delayed,88,0.47,1251748.64

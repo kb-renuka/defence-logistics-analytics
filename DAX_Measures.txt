@@ -1,0 +1,84 @@
+// DAX measures — Defence Logistics & Operations Analytics
+// In Power BI Desktop: Modeling > New Measure, paste each one individually.
+// Assumes the table loaded via Power_Query_ETL.pq is named "logistics".
+
+Total Cost (INR) =
+SUM ( logistics[Monthly_Cost_INR] )
+
+Avg Operational Readiness =
+AVERAGE ( logistics[Operational_Readiness] )
+
+Delayed Delivery % =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( logistics ), logistics[Delivery_Status] = "Delayed" ),
+    COUNTROWS ( logistics )
+)
+
+Total Supply Requests =
+SUM ( logistics[Supply_Requests] )
+
+Avg Fuel Consumption (L) =
+AVERAGE ( logistics[Fuel_Consumption_Litres] )
+
+Equipment Under Maintenance % =
+DIVIDE (
+    CALCULATE (
+        COUNTROWS ( logistics ),
+        logistics[Maintenance_Status] IN { "Under Maintenance", "Awaiting Parts" }
+    ),
+    COUNTROWS ( logistics )
+)
+
+MoM Cost Change % =
+VAR CurrentCost = [Total Cost (INR)]
+VAR PreviousCost =
+    CALCULATE (
+        [Total Cost (INR)],
+        DATEADD ( logistics[Delivery_Date], -1, MONTH )
+    )
+RETURN
+    DIVIDE ( CurrentCost - PreviousCost, PreviousCost )
+
+Cost Per Personnel =
+DIVIDE ( [Total Cost (INR)], SUM ( logistics[Personnel_Count] ) )
+
+Readiness Rank by Region =
+RANKX (
+    ALL ( logistics[Region] ),
+    CALCULATE ( [Avg Operational Readiness] ),
+    ,
+    ASC
+)
+
+High Readiness Units =
+CALCULATE (
+    DISTINCTCOUNT ( logistics[Unit_ID] ),
+    logistics[Readiness_Band] = "High"
+)
+
+// ---------------------------------------------------------------
+// Suggested page layout (build these as 4 report pages):
+//
+// Page 1 — Executive Overview
+//   Card visuals: Total Cost (INR), Avg Operational Readiness,
+//   Delayed Delivery %, Total Supply Requests
+//   Map/bar: cost by Region
+//
+// Page 2 — Logistics Analysis
+//   Bar: delayed deliveries by Region
+//   Line: [Total Cost (INR)] by Delivery_Month, with MoM Cost Change % as a label
+//   Donut: Delivery_Status breakdown
+//
+// Page 3 — Equipment Readiness
+//   Stacked bar: Equipment_Type by Maintenance_Status
+//   Gauge: Equipment Under Maintenance %
+//   Table: Unit_ID, Avg Operational Readiness, Readiness_Band (conditional formatting)
+//
+// Page 4 — Trends & Insights
+//   Line: monthly trend
+//   Text box: 3 written insights pulled from the SQL queries in schema_and_queries.sql
+//     (e.g. "Southern Command has the highest delay rate at X%")
+//
+// Slicers (add to every page via a slicer sync group):
+//   Region, Equipment_Type, Delivery_Month, Delivery_Status
+// ---------------------------------------------------------------

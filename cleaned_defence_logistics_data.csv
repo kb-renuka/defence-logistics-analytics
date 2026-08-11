@@ -1,0 +1,651 @@
+Unit_ID,Region,Equipment_Type,Equipment_Quantity,Maintenance_Status,Fuel_Consumption_Litres,Supply_Requests,Delivery_Date,Delivery_Status,Personnel_Count,Operational_Readiness,Monthly_Cost_INR,Fuel_Consumption_Litres_was_missing,Personnel_Count_was_missing,Maintenance_Status_was_missing,Delivery_Status_was_missing,Fuel_Consumption_Litres_outlier,Monthly_Cost_INR_outlier,Delivery_Month,Cost_Per_Personnel,Readiness_Band
+Unit-127,Eastern Command,Medical Unit,207,Awaiting Parts,4777.3,23,2026-01-21,Unknown,252.0,0.68,877456.83,False,False,False,True,False,False,2026-01,3481.97,Moderate
+Unit-121,Eastern Command,Artillery Support,147,Awaiting Parts,496.9,39,2026-07-28,In Transit,764.0,0.97,852278.97,False,False,False,False,False,False,2026-07,1115.55,High
+Unit-127,Central Command,Transport Vehicle,101,Under Maintenance,3749.5,17,2026-06-10,In Transit,577.0,0.42,1393112.64,False,False,False,False,False,False,2026-06,2414.41,Low
+Unit-103,Western Command,Medical Unit,143,Awaiting Parts,330.8,9,2026-05-05,Delayed,405.0,0.51,798436.42,False,False,False,False,False,False,2026-05,1971.45,Low
+Unit-103,Eastern Command,Artillery Support,102,Operational,2481.2,14,2026-04-08,Delivered,471.0,0.92,969147.93,True,False,False,False,False,False,2026-04,2057.64,High
+Unit-127,Central Command,Transport Vehicle,200,Decommissioned,604.7,34,2026-05-12,In Transit,743.0,0.41,1197236.76,False,False,False,False,False,False,2026-05,1611.35,Low
+Unit-121,Southern Command,Transport Vehicle,81,Operational,2481.2,30,2026-03-27,Delivered,274.0,0.68,2466674.39,True,False,False,False,False,False,2026-03,9002.46,Moderate
+Unit-103,Western Command,Medical Unit,165,Decommissioned,263.5,12,2026-04-11,Cancelled,220.0,0.62,1755650.81,False,False,False,False,False,False,2026-04,7980.23,Moderate
+Unit-124,Eastern Command,Communication Equipment,25,Decommissioned,1735.1,23,2026-01-30,In Transit,756.0,0.58,656213.85,False,False,False,False,False,False,2026-01,868.01,Low
+Unit-100,Western Command,Medical Unit,42,Operational,2733.9,23,2026-04-08,Cancelled,22.0,0.89,1729825.09,False,False,False,False,False,False,2026-04,78628.41,High
+Unit-100,Western Command,Engineering Equipment,11,Decommissioned,3218.3,28,2026-01-03,In Transit,551.0,0.48,1072135.36,False,False,False,False,False,False,2026-01,1945.8,Low
+Unit-103,Western Command,Communication Equipment,75,Decommissioned,1772.3,31,2026-01-24,Cancelled,306.0,0.92,1514553.65,False,False,False,False,False,False,2026-01,4949.52,High
+Unit-118,Central Command,Engineering Equipment,214,Operational,2952.1,28,2026-03-09,Delayed,471.0,0.63,1543404.95,False,False,False,False,False,False,2026-03,3276.87,Moderate
+Unit-112,Eastern Command,Medical Unit,179,Operational,4579.5,6,2026-02-21,Delivered,391.0,0.88,1992953.13,False,False,False,False,False,False,2026-02,5097.07,High
+Unit-103,Southern Command,Engineering Equipment,204,Operational,630.5,6,2026-04-02,Delayed,502.0,0.45,2198037.33,False,False,False,False,False,False,2026-04,4378.56,Low
+Unit-100,Western Command,Artillery Support,115,Awaiting Parts,4136.4,30,2026-04-24,Delivered,259.0,0.51,2029382.66,False,False,False,False,False,False,2026-04,7835.45,Low
+Unit-103,Central Command,Engineering Equipment,90,Operational,760.7,4,2026-07-09,Cancelled,261.0,0.98,2319663.25,False,False,False,False,False,False,2026-07,8887.6,High
+Unit-121,Central Command,Artillery Support,73,Decommissioned,3009.4,12,2026-03-21,In Transit,42.0,0.46,903771.6,False,False,False,False,False,False,2026-03,21518.37,Low
+Unit-121,Southern Command,Communication Equipment,160,Operational,3313.4,23,2026-02-09,Cancelled,78.0,0.45,1433243.78,False,False,False,False,False,False,2026-02,18374.92,Low
+Unit-127,Eastern Command,Medical Unit,243,Operational,3398.6,33,2026-02-28,Cancelled,403.0,0.7,1638914.02,False,False,False,False,False,False,2026-02,4066.78,Moderate
+Unit-115,Western Command,Communication Equipment,153,Unknown,97.6,39,2026-02-10,Delayed,511.0,0.91,810928.25,False,False,True,False,False,False,2026-02,1586.94,High
+Unit-100,Southern Command,Transport Vehicle,156,Under Maintenance,2182.0,19,2026-02-09,Delivered,585.0,0.59,1613871.53,False,False,False,False,False,False,2026-02,2758.75,Low
+Unit-112,Central Command,Medical Unit,180,Under Maintenance,3310.4,20,2026-03-16,Delayed,753.0,0.69,1560641.27,False,False,False,False,False,False,2026-03,2072.56,Moderate
+Unit-121,Central Command,Transport Vehicle,174,Awaiting Parts,4106.9,19,2026-03-15,Delivered,366.0,0.51,695069.9,False,False,False,False,False,False,2026-03,1899.1,Low
+Unit-109,Eastern Command,Medical Unit,50,Unknown,2481.2,30,2026-01-08,Cancelled,273.0,0.89,1928336.61,True,False,True,False,False,False,2026-01,7063.5,High
+Unit-115,Eastern Command,Medical Unit,60,Under Maintenance,1528.3,40,2026-03-31,Cancelled,606.0,0.61,1756962.93,False,False,False,False,False,False,2026-03,2899.28,Moderate
+Unit-124,Western Command,Medical Unit,5,Operational,1676.0,20,2026-02-28,Delivered,448.0,0.51,276824.81,False,False,False,False,False,False,2026-02,617.91,Low
+Unit-124,Eastern Command,Engineering Equipment,48,Decommissioned,219.5,1,2026-04-21,Delivered,529.0,0.74,3537507.31875,False,False,False,False,False,True,2026-04,6687.16,Moderate
+Unit-109,Northern Command,Engineering Equipment,6,Awaiting Parts,3560.9,15,2026-03-01,Delayed,353.0,0.86,1624638.89,False,False,False,False,False,False,2026-03,4602.38,High
+Unit-121,Southern Command,Medical Unit,183,Decommissioned,1166.4,20,2026-06-25,In Transit,303.0,0.41,2103967.17,False,False,False,False,False,False,2026-06,6943.79,Low
+Unit-106,Western Command,Communication Equipment,9,Operational,849.0,16,2026-01-02,Delivered,237.0,0.61,256859.14,False,False,False,False,False,False,2026-01,1083.79,Moderate
+Unit-106,Eastern Command,Communication Equipment,124,Decommissioned,147.3,26,2026-05-13,Delayed,690.0,0.6,76048.66,False,False,False,False,False,False,2026-05,110.22,Moderate
+Unit-112,Central Command,Transport Vehicle,203,Decommissioned,2325.6,5,2026-05-18,Delivered,258.0,0.64,1326547.05,False,False,False,False,False,False,2026-05,5141.66,Moderate
+Unit-103,Eastern Command,Medical Unit,246,Decommissioned,1740.0,9,2026-02-16,In Transit,27.0,0.47,2342632.87,False,False,False,False,False,False,2026-02,86764.18,Low
+Unit-109,Central Command,Engineering Equipment,222,Operational,1023.7,3,2026-02-03,Delivered,424.5,0.44,2050095.99,False,True,False,False,False,False,2026-02,4829.44,Low
+Unit-115,Northern Command,Medical Unit,31,Awaiting Parts,3345.7,24,2026-01-14,In Transit,463.0,0.59,1754358.75,False,False,False,False,False,False,2026-01,3789.11,Low
+Unit-118,Central Command,Communication Equipment,64,Decommissioned,1469.3,3,2026-04-06,Delivered,147.0,0.86,1497653.15,False,False,False,False,False,False,2026-04,10188.12,High
+Unit-100,Central Command,Transport Vehicle,103,Under Maintenance,841.8,31,2026-07-07,Cancelled,180.0,0.71,427517.17,False,False,False,False,False,False,2026-07,2375.1,Moderate
+Unit-112,Western Command,Medical Unit,75,Under Maintenance,3567.3,37,2026-06-06,Cancelled,765.0,0.67,2201251.02,False,False,False,False,False,False,2026-06,2877.45,Moderate
+Unit-103,Central Command,Transport Vehicle,107,Operational,217.6,28,2026-06-19,Cancelled,747.0,0.86,300721.55,False,False,False,False,False,False,2026-06,402.57,High
+Unit-106,Eastern Command,Artillery Support,241,Under Maintenance,2516.7,7,2026-06-12,Cancelled,733.0,0.74,306166.87,False,False,False,False,False,False,2026-06,417.69,Moderate
+Unit-124,Western Command,Medical Unit,107,Awaiting Parts,3357.8,8,2026-06-22,In Transit,550.0,0.46,2147844.12,False,False,False,False,False,False,2026-06,3905.17,Low
+Unit-106,Northern Command,Communication Equipment,190,Operational,1479.2,24,2026-05-20,In Transit,507.0,0.98,1473445.86,False,False,False,False,False,False,2026-05,2906.2,High
+Unit-109,Eastern Command,Medical Unit,168,Operational,3009.4,25,2026-03-19,Delivered,767.0,0.44,85616.42,False,False,False,False,False,False,2026-03,111.63,Low
+Unit-127,Eastern Command,Communication Equipment,44,Awaiting Parts,1624.5,4,2026-07-31,Delayed,133.0,0.79,772555.34,False,False,False,False,False,False,2026-07,5808.69,Moderate
+Unit-124,Western Command,Communication Equipment,193,Under Maintenance,1274.2,4,2026-06-16,Cancelled,585.0,0.73,443696.35,False,False,False,False,False,False,2026-06,758.46,Moderate
+Unit-121,Southern Command,Engineering Equipment,30,Under Maintenance,943.5,12,2026-05-21,Delivered,246.0,0.92,671049.44,False,False,False,False,False,False,2026-05,2727.84,High
+Unit-103,Western Command,Transport Vehicle,217,Awaiting Parts,3943.8,5,2026-06-16,In Transit,616.0,0.5,2416086.78,False,False,False,False,False,False,2026-06,3922.22,Low
+Unit-121,Western Command,Communication Equipment,222,Under Maintenance,4974.4,19,2026-06-25,Delivered,175.0,0.98,73092.82,False,False,False,False,False,False,2026-06,417.67,High
+Unit-115,Central Command,Transport Vehicle,19,Under Maintenance,3089.6,9,2026-06-12,In Transit,636.0,0.62,350963.47,False,False,False,False,False,False,2026-06,551.83,Moderate
+Unit-124,Central Command,Communication Equipment,27,Decommissioned,534.9,6,2026-05-08,Cancelled,536.0,0.76,333699.99,False,False,False,False,False,False,2026-05,622.57,Moderate
+Unit-121,Eastern Command,Engineering Equipment,42,Decommissioned,2481.2,5,2026-06-24,Delivered,139.0,0.53,678541.07,True,False,False,False,False,False,2026-06,4881.59,Low
+Unit-100,Eastern Command,Engineering Equipment,86,Under Maintenance,1340.3,6,2026-03-23,Cancelled,136.0,0.49,1307971.24,False,False,False,False,False,False,2026-03,9617.44,Low
+Unit-115,Northern Command,Transport Vehicle,249,Awaiting Parts,3452.7,9,2026-06-10,Delayed,561.0,0.97,1682735.8,False,False,False,False,False,False,2026-06,2999.53,High
+Unit-106,Eastern Command,Communication Equipment,25,Operational,2206.1,6,2026-01-05,Delivered,315.0,0.85,479177.99,False,False,False,False,False,False,2026-01,1521.2,High
+Unit-115,Western Command,Transport Vehicle,11,Awaiting Parts,3399.2,23,2026-02-16,Cancelled,239.0,0.59,1356894.07,False,False,False,False,False,False,2026-02,5677.38,Low
+Unit-112,Central Command,Transport Vehicle,249,Unknown,4329.0,7,2026-06-10,Delayed,633.0,0.69,575171.82,False,False,True,False,False,False,2026-06,908.64,Moderate
+Unit-127,Northern Command,Communication Equipment,13,Under Maintenance,280.6,8,2026-03-16,Delayed,573.0,0.47,805780.47,False,False,False,False,False,False,2026-03,1406.25,Low
+Unit-127,Central Command,Communication Equipment,217,Under Maintenance,3356.1,37,2026-08-07,Delayed,676.0,0.47,1109695.68,False,False,False,False,False,False,2026-08,1641.56,Low
+Unit-121,Northern Command,Medical Unit,45,Under Maintenance,4983.2,16,2026-03-01,Delivered,146.0,0.6,1886652.45,False,False,False,False,False,False,2026-03,12922.28,Moderate
+Unit-115,Central Command,Artillery Support,56,Under Maintenance,1444.5,36,2026-05-18,Delivered,248.0,0.87,119512.59,False,False,False,False,False,False,2026-05,481.91,High
+Unit-121,Southern Command,Communication Equipment,229,Under Maintenance,1592.8,5,2026-05-02,In Transit,489.0,0.45,1291215.36,False,False,False,False,False,False,2026-05,2640.52,Low
+Unit-127,Central Command,Communication Equipment,212,Awaiting Parts,7134.462499999999,27,2026-07-19,Cancelled,132.0,0.83,1996093.71,False,False,False,False,True,False,2026-07,15121.92,High
+Unit-121,Northern Command,Transport Vehicle,15,Decommissioned,3622.6,23,2026-03-31,Delivered,300.0,0.48,1560687.63,False,False,False,False,False,False,2026-03,5202.29,Low
+Unit-109,Eastern Command,Transport Vehicle,17,Operational,1565.6,30,2026-02-16,Cancelled,665.0,0.98,2204708.37,False,False,False,False,False,False,2026-02,3315.35,High
+Unit-121,Northern Command,Engineering Equipment,185,Under Maintenance,2281.3,11,2026-01-13,Delayed,767.0,0.86,768201.1,False,False,False,False,False,False,2026-01,1001.57,High
+Unit-115,Central Command,Medical Unit,146,Decommissioned,1738.5,35,2026-01-23,Delayed,248.0,0.74,1565100.94,False,False,False,False,False,False,2026-01,6310.89,Moderate
+Unit-124,Eastern Command,Transport Vehicle,130,Operational,4207.3,3,2026-04-09,Delivered,436.0,0.8,1115312.49,False,False,False,False,False,False,2026-04,2558.06,High
+Unit-112,Northern Command,Artillery Support,18,Under Maintenance,1975.2,27,2026-03-21,In Transit,559.0,0.87,943952.08,False,False,False,False,False,False,2026-03,1688.64,High
+Unit-118,Eastern Command,Transport Vehicle,40,Decommissioned,140.2,6,2026-07-14,Delivered,211.0,0.49,1346297.38,False,False,False,False,False,False,2026-07,6380.56,Low
+Unit-100,Southern Command,Engineering Equipment,108,Awaiting Parts,4802.1,31,2026-01-18,Cancelled,711.0,0.83,592425.9,False,False,False,False,False,False,2026-01,833.23,High
+Unit-103,Northern Command,Artillery Support,143,Under Maintenance,1332.6,38,2026-04-04,Delayed,201.0,0.92,2146426.6,False,False,False,False,False,False,2026-04,10678.74,High
+Unit-112,Western Command,Transport Vehicle,94,Awaiting Parts,4489.9,1,2026-06-18,Cancelled,274.0,1.0,1031290.08,False,False,False,False,False,False,2026-06,3763.83,High
+Unit-103,Southern Command,Medical Unit,125,Operational,1123.0,9,2026-07-27,Delayed,21.0,0.43,2286066.18,False,False,False,False,False,False,2026-07,108860.29,Low
+Unit-106,Eastern Command,Communication Equipment,239,Operational,4099.9,32,2026-03-04,Delivered,484.0,0.82,1681079.88,False,False,False,False,False,False,2026-03,3473.31,High
+Unit-100,Central Command,Communication Equipment,55,Under Maintenance,4267.4,2,2026-07-22,In Transit,176.0,0.98,440627.07,False,False,False,False,False,False,2026-07,2503.56,High
+Unit-127,Central Command,Communication Equipment,136,Operational,3306.6,12,2026-08-03,In Transit,97.0,0.93,333025.01,False,False,False,False,False,False,2026-08,3433.25,High
+Unit-118,Northern Command,Artillery Support,127,Decommissioned,2522.7,10,2026-03-18,Delivered,165.0,0.81,450913.29,False,False,False,False,False,False,2026-03,2732.81,High
+Unit-121,Northern Command,Transport Vehicle,28,Under Maintenance,1851.2,30,2026-05-05,In Transit,346.0,0.69,2063681.97,False,False,False,False,False,False,2026-05,5964.4,Moderate
+Unit-127,Western Command,Medical Unit,22,Awaiting Parts,2608.1,27,2026-05-17,Delayed,430.0,0.98,1568679.66,False,False,False,False,False,False,2026-05,3648.09,High
+Unit-109,Northern Command,Artillery Support,120,Decommissioned,4514.4,20,2026-05-27,Cancelled,652.0,0.7,1294167.32,False,False,False,False,False,False,2026-05,1984.92,Moderate
+Unit-109,Southern Command,Artillery Support,144,Awaiting Parts,4650.4,17,2026-04-11,Delayed,765.0,0.68,2379652.61,False,False,False,False,False,False,2026-04,3110.66,Moderate
+Unit-109,Eastern Command,Communication Equipment,21,Decommissioned,1928.0,33,2026-04-17,Delivered,130.0,0.76,1183226.16,False,False,False,False,False,False,2026-04,9101.74,Moderate
+Unit-124,Western Command,Transport Vehicle,171,Awaiting Parts,4592.8,20,2026-02-14,In Transit,212.0,0.94,1139176.28,False,False,False,False,False,False,2026-02,5373.47,High
+Unit-100,Central Command,Engineering Equipment,34,Decommissioned,2095.9,0,2026-04-22,Delivered,538.0,1.0,305733.01,False,False,False,False,False,False,2026-04,568.28,High
+Unit-103,Western Command,Transport Vehicle,172,Awaiting Parts,1424.4,0,2026-08-05,Delivered,111.0,0.49,1665156.52,False,False,False,False,False,False,2026-08,15001.41,Low
+Unit-118,Eastern Command,Medical Unit,178,Operational,2274.1,30,2026-07-07,Delayed,26.0,0.81,948967.3,False,False,False,False,False,False,2026-07,36498.74,High
+Unit-109,Eastern Command,Transport Vehicle,76,Awaiting Parts,1985.2,39,2026-03-14,In Transit,92.0,0.75,963085.62,False,False,False,False,False,False,2026-03,10468.32,Moderate
+Unit-124,Eastern Command,Artillery Support,127,Under Maintenance,2677.4,28,2026-06-21,Delivered,290.0,0.65,2076282.0,False,False,False,False,False,False,2026-06,7159.59,Moderate
+Unit-118,Western Command,Engineering Equipment,171,Decommissioned,425.7,39,2026-03-26,In Transit,322.0,0.62,1669852.2,False,False,False,False,False,False,2026-03,5185.88,Moderate
+Unit-112,Central Command,Transport Vehicle,242,Under Maintenance,3760.0,24,2026-02-20,Delivered,584.0,0.82,1065794.09,False,False,False,False,False,False,2026-02,1824.99,High
+Unit-103,Central Command,Transport Vehicle,172,Operational,1023.4,31,2026-07-16,In Transit,682.0,0.94,1310123.03,False,False,False,False,False,False,2026-07,1921.0,High
+Unit-127,Southern Command,Medical Unit,11,Awaiting Parts,4162.8,1,2026-06-16,Delayed,46.0,0.76,1965679.45,False,False,False,False,False,False,2026-06,42732.16,Moderate
+Unit-115,Central Command,Medical Unit,163,Decommissioned,1859.6,6,2026-02-27,In Transit,551.0,0.47,1885750.42,False,False,False,False,False,False,2026-02,3422.41,Low
+Unit-115,Western Command,Medical Unit,81,Decommissioned,3437.6,36,2026-04-25,In Transit,639.0,0.73,381584.9,False,False,False,False,False,False,2026-04,597.16,Moderate
+Unit-109,Northern Command,Communication Equipment,186,Awaiting Parts,193.8,0,2026-08-03,Delivered,732.0,0.55,475286.83,False,False,False,False,False,False,2026-08,649.3,Low
+Unit-118,Southern Command,Medical Unit,187,Under Maintenance,1845.7,26,2026-03-15,In Transit,177.0,0.65,2127172.04,False,False,False,False,False,False,2026-03,12017.92,Moderate
+Unit-109,Southern Command,Communication Equipment,44,Under Maintenance,1625.6,34,2026-02-18,In Transit,24.0,0.98,1993866.22,False,False,False,False,False,False,2026-02,83077.76,High
+Unit-124,Eastern Command,Communication Equipment,92,Decommissioned,4790.8,9,2026-01-22,Delayed,257.0,0.8,79554.5,False,False,False,False,False,False,2026-01,309.55,High
+Unit-103,Western Command,Communication Equipment,74,Awaiting Parts,3940.0,22,2026-06-22,Delivered,509.0,0.93,1452673.69,False,False,False,False,False,False,2026-06,2853.98,High
+Unit-118,Northern Command,Engineering Equipment,108,Awaiting Parts,1495.3,7,2026-02-24,In Transit,475.0,0.57,2166846.75,False,False,False,False,False,False,2026-02,4561.78,Low
+Unit-106,Eastern Command,Medical Unit,113,Awaiting Parts,3494.2,30,2026-01-18,Delayed,460.0,0.67,1287643.54,False,False,False,False,False,False,2026-01,2799.23,Moderate
+Unit-112,Eastern Command,Medical Unit,163,Operational,2719.6,1,2026-03-03,In Transit,36.0,0.94,2166704.56,False,False,False,False,False,False,2026-03,60186.24,High
+Unit-124,Southern Command,Communication Equipment,95,Awaiting Parts,1211.7,39,2026-06-27,In Transit,192.0,0.68,945598.09,False,False,False,False,False,False,2026-06,4924.99,Moderate
+Unit-103,Western Command,Transport Vehicle,5,Under Maintenance,2228.1,29,2026-05-17,Delayed,227.0,0.59,1604060.18,False,False,False,False,False,False,2026-05,7066.34,Low
+Unit-106,Eastern Command,Medical Unit,139,Decommissioned,2695.5,30,2026-02-04,Cancelled,634.0,0.91,344053.79,False,False,False,False,False,False,2026-02,542.67,High
+Unit-100,Eastern Command,Medical Unit,29,Decommissioned,852.0,11,2026-02-20,In Transit,708.0,0.96,535178.33,False,False,False,False,False,False,2026-02,755.9,High
+Unit-121,Eastern Command,Communication Equipment,54,Awaiting Parts,1135.3,18,2026-04-22,Delivered,61.0,0.9,362690.64,False,False,False,False,False,False,2026-04,5945.75,High
+Unit-121,Southern Command,Artillery Support,240,Awaiting Parts,2796.2,4,2026-05-11,Cancelled,782.0,0.53,1547298.45,False,False,False,False,False,False,2026-05,1978.64,Low
+Unit-106,Northern Command,Engineering Equipment,65,Decommissioned,1386.7,29,2026-03-14,In Transit,281.0,0.8,2429451.42,False,False,False,False,False,False,2026-03,8645.73,High
+Unit-127,Southern Command,Transport Vehicle,19,Decommissioned,4654.7,33,2026-08-07,Cancelled,274.0,0.87,598311.02,False,False,False,False,False,False,2026-08,2183.62,High
+Unit-106,Southern Command,Transport Vehicle,97,Awaiting Parts,648.5,21,2026-01-01,In Transit,427.0,0.47,2319677.21,False,False,False,False,False,False,2026-01,5432.5,Low
+Unit-109,Southern Command,Transport Vehicle,72,Operational,1740.0,9,2026-03-03,Delayed,114.0,0.52,1384922.25,False,False,False,False,False,False,2026-03,12148.44,Low
+Unit-103,Southern Command,Transport Vehicle,51,Decommissioned,3218.4,19,2026-07-25,Cancelled,337.0,0.78,2223241.13,False,False,False,False,False,False,2026-07,6597.15,Moderate
+Unit-127,Western Command,Communication Equipment,68,Operational,2296.2,21,2026-05-22,In Transit,656.0,0.48,1340941.81,False,False,False,False,False,False,2026-05,2044.12,Low
+Unit-115,Central Command,Medical Unit,165,Unknown,82.3,40,2026-06-28,Delivered,85.0,0.99,890416.57,False,False,True,False,False,False,2026-06,10475.49,High
+Unit-109,Southern Command,Communication Equipment,181,Decommissioned,1840.6,31,2026-07-17,Delayed,376.0,0.57,1387138.1,False,False,False,False,False,False,2026-07,3689.2,Low
+Unit-115,Eastern Command,Transport Vehicle,162,Under Maintenance,4623.0,25,2026-06-01,In Transit,163.0,0.53,3537507.31875,False,False,False,False,False,True,2026-06,21702.5,Low
+Unit-106,Southern Command,Medical Unit,99,Decommissioned,7134.462499999999,36,2026-03-27,In Transit,82.0,0.77,1644820.19,False,False,False,False,True,False,2026-03,20058.78,Moderate
+Unit-112,Eastern Command,Communication Equipment,165,Decommissioned,1454.0,32,2026-04-05,In Transit,548.0,0.94,595490.13,False,False,False,False,False,False,2026-04,1086.66,High
+Unit-100,Northern Command,Transport Vehicle,187,Decommissioned,745.8,2,2026-05-09,Delayed,311.0,0.43,259906.09,False,False,False,False,False,False,2026-05,835.71,Low
+Unit-100,Eastern Command,Artillery Support,56,Under Maintenance,2864.1,28,2026-03-01,Cancelled,246.0,0.84,226578.0,False,False,False,False,False,False,2026-03,921.05,High
+Unit-127,Southern Command,Communication Equipment,66,Decommissioned,1330.2,6,2026-03-01,Delayed,543.0,0.66,2477070.7,False,False,False,False,False,False,2026-03,4561.82,Moderate
+Unit-124,Central Command,Communication Equipment,86,Operational,1693.4,14,2026-07-01,Delivered,429.0,0.54,693371.37,False,False,False,False,False,False,2026-07,1616.25,Low
+Unit-109,Western Command,Transport Vehicle,120,Under Maintenance,4004.3,10,2026-08-02,Delivered,653.0,0.92,2227333.51,False,False,False,False,False,False,2026-08,3410.92,High
+Unit-124,Northern Command,Transport Vehicle,108,Awaiting Parts,2830.7,30,2026-05-08,Delayed,270.0,0.93,1540414.09,False,False,False,False,False,False,2026-05,5705.24,High
+Unit-115,Central Command,Transport Vehicle,126,Awaiting Parts,1459.9,13,2026-03-17,Delivered,182.0,0.73,1534514.43,False,False,False,False,False,False,2026-03,8431.4,Moderate
+Unit-127,Northern Command,Communication Equipment,56,Awaiting Parts,3170.6,38,2026-02-28,Delayed,683.0,0.61,305545.87,False,False,False,False,False,False,2026-02,447.36,Moderate
+Unit-115,Northern Command,Medical Unit,125,Under Maintenance,217.8,26,2026-06-10,In Transit,116.0,0.92,947087.91,False,False,False,False,False,False,2026-06,8164.55,High
+Unit-115,Eastern Command,Medical Unit,213,Under Maintenance,2605.9,13,2026-05-16,Delayed,726.0,0.73,116254.1,False,False,False,False,False,False,2026-05,160.13,Moderate
+Unit-124,Southern Command,Transport Vehicle,136,Decommissioned,3341.8,34,2026-03-30,Delivered,133.0,0.45,1825735.38,False,False,False,False,False,False,2026-03,13727.33,Low
+Unit-115,Northern Command,Artillery Support,162,Decommissioned,2758.1,35,2026-03-12,Cancelled,164.0,0.52,1347466.33,False,False,False,False,False,False,2026-03,8216.26,Low
+Unit-106,Northern Command,Medical Unit,221,Decommissioned,676.5,13,2026-05-30,Cancelled,100.0,0.96,877949.09,False,False,False,False,False,False,2026-05,8779.49,High
+Unit-124,Central Command,Communication Equipment,35,Under Maintenance,559.4,8,2026-06-22,Delivered,263.0,0.43,76087.41,False,False,False,False,False,False,2026-06,289.31,Low
+Unit-115,Northern Command,Engineering Equipment,59,Under Maintenance,1210.4,20,2026-07-23,Delivered,518.0,0.86,865745.14,False,False,False,False,False,False,2026-07,1671.32,High
+Unit-118,Eastern Command,Transport Vehicle,15,Unknown,2993.9,37,2026-04-24,Cancelled,274.0,0.5,50978.96,False,False,True,False,False,False,2026-04,186.05,Low
+Unit-124,Eastern Command,Engineering Equipment,23,Awaiting Parts,1949.4,19,2026-05-23,Cancelled,717.0,0.43,795999.77,False,False,False,False,False,False,2026-05,1110.18,Low
+Unit-115,Eastern Command,Medical Unit,174,Operational,3141.6,12,2026-02-22,Delayed,320.0,0.46,1784953.22,False,False,False,False,False,False,2026-02,5577.98,Low
+Unit-112,Western Command,Artillery Support,36,Under Maintenance,2935.5,12,2026-01-03,Cancelled,758.0,0.95,1320225.0,False,False,False,False,False,False,2026-01,1741.72,High
+Unit-127,Central Command,Transport Vehicle,11,Decommissioned,1804.6,40,2026-07-02,Cancelled,424.5,0.77,433349.96,False,True,False,False,False,False,2026-07,1020.85,Moderate
+Unit-124,Southern Command,Engineering Equipment,141,Under Maintenance,4551.9,38,2026-05-16,Cancelled,209.0,0.45,1871912.32,False,False,False,False,False,False,2026-05,8956.52,Low
+Unit-124,Western Command,Communication Equipment,158,Decommissioned,3249.5,30,2026-05-30,In Transit,610.0,0.73,895504.45,False,False,False,False,False,False,2026-05,1468.04,Moderate
+Unit-103,Southern Command,Artillery Support,218,Under Maintenance,3909.9,37,2026-04-16,In Transit,424.5,0.78,1068567.18,False,True,False,False,False,False,2026-04,2517.24,Moderate
+Unit-115,Central Command,Communication Equipment,186,Operational,3946.8,37,2026-03-04,In Transit,253.0,0.48,3537507.31875,False,False,False,False,False,True,2026-03,13982.24,Low
+Unit-106,Eastern Command,Artillery Support,188,Decommissioned,4194.4,33,2026-06-05,Delayed,123.0,0.55,1314268.07,False,False,False,False,False,False,2026-06,10685.11,Low
+Unit-121,Central Command,Medical Unit,51,Operational,379.1,8,2026-05-26,Delivered,769.0,0.92,1294742.5,False,False,False,False,False,False,2026-05,1683.67,High
+Unit-106,Western Command,Transport Vehicle,155,Awaiting Parts,846.6,20,2026-02-18,Delivered,188.0,0.98,299013.08,False,False,False,False,False,False,2026-02,1590.5,High
+Unit-103,Eastern Command,Medical Unit,48,Decommissioned,1382.1,25,2026-07-02,Cancelled,443.0,0.81,890445.93,False,False,False,False,False,False,2026-07,2010.04,High
+Unit-106,Northern Command,Communication Equipment,109,Under Maintenance,804.1,23,2026-05-11,Delivered,424.5,0.66,3537507.31875,False,True,False,False,False,True,2026-05,8333.35,Moderate
+Unit-109,Northern Command,Engineering Equipment,99,Awaiting Parts,4488.2,21,2026-04-20,Cancelled,177.0,0.43,1263363.09,False,False,False,False,False,False,2026-04,7137.64,Low
+Unit-106,Western Command,Medical Unit,121,Decommissioned,4669.5,36,2026-04-05,Cancelled,800.0,0.98,854806.79,False,False,False,False,False,False,2026-04,1068.51,High
+Unit-106,Northern Command,Medical Unit,30,Awaiting Parts,1486.7,34,2026-02-23,Cancelled,386.0,0.91,1524816.57,False,False,False,False,False,False,2026-02,3950.3,High
+Unit-103,Central Command,Communication Equipment,41,Awaiting Parts,7134.462499999999,36,2026-01-25,Cancelled,442.0,0.68,1887591.47,False,False,False,False,True,False,2026-01,4270.57,Moderate
+Unit-103,Eastern Command,Medical Unit,241,Operational,2481.2,13,2026-06-27,Delivered,115.0,0.94,500362.94,True,False,False,False,False,False,2026-06,4350.98,High
+Unit-106,Southern Command,Communication Equipment,230,Unknown,2846.7,33,2026-02-10,Delayed,348.0,0.47,1816252.08,False,False,True,False,False,False,2026-02,5219.12,Low
+Unit-103,Eastern Command,Communication Equipment,55,Operational,4123.1,35,2026-05-08,Delayed,318.0,0.89,1978765.16,False,False,False,False,False,False,2026-05,6222.53,High
+Unit-118,Eastern Command,Communication Equipment,194,Decommissioned,2108.2,9,2026-07-15,Delayed,783.0,0.76,174189.09,False,False,False,False,False,False,2026-07,222.46,Moderate
+Unit-124,Eastern Command,Medical Unit,140,Under Maintenance,4848.6,40,2026-03-02,In Transit,275.0,0.98,461725.1,False,False,False,False,False,False,2026-03,1679.0,High
+Unit-100,Northern Command,Transport Vehicle,4,Operational,1975.3,19,2026-07-06,Delayed,518.0,0.77,824884.77,False,False,False,False,False,False,2026-07,1592.44,Moderate
+Unit-118,Central Command,Transport Vehicle,142,Under Maintenance,2724.0,8,2026-07-08,Delivered,418.0,0.41,3537507.31875,False,False,False,False,False,True,2026-07,8462.94,Low
+Unit-100,Western Command,Engineering Equipment,243,Decommissioned,3883.4,24,2026-02-11,Delayed,424.5,0.41,574370.4,False,True,False,False,False,False,2026-02,1353.05,Low
+Unit-100,Central Command,Engineering Equipment,48,Awaiting Parts,2204.5,26,2026-02-25,Delayed,161.0,0.91,1328049.2,False,False,False,False,False,False,2026-02,8248.75,High
+Unit-115,Western Command,Communication Equipment,170,Operational,1853.9,33,2026-02-17,In Transit,463.0,0.52,1689393.9,False,False,False,False,False,False,2026-02,3648.8,Low
+Unit-112,Southern Command,Communication Equipment,40,Operational,4623.1,8,2026-01-11,Cancelled,320.0,0.85,2193062.7,False,False,False,False,False,False,2026-01,6853.32,High
+Unit-127,Northern Command,Communication Equipment,91,Under Maintenance,2118.7,40,2026-05-18,In Transit,662.0,0.5,1598959.18,False,False,False,False,False,False,2026-05,2415.35,Low
+Unit-127,Western Command,Transport Vehicle,17,Decommissioned,1295.7,15,2026-05-10,Delayed,685.0,0.89,1650650.05,False,False,False,False,False,False,2026-05,2409.71,High
+Unit-127,Northern Command,Artillery Support,22,Operational,257.2,40,2026-04-03,Unknown,482.0,0.74,1588029.42,False,False,False,True,False,False,2026-04,3294.67,Moderate
+Unit-127,Northern Command,Communication Equipment,118,Under Maintenance,3135.3,30,2026-03-19,Delivered,741.0,0.57,1682292.18,False,False,False,False,False,False,2026-03,2270.3,Low
+Unit-124,Central Command,Medical Unit,158,Operational,2208.2,17,2026-05-03,Delayed,161.0,0.87,1963415.38,False,False,False,False,False,False,2026-05,12195.13,High
+Unit-127,Eastern Command,Medical Unit,92,Decommissioned,2481.2,4,2026-08-03,In Transit,199.0,0.57,680971.14,True,False,False,False,False,False,2026-08,3421.97,Low
+Unit-106,Western Command,Transport Vehicle,126,Awaiting Parts,2522.1,7,2026-04-18,Delivered,716.0,0.69,1160778.41,False,False,False,False,False,False,2026-04,1621.2,Moderate
+Unit-121,Southern Command,Artillery Support,86,Decommissioned,195.5,19,2026-07-24,Delayed,715.0,0.67,2121703.75,False,False,False,False,False,False,2026-07,2967.42,Moderate
+Unit-121,Eastern Command,Communication Equipment,202,Under Maintenance,2471.7,18,2026-06-27,Delivered,746.0,0.8,1020293.84,False,False,False,False,False,False,2026-06,1367.69,High
+Unit-100,Western Command,Transport Vehicle,218,Decommissioned,4344.9,28,2026-03-15,Delayed,341.0,0.49,1621396.66,False,False,False,False,False,False,2026-03,4754.83,Low
+Unit-127,Eastern Command,Transport Vehicle,29,Awaiting Parts,4510.3,37,2026-06-05,Delivered,270.0,0.81,140970.46,False,False,False,False,False,False,2026-06,522.11,High
+Unit-112,Central Command,Engineering Equipment,117,Decommissioned,2235.1,36,2026-08-09,Delayed,333.0,0.85,1317129.78,False,False,False,False,False,False,2026-08,3955.34,High
+Unit-124,Central Command,Artillery Support,9,Operational,1241.6,38,2026-01-25,Delayed,110.0,0.42,1495363.89,False,False,False,False,False,False,2026-01,13594.22,Low
+Unit-106,Central Command,Transport Vehicle,203,Operational,608.8,20,2026-03-03,Delayed,616.0,0.97,707218.52,False,False,False,False,False,False,2026-03,1148.08,High
+Unit-124,Southern Command,Medical Unit,15,Under Maintenance,3001.6,20,2026-06-28,In Transit,50.0,0.74,951709.71,False,False,False,False,False,False,2026-06,19034.19,Moderate
+Unit-115,Central Command,Medical Unit,200,Awaiting Parts,3112.8,6,2026-07-16,Delivered,672.0,0.95,375972.71,False,False,False,False,False,False,2026-07,559.48,High
+Unit-115,Southern Command,Communication Equipment,40,Decommissioned,3784.6,10,2026-07-25,Cancelled,341.0,0.69,1237131.3,False,False,False,False,False,False,2026-07,3627.95,Moderate
+Unit-127,Eastern Command,Transport Vehicle,212,Decommissioned,4480.9,15,2026-03-31,Cancelled,407.0,0.46,1590191.06,False,False,False,False,False,False,2026-03,3907.1,Low
+Unit-115,Northern Command,Communication Equipment,225,Awaiting Parts,4556.5,1,2026-03-30,Delivered,322.0,0.55,949672.59,False,False,False,False,False,False,2026-03,2949.29,Low
+Unit-103,Western Command,Artillery Support,249,Under Maintenance,253.4,35,2026-08-04,Delivered,703.0,0.9,338440.99,False,False,False,False,False,False,2026-08,481.42,High
+Unit-109,Northern Command,Medical Unit,40,Awaiting Parts,4990.9,27,2026-04-11,Delivered,318.0,0.74,345842.86,False,False,False,False,False,False,2026-04,1087.56,Moderate
+Unit-106,Central Command,Engineering Equipment,76,Under Maintenance,1310.0,26,2026-04-05,Delivered,605.0,0.81,1250127.18,False,False,False,False,False,False,2026-04,2066.33,High
+Unit-103,Northern Command,Communication Equipment,28,Under Maintenance,100.7,0,2026-04-04,Cancelled,372.0,0.46,1456791.93,False,False,False,False,False,False,2026-04,3916.11,Low
+Unit-121,Northern Command,Artillery Support,231,Awaiting Parts,2526.9,0,2026-02-19,Delayed,83.0,0.59,1308923.1,False,False,False,False,False,False,2026-02,15770.16,Low
+Unit-121,Central Command,Transport Vehicle,79,Operational,2732.7,2,2026-01-31,Cancelled,171.0,0.83,1264695.95,False,False,False,False,False,False,2026-01,7395.88,High
+Unit-121,Northern Command,Artillery Support,214,Decommissioned,460.0,7,2026-04-14,Cancelled,244.0,0.43,1165728.79,False,False,False,False,False,False,2026-04,4777.58,Low
+Unit-115,Central Command,Communication Equipment,237,Operational,744.3,30,2026-02-07,Delivered,358.0,0.91,1119225.21,False,False,False,False,False,False,2026-02,3126.33,High
+Unit-121,Eastern Command,Artillery Support,206,Operational,1737.8,39,2026-06-28,In Transit,638.0,0.71,305598.6,False,False,False,False,False,False,2026-06,478.99,Moderate
+Unit-127,Northern Command,Transport Vehicle,87,Awaiting Parts,1007.2,4,2026-04-14,Delayed,32.0,0.54,578676.94,False,False,False,False,False,False,2026-04,18083.65,Low
+Unit-103,Northern Command,Transport Vehicle,56,Operational,2481.2,8,2026-04-25,Delivered,476.0,0.75,1509391.57,True,False,False,False,False,False,2026-04,3170.99,Moderate
+Unit-115,Central Command,Transport Vehicle,116,Awaiting Parts,2481.2,4,2026-07-25,Delivered,730.0,0.52,2412329.32,True,False,False,False,False,False,2026-07,3304.56,Low
+Unit-109,Northern Command,Transport Vehicle,88,Under Maintenance,268.6,16,2026-01-10,Delayed,31.0,0.89,1052037.49,False,False,False,False,False,False,2026-01,33936.69,High
+Unit-118,Western Command,Communication Equipment,87,Awaiting Parts,3665.3,27,2026-06-22,Cancelled,92.0,0.83,911566.66,False,False,False,False,False,False,2026-06,9908.33,High
+Unit-103,Southern Command,Medical Unit,138,Awaiting Parts,4688.5,22,2026-06-14,Delayed,523.0,0.79,63501.87,False,False,False,False,False,False,2026-06,121.42,Moderate
+Unit-118,Eastern Command,Transport Vehicle,245,Operational,4970.0,27,2026-06-09,Cancelled,184.0,0.62,945411.35,False,False,False,False,False,False,2026-06,5138.11,Moderate
+Unit-124,Southern Command,Transport Vehicle,221,Decommissioned,2481.2,3,2026-02-19,Delayed,455.0,0.71,1216637.16,True,False,False,False,False,False,2026-02,2673.93,Moderate
+Unit-115,Northern Command,Engineering Equipment,141,Operational,1741.7,26,2026-01-09,In Transit,254.0,0.6,1206963.89,False,False,False,False,False,False,2026-01,4751.83,Moderate
+Unit-103,Western Command,Artillery Support,74,Operational,3585.8,27,2026-07-03,Delayed,645.0,0.66,1732853.37,False,False,False,False,False,False,2026-07,2686.59,Moderate
+Unit-103,Southern Command,Transport Vehicle,201,Awaiting Parts,3560.8,12,2026-07-26,In Transit,308.0,0.56,1544706.63,False,False,False,False,False,False,2026-07,5015.28,Low
+Unit-115,Central Command,Communication Equipment,68,Unknown,1775.6,7,2026-05-04,Cancelled,627.0,0.75,583480.4,False,False,True,False,False,False,2026-05,930.59,Moderate
+Unit-100,Southern Command,Artillery Support,185,Operational,294.9,26,2026-04-26,Delayed,679.0,0.92,1239658.95,False,False,False,False,False,False,2026-04,1825.71,High
+Unit-106,Northern Command,Engineering Equipment,191,Awaiting Parts,1927.9,22,2026-03-23,In Transit,159.0,0.73,954726.26,False,False,False,False,False,False,2026-03,6004.57,Moderate
+Unit-100,Southern Command,Communication Equipment,115,Operational,4928.5,38,2026-01-21,Delivered,772.0,0.47,1664423.47,False,False,False,False,False,False,2026-01,2155.99,Low
+Unit-109,Northern Command,Medical Unit,169,Decommissioned,3833.3,31,2026-02-08,Delayed,64.0,0.89,1801776.95,False,False,False,False,False,False,2026-02,28152.76,High
+Unit-109,Southern Command,Communication Equipment,72,Under Maintenance,543.8,36,2026-08-04,Delayed,506.0,0.75,523157.01,False,False,False,False,False,False,2026-08,1033.91,Moderate
+Unit-124,Western Command,Transport Vehicle,55,Operational,461.2,16,2026-04-30,Delayed,96.0,0.88,1595942.28,False,False,False,False,False,False,2026-04,16624.4,High
+Unit-124,Western Command,Medical Unit,239,Under Maintenance,2821.8,9,2026-02-09,Cancelled,51.0,0.65,1525174.98,False,False,False,False,False,False,2026-02,29905.39,Moderate
+Unit-106,Western Command,Medical Unit,100,Decommissioned,3554.1,23,2026-02-01,Cancelled,585.0,0.47,685943.82,False,False,False,False,False,False,2026-02,1172.55,Low
+Unit-103,Southern Command,Medical Unit,79,Decommissioned,2599.1,18,2026-03-25,Cancelled,314.0,0.95,2269508.14,False,False,False,False,False,False,2026-03,7227.73,High
+Unit-118,Southern Command,Artillery Support,43,Under Maintenance,4650.6,4,2026-07-27,Delayed,500.0,0.79,1815726.62,False,False,False,False,False,False,2026-07,3631.45,Moderate
+Unit-124,Southern Command,Medical Unit,215,Operational,4294.7,27,2026-07-05,In Transit,237.0,0.63,1484064.13,False,False,False,False,False,False,2026-07,6261.87,Moderate
+Unit-127,Western Command,Transport Vehicle,192,Decommissioned,4045.5,30,2026-02-07,Delayed,231.0,0.6,1309786.06,False,False,False,False,False,False,2026-02,5670.07,Moderate
+Unit-118,Central Command,Transport Vehicle,126,Operational,2241.0,5,2026-01-18,Cancelled,165.0,0.59,470413.29,False,False,False,False,False,False,2026-01,2850.99,Low
+Unit-103,Southern Command,Medical Unit,73,Under Maintenance,428.4,33,2026-01-05,Delayed,740.0,0.85,1944625.51,False,False,False,False,False,False,2026-01,2627.87,High
+Unit-115,Western Command,Engineering Equipment,8,Decommissioned,2219.8,7,2026-01-29,Cancelled,115.0,0.64,1238157.73,False,False,False,False,False,False,2026-01,10766.59,Moderate
+Unit-115,Eastern Command,Communication Equipment,81,Awaiting Parts,325.5,38,2026-03-22,In Transit,70.0,0.6,629045.31,False,False,False,False,False,False,2026-03,8986.36,Moderate
+Unit-109,Central Command,Medical Unit,15,Under Maintenance,3569.7,30,2026-08-09,Cancelled,617.0,0.48,1047026.74,False,False,False,False,False,False,2026-08,1696.96,Low
+Unit-121,Central Command,Transport Vehicle,152,Decommissioned,1210.5,40,2026-07-22,Cancelled,383.0,0.83,1014133.47,False,False,False,False,False,False,2026-07,2647.87,High
+Unit-121,Western Command,Medical Unit,196,Awaiting Parts,1407.3,15,2026-01-04,Delivered,368.0,0.54,2221393.49,False,False,False,False,False,False,2026-01,6036.4,Low
+Unit-124,Eastern Command,Medical Unit,136,Awaiting Parts,3888.4,6,2026-06-18,Cancelled,467.0,0.69,668873.35,False,False,False,False,False,False,2026-06,1432.28,Moderate
+Unit-118,Northern Command,Engineering Equipment,59,Decommissioned,4629.5,14,2026-05-07,In Transit,755.0,0.65,1722288.37,False,False,False,False,False,False,2026-05,2281.18,Moderate
+Unit-115,Central Command,Artillery Support,106,Awaiting Parts,2966.0,13,2026-04-04,Cancelled,182.0,0.48,2344647.74,False,False,False,False,False,False,2026-04,12882.68,Low
+Unit-127,Eastern Command,Communication Equipment,208,Operational,3394.4,27,2026-06-05,Cancelled,777.0,0.45,943094.78,False,False,False,False,False,False,2026-06,1213.76,Low
+Unit-121,Central Command,Medical Unit,18,Operational,4726.2,30,2026-06-28,Delivered,82.0,0.84,808538.07,False,False,False,False,False,False,2026-06,9860.22,High
+Unit-103,Northern Command,Communication Equipment,125,Awaiting Parts,219.2,25,2026-06-10,In Transit,400.0,0.67,620682.79,False,False,False,False,False,False,2026-06,1551.71,Moderate
+Unit-112,Central Command,Medical Unit,170,Operational,3269.3,5,2026-05-01,Delayed,515.0,0.93,349360.62,False,False,False,False,False,False,2026-05,678.37,High
+Unit-112,Eastern Command,Transport Vehicle,214,Under Maintenance,4332.5,11,2026-08-02,In Transit,270.0,0.7,1311756.75,False,False,False,False,False,False,2026-08,4858.36,Moderate
+Unit-109,Central Command,Medical Unit,93,Under Maintenance,2481.2,19,2026-03-17,Delayed,746.0,0.98,207727.08,True,False,False,False,False,False,2026-03,278.45,High
+Unit-115,Northern Command,Communication Equipment,194,Awaiting Parts,417.2,28,2026-03-04,Delayed,196.0,0.58,844515.17,False,False,False,False,False,False,2026-03,4308.75,Low
+Unit-109,Southern Command,Communication Equipment,106,Operational,2481.2,8,2026-05-19,Delayed,264.0,0.53,593474.77,True,False,False,False,False,False,2026-05,2248.01,Low
+Unit-106,Western Command,Transport Vehicle,106,Awaiting Parts,4801.7,22,2026-06-16,Delayed,574.0,0.96,544557.88,False,False,False,False,False,False,2026-06,948.71,High
+Unit-106,Western Command,Medical Unit,46,Operational,1643.7,23,2026-08-02,Delivered,439.0,0.49,666130.42,False,False,False,False,False,False,2026-08,1517.38,Low
+Unit-115,Southern Command,Medical Unit,77,Awaiting Parts,2675.5,40,2026-01-08,Delayed,714.0,0.84,1743830.19,False,False,False,False,False,False,2026-01,2442.34,High
+Unit-103,Northern Command,Communication Equipment,129,Operational,3544.4,34,2026-06-07,Cancelled,426.0,0.8,1421752.4,False,False,False,False,False,False,2026-06,3337.45,High
+Unit-127,Southern Command,Medical Unit,14,Awaiting Parts,2934.4,0,2026-07-02,Delivered,539.0,0.56,1357679.33,False,False,False,False,False,False,2026-07,2518.89,Low
+Unit-118,Southern Command,Transport Vehicle,7,Operational,4613.1,33,2026-04-07,Delayed,52.0,0.53,1642662.55,False,False,False,False,False,False,2026-04,31589.66,Low
+Unit-118,Western Command,Transport Vehicle,12,Under Maintenance,1430.6,34,2026-05-01,Cancelled,790.0,0.45,1009522.72,False,False,False,False,False,False,2026-05,1277.88,Low
+Unit-112,Eastern Command,Engineering Equipment,240,Decommissioned,3900.5,28,2026-04-26,Cancelled,797.0,0.74,2303927.06,False,False,False,False,False,False,2026-04,2890.75,Moderate
+Unit-103,Western Command,Medical Unit,250,Awaiting Parts,2304.0,29,2026-05-10,In Transit,394.0,0.45,188893.97,False,False,False,False,False,False,2026-05,479.43,Low
+Unit-124,Central Command,Medical Unit,171,Operational,4589.3,18,2026-04-22,In Transit,498.0,0.44,749378.78,False,False,False,False,False,False,2026-04,1504.78,Low
+Unit-106,Northern Command,Communication Equipment,210,Awaiting Parts,4071.0,0,2026-04-08,Delayed,269.0,0.77,89099.04,False,False,False,False,False,False,2026-04,331.22,Moderate
+Unit-109,Western Command,Transport Vehicle,10,Under Maintenance,2384.4,32,2026-04-16,Delivered,639.0,0.97,387245.58,False,False,False,False,False,False,2026-04,606.02,High
+Unit-112,Northern Command,Transport Vehicle,192,Awaiting Parts,4369.6,11,2026-08-09,Cancelled,191.0,0.82,1760765.12,False,False,False,False,False,False,2026-08,9218.67,High
+Unit-109,Northern Command,Transport Vehicle,129,Decommissioned,4211.2,37,2026-06-26,Cancelled,104.0,0.45,2303455.96,False,False,False,False,False,False,2026-06,22148.62,Low
+Unit-103,Western Command,Communication Equipment,82,Awaiting Parts,4608.0,25,2026-01-15,Delayed,668.0,0.43,1371093.53,False,False,False,False,False,False,2026-01,2052.54,Low
+Unit-100,Eastern Command,Communication Equipment,24,Awaiting Parts,3679.0,3,2026-06-17,Delivered,135.0,0.43,2056391.81,False,False,False,False,False,False,2026-06,15232.53,Low
+Unit-115,Eastern Command,Artillery Support,38,Awaiting Parts,663.1,37,2026-04-23,Delayed,470.0,0.47,1765153.76,False,False,False,False,False,False,2026-04,3755.65,Low
+Unit-109,Northern Command,Engineering Equipment,65,Operational,2913.5,14,2026-02-17,In Transit,176.0,0.53,1036086.6,False,False,False,False,False,False,2026-02,5886.86,Low
+Unit-100,Central Command,Engineering Equipment,18,Decommissioned,2481.2,4,2026-05-16,Delayed,192.0,0.69,2010827.66,True,False,False,False,False,False,2026-05,10473.06,Moderate
+Unit-112,Southern Command,Communication Equipment,179,Operational,2557.0,26,2026-06-30,In Transit,98.0,0.5,1167765.82,False,False,False,False,False,False,2026-06,11915.98,Low
+Unit-109,Eastern Command,Transport Vehicle,19,Operational,4575.3,23,2026-01-07,Delayed,369.0,0.95,2056700.94,False,False,False,False,False,False,2026-01,5573.72,High
+Unit-118,Eastern Command,Communication Equipment,78,Awaiting Parts,851.5,13,2026-04-25,Delayed,217.0,0.75,354938.98,False,False,False,False,False,False,2026-04,1635.66,Moderate
+Unit-127,Southern Command,Artillery Support,212,Under Maintenance,3334.0,5,2026-08-04,Delivered,753.0,0.43,3537507.31875,False,False,False,False,False,True,2026-08,4697.88,Low
+Unit-112,Central Command,Transport Vehicle,25,Operational,1063.0,36,2026-05-05,Delayed,287.0,0.96,735570.0,False,False,False,False,False,False,2026-05,2562.96,High
+Unit-112,Southern Command,Transport Vehicle,115,Decommissioned,1819.4,1,2026-06-17,Delayed,565.0,0.9,781857.8,False,False,False,False,False,False,2026-06,1383.82,High
+Unit-124,Eastern Command,Communication Equipment,9,Under Maintenance,1310.3,12,2026-06-27,Delivered,615.0,0.66,1988385.67,False,False,False,False,False,False,2026-06,3233.15,Moderate
+Unit-121,Eastern Command,Artillery Support,35,Under Maintenance,4058.0,35,2026-01-04,In Transit,740.0,0.51,684826.97,False,False,False,False,False,False,2026-01,925.44,Low
+Unit-100,Eastern Command,Medical Unit,135,Decommissioned,1939.0,17,2026-07-12,Cancelled,421.0,0.77,1204339.95,False,False,False,False,False,False,2026-07,2860.66,Moderate
+Unit-115,Eastern Command,Artillery Support,161,Under Maintenance,4334.6,33,2026-05-11,Delayed,611.0,0.92,321560.35,False,False,False,False,False,False,2026-05,526.29,High
+Unit-115,Western Command,Medical Unit,97,Operational,186.2,2,2026-05-23,Cancelled,518.0,0.97,2279303.3,False,False,False,False,False,False,2026-05,4400.2,High
+Unit-124,Northern Command,Medical Unit,243,Awaiting Parts,2377.6,29,2026-07-20,Delayed,424.5,0.6,660894.73,False,True,False,False,False,False,2026-07,1556.88,Moderate
+Unit-118,Eastern Command,Medical Unit,166,Decommissioned,3081.1,17,2026-07-02,In Transit,642.0,0.53,598473.77,False,False,False,False,False,False,2026-07,932.2,Low
+Unit-118,Central Command,Transport Vehicle,26,Operational,4108.6,8,2026-05-19,Delivered,505.0,0.75,1142861.2,False,False,False,False,False,False,2026-05,2263.09,Moderate
+Unit-115,Eastern Command,Transport Vehicle,132,Awaiting Parts,153.1,8,2026-01-17,Delayed,424.5,0.98,2191780.45,False,True,False,False,False,False,2026-01,5163.2,High
+Unit-100,Eastern Command,Artillery Support,78,Awaiting Parts,2168.9,34,2026-05-09,Cancelled,665.0,0.54,1179224.63,False,False,False,False,False,False,2026-05,1773.27,Low
+Unit-115,Central Command,Artillery Support,220,Under Maintenance,1985.1,0,2026-01-01,Delivered,271.0,0.67,2033016.96,False,False,False,False,False,False,2026-01,7501.91,Moderate
+Unit-112,Eastern Command,Engineering Equipment,96,Awaiting Parts,2002.3,18,2026-01-29,Delivered,712.0,0.65,1607737.72,False,False,False,False,False,False,2026-01,2258.06,Moderate
+Unit-109,Southern Command,Communication Equipment,220,Operational,3762.3,21,2026-03-28,Cancelled,463.0,0.56,2033708.07,False,False,False,False,False,False,2026-03,4392.46,Low
+Unit-112,Central Command,Transport Vehicle,188,Operational,7134.462499999999,14,2026-02-08,Unknown,447.0,0.71,2244079.0,False,False,False,True,True,False,2026-02,5020.31,Moderate
+Unit-112,Northern Command,Communication Equipment,32,Decommissioned,4428.0,34,2026-06-01,Delayed,424.5,0.8,1182034.06,False,True,False,False,False,False,2026-06,2784.53,High
+Unit-100,Northern Command,Communication Equipment,23,Operational,1244.9,32,2026-04-26,Delivered,460.0,0.97,797744.6,False,False,False,False,False,False,2026-04,1734.23,High
+Unit-127,Eastern Command,Transport Vehicle,45,Unknown,3429.0,26,2026-01-15,Delayed,608.0,0.61,1979268.63,False,False,True,False,False,False,2026-01,3255.38,Moderate
+Unit-100,Northern Command,Transport Vehicle,172,Under Maintenance,4257.4,27,2026-07-25,Delayed,653.0,0.97,1132260.35,False,False,False,False,False,False,2026-07,1733.94,High
+Unit-109,Central Command,Engineering Equipment,9,Operational,4838.4,22,2026-02-19,In Transit,71.0,0.5,908063.15,False,False,False,False,False,False,2026-02,12789.62,Low
+Unit-121,Central Command,Transport Vehicle,192,Awaiting Parts,2592.1,34,2026-05-07,Delayed,450.0,0.67,2381120.49,False,False,False,False,False,False,2026-05,5291.38,Moderate
+Unit-112,Southern Command,Communication Equipment,137,Operational,260.6,4,2026-02-14,Delayed,725.0,0.46,424397.24,False,False,False,False,False,False,2026-02,585.38,Low
+Unit-124,Eastern Command,Medical Unit,59,Decommissioned,67.8,2,2026-05-05,Delivered,429.0,0.79,1295040.48,False,False,False,False,False,False,2026-05,3018.74,Moderate
+Unit-118,Eastern Command,Transport Vehicle,202,Decommissioned,1934.3,19,2026-02-17,In Transit,168.0,0.66,973647.7,False,False,False,False,False,False,2026-02,5795.52,Moderate
+Unit-124,Northern Command,Engineering Equipment,75,Awaiting Parts,4147.3,25,2026-03-27,In Transit,538.0,0.61,548652.18,False,False,False,False,False,False,2026-03,1019.8,Moderate
+Unit-109,Southern Command,Medical Unit,248,Under Maintenance,1963.1,40,2026-06-17,Delayed,82.0,0.6,1568633.67,False,False,False,False,False,False,2026-06,19129.68,Moderate
+Unit-124,Western Command,Communication Equipment,10,Awaiting Parts,2153.8,21,2026-04-04,Delivered,489.0,0.5,1350750.13,False,False,False,False,False,False,2026-04,2762.27,Low
+Unit-106,Western Command,Medical Unit,72,Decommissioned,108.0,39,2026-05-04,Delivered,788.0,0.45,2488849.9,False,False,False,False,False,False,2026-05,3158.44,Low
+Unit-112,Western Command,Transport Vehicle,88,Decommissioned,2481.2,38,2026-05-24,Delayed,729.0,0.65,773102.59,True,False,False,False,False,False,2026-05,1060.5,Moderate
+Unit-103,Eastern Command,Transport Vehicle,100,Unknown,4394.0,34,2026-08-01,Delayed,425.0,0.91,344894.89,False,False,True,False,False,False,2026-08,811.52,High
+Unit-109,Western Command,Communication Equipment,113,Operational,1655.4,20,2026-05-02,Cancelled,502.0,0.82,843857.71,False,False,False,False,False,False,2026-05,1680.99,High
+Unit-115,Central Command,Communication Equipment,139,Decommissioned,2337.0,26,2026-02-17,Delivered,728.0,0.67,1586618.36,False,False,False,False,False,False,2026-02,2179.42,Moderate
+Unit-115,Central Command,Artillery Support,90,Decommissioned,1705.4,21,2026-06-21,Unknown,535.0,0.62,646383.9,False,False,False,True,False,False,2026-06,1208.19,Moderate
+Unit-127,Western Command,Artillery Support,184,Operational,1756.4,22,2026-06-15,Cancelled,386.0,0.57,1745558.46,False,False,False,False,False,False,2026-06,4522.17,Low
+Unit-109,Southern Command,Communication Equipment,157,Operational,2753.3,22,2026-06-23,Delivered,767.0,0.54,2209328.48,False,False,False,False,False,False,2026-06,2880.48,Low
+Unit-103,Western Command,Communication Equipment,105,Operational,4664.4,22,2026-01-09,Cancelled,618.0,0.59,1287013.36,False,False,False,False,False,False,2026-01,2082.55,Low
+Unit-115,Northern Command,Communication Equipment,46,Awaiting Parts,2094.6,1,2026-05-26,Delayed,264.0,0.9,50386.8,False,False,False,False,False,False,2026-05,190.86,High
+Unit-127,Northern Command,Communication Equipment,218,Decommissioned,3413.5,28,2026-02-04,Delivered,661.0,0.99,1817918.47,False,False,False,False,False,False,2026-02,2750.25,High
+Unit-100,Northern Command,Communication Equipment,44,Decommissioned,4124.5,39,2026-04-21,Delivered,720.0,0.86,840913.77,False,False,False,False,False,False,2026-04,1167.94,High
+Unit-103,Northern Command,Transport Vehicle,243,Operational,4707.4,28,2026-08-04,Delivered,213.0,0.87,1638025.8,False,False,False,False,False,False,2026-08,7690.26,High
+Unit-118,Eastern Command,Communication Equipment,123,Decommissioned,1104.1,1,2026-01-27,In Transit,322.0,0.98,1097726.76,False,False,False,False,False,False,2026-01,3409.09,High
+Unit-112,Central Command,Artillery Support,75,Decommissioned,2525.4,11,2026-03-11,Delivered,276.0,0.42,95163.05,False,False,False,False,False,False,2026-03,344.79,Low
+Unit-115,Southern Command,Engineering Equipment,103,Decommissioned,1625.4,26,2026-04-09,Cancelled,424.5,0.63,1054432.52,False,True,False,False,False,False,2026-04,2483.94,Moderate
+Unit-103,Western Command,Engineering Equipment,87,Under Maintenance,860.8,14,2026-05-02,In Transit,285.0,0.95,591831.91,False,False,False,False,False,False,2026-05,2076.6,High
+Unit-109,Northern Command,Transport Vehicle,57,Under Maintenance,440.1,18,2026-04-26,Delivered,29.0,0.74,699158.41,False,False,False,False,False,False,2026-04,24108.91,Moderate
+Unit-100,Eastern Command,Medical Unit,192,Under Maintenance,2715.9,14,2026-05-13,Delayed,637.0,0.5,2187323.44,False,False,False,False,False,False,2026-05,3433.79,Low
+Unit-118,Eastern Command,Artillery Support,88,Under Maintenance,2769.5,25,2026-06-16,In Transit,138.0,0.48,2265839.9,False,False,False,False,False,False,2026-06,16419.13,Low
+Unit-109,Southern Command,Medical Unit,53,Under Maintenance,965.1,25,2026-01-20,In Transit,730.0,0.93,1657537.21,False,False,False,False,False,False,2026-01,2270.6,High
+Unit-118,Central Command,Communication Equipment,167,Decommissioned,2936.4,29,2026-02-23,Delayed,339.0,0.54,1535346.89,False,False,False,False,False,False,2026-02,4529.05,Low
+Unit-100,Northern Command,Engineering Equipment,91,Awaiting Parts,1364.3,15,2026-01-18,Delivered,791.0,0.76,2079371.64,False,False,False,False,False,False,2026-01,2628.79,Moderate
+Unit-115,Northern Command,Medical Unit,130,Operational,251.2,8,2026-01-22,In Transit,757.0,0.71,182949.08,False,False,False,False,False,False,2026-01,241.68,Moderate
+Unit-109,Southern Command,Communication Equipment,162,Under Maintenance,1521.4,30,2026-05-10,Delayed,483.0,0.81,2358113.59,False,False,False,False,False,False,2026-05,4882.22,High
+Unit-121,Northern Command,Transport Vehicle,73,Operational,2481.2,31,2026-04-11,In Transit,382.0,0.98,261615.98,True,False,False,False,False,False,2026-04,684.86,High
+Unit-127,Central Command,Medical Unit,229,Under Maintenance,541.6,17,2026-03-30,Cancelled,429.0,0.73,454977.73,False,False,False,False,False,False,2026-03,1060.55,Moderate
+Unit-103,Central Command,Medical Unit,183,Awaiting Parts,2043.8,31,2026-01-14,Delivered,426.0,0.86,532720.14,False,False,False,False,False,False,2026-01,1250.52,High
+Unit-127,Northern Command,Medical Unit,63,Decommissioned,3307.7,37,2026-06-24,Delayed,466.0,0.45,2248978.93,False,False,False,False,False,False,2026-06,4826.14,Low
+Unit-118,Northern Command,Communication Equipment,98,Awaiting Parts,4302.2,38,2026-05-27,In Transit,550.0,0.44,2233614.65,False,False,False,False,False,False,2026-05,4061.12,Low
+Unit-124,Western Command,Medical Unit,224,Operational,3405.4,5,2026-05-19,Cancelled,49.0,0.79,1440818.4,False,False,False,False,False,False,2026-05,29404.46,Moderate
+Unit-100,Northern Command,Transport Vehicle,192,Operational,2288.6,31,2026-07-19,Delayed,234.0,0.61,817834.21,False,False,False,False,False,False,2026-07,3495.02,Moderate
+Unit-100,Central Command,Artillery Support,14,Operational,1452.2,27,2026-06-12,Delayed,653.0,0.76,240622.99,False,False,False,False,False,False,2026-06,368.49,Moderate
+Unit-100,Central Command,Engineering Equipment,69,Decommissioned,3892.0,30,2026-04-30,Delivered,699.0,0.63,608184.5,False,False,False,False,False,False,2026-04,870.08,Moderate
+Unit-112,Central Command,Transport Vehicle,100,Under Maintenance,2320.2,40,2026-05-24,In Transit,308.0,0.49,1958542.76,False,False,False,False,False,False,2026-05,6358.91,Low
+Unit-103,Northern Command,Transport Vehicle,51,Under Maintenance,1068.8,16,2026-03-06,In Transit,521.0,0.51,50445.09,False,False,False,False,False,False,2026-03,96.82,Low
+Unit-115,Western Command,Communication Equipment,229,Operational,176.6,16,2026-05-25,In Transit,569.0,0.86,1369324.03,False,False,False,False,False,False,2026-05,2406.54,High
+Unit-118,Southern Command,Transport Vehicle,115,Decommissioned,934.9,0,2026-06-08,Cancelled,260.0,0.67,1565509.38,False,False,False,False,False,False,2026-06,6021.19,Moderate
+Unit-121,Western Command,Medical Unit,101,Under Maintenance,4371.5,39,2026-05-13,In Transit,357.0,0.72,812579.59,False,False,False,False,False,False,2026-05,2276.13,Moderate
+Unit-106,Southern Command,Transport Vehicle,44,Decommissioned,2222.1,16,2026-05-29,Delayed,362.0,0.68,2218557.53,False,False,False,False,False,False,2026-05,6128.61,Moderate
+Unit-106,Western Command,Engineering Equipment,199,Under Maintenance,393.2,18,2026-05-12,Delayed,783.0,0.78,2116907.05,False,False,False,False,False,False,2026-05,2703.58,Moderate
+Unit-118,Eastern Command,Engineering Equipment,227,Decommissioned,4867.1,3,2026-05-13,Cancelled,350.0,0.48,1145645.94,False,False,False,False,False,False,2026-05,3273.27,Low
+Unit-127,Eastern Command,Transport Vehicle,70,Awaiting Parts,4790.6,39,2026-01-12,In Transit,302.0,0.58,1817851.57,False,False,False,False,False,False,2026-01,6019.38,Low
+Unit-118,Central Command,Artillery Support,83,Decommissioned,1788.8,27,2026-05-11,Cancelled,538.0,0.8,2274391.85,False,False,False,False,False,False,2026-05,4227.49,High
+Unit-121,Eastern Command,Communication Equipment,132,Decommissioned,1634.2,25,2026-06-30,Delivered,450.0,0.82,1400487.07,False,False,False,False,False,False,2026-06,3112.19,High
+Unit-121,Western Command,Transport Vehicle,207,Under Maintenance,2980.5,26,2026-04-23,Cancelled,572.0,0.8,1381435.87,False,False,False,False,False,False,2026-04,2415.1,High
+Unit-112,Central Command,Transport Vehicle,166,Awaiting Parts,710.6,22,2026-04-18,Cancelled,764.0,0.84,1463054.71,False,False,False,False,False,False,2026-04,1914.99,High
+Unit-106,Central Command,Transport Vehicle,249,Under Maintenance,1302.6,21,2026-07-12,Cancelled,448.0,0.97,1576934.87,False,False,False,False,False,False,2026-07,3519.94,High
+Unit-121,Northern Command,Communication Equipment,38,Awaiting Parts,3787.0,12,2026-06-23,In Transit,623.0,0.75,1906849.61,False,False,False,False,False,False,2026-06,3060.75,Moderate
+Unit-103,Eastern Command,Transport Vehicle,87,Decommissioned,2230.3,1,2026-04-09,In Transit,544.0,0.98,326482.4,False,False,False,False,False,False,2026-04,600.15,High
+Unit-103,Central Command,Artillery Support,184,Awaiting Parts,2198.8,14,2026-05-14,Cancelled,424.5,0.72,492276.65,False,True,False,False,False,False,2026-05,1159.66,Moderate
+Unit-103,Southern Command,Communication Equipment,58,Operational,1263.9,33,2026-04-14,In Transit,259.0,0.97,726212.96,False,False,False,False,False,False,2026-04,2803.91,High
+Unit-121,Eastern Command,Transport Vehicle,33,Unknown,508.4,15,2026-04-09,Cancelled,462.0,0.97,2129275.01,False,False,True,False,False,False,2026-04,4608.82,High
+Unit-127,Western Command,Medical Unit,191,Unknown,2855.1,23,2026-05-07,Delayed,80.0,0.79,310912.81,False,False,True,False,False,False,2026-05,3886.41,Moderate
+Unit-109,Northern Command,Engineering Equipment,15,Under Maintenance,1567.4,34,2026-03-12,In Transit,267.0,0.56,1123266.17,False,False,False,False,False,False,2026-03,4206.99,Low
+Unit-124,Southern Command,Medical Unit,172,Awaiting Parts,2565.3,35,2026-06-09,Delivered,194.0,0.89,2217208.72,False,False,False,False,False,False,2026-06,11428.91,High
+Unit-118,Southern Command,Transport Vehicle,81,Under Maintenance,4969.5,29,2026-06-15,Cancelled,292.0,0.54,2039324.6,False,False,False,False,False,False,2026-06,6983.99,Low
+Unit-121,Northern Command,Communication Equipment,27,Under Maintenance,2054.3,35,2026-04-11,Delayed,699.0,0.56,2297377.46,False,False,False,False,False,False,2026-04,3286.66,Low
+Unit-115,Southern Command,Engineering Equipment,156,Operational,634.4,26,2026-02-12,Delayed,520.0,0.65,2406946.75,False,False,False,False,False,False,2026-02,4628.74,Moderate
+Unit-106,Northern Command,Engineering Equipment,151,Operational,2494.8,26,2026-05-27,Delayed,357.0,0.66,1082251.43,False,False,False,False,False,False,2026-05,3031.52,Moderate
+Unit-127,Western Command,Communication Equipment,245,Decommissioned,954.2,10,2026-04-05,Delayed,196.0,0.42,676862.37,False,False,False,False,False,False,2026-04,3453.38,Low
+Unit-100,Southern Command,Communication Equipment,76,Under Maintenance,440.2,32,2026-05-15,Cancelled,705.0,0.77,1962837.1,False,False,False,False,False,False,2026-05,2784.17,Moderate
+Unit-127,Western Command,Engineering Equipment,135,Operational,1777.7,27,2026-04-24,Cancelled,540.0,0.43,1760725.2,False,False,False,False,False,False,2026-04,3260.6,Low
+Unit-127,Northern Command,Transport Vehicle,237,Decommissioned,3790.5,3,2026-03-13,Delivered,697.0,0.57,2342195.23,False,False,False,False,False,False,2026-03,3360.39,Low
+Unit-103,Northern Command,Communication Equipment,247,Decommissioned,3770.4,29,2026-04-16,In Transit,230.0,0.72,1487863.32,False,False,False,False,False,False,2026-04,6468.97,Moderate
+Unit-103,Western Command,Engineering Equipment,93,Awaiting Parts,2042.3,33,2026-08-08,Delayed,65.0,0.95,1258508.1,False,False,False,False,False,False,2026-08,19361.66,High
+Unit-103,Central Command,Engineering Equipment,94,Awaiting Parts,1151.0,25,2026-04-04,Delayed,753.0,0.66,1133847.34,False,False,False,False,False,False,2026-04,1505.77,Moderate
+Unit-103,Southern Command,Communication Equipment,110,Awaiting Parts,2481.2,2,2026-02-26,Delivered,483.0,0.99,635156.08,True,False,False,False,False,False,2026-02,1315.02,High
+Unit-103,Western Command,Engineering Equipment,147,Awaiting Parts,1086.6,7,2026-01-25,Delayed,595.0,0.99,2080396.85,False,False,False,False,False,False,2026-01,3496.47,High
+Unit-115,Northern Command,Transport Vehicle,26,Unknown,2559.7,12,2026-04-07,Delayed,739.0,0.82,429411.1,False,False,True,False,False,False,2026-04,581.07,High
+Unit-100,Western Command,Engineering Equipment,172,Awaiting Parts,1538.5,5,2026-02-22,In Transit,586.0,0.96,2036198.9,False,False,False,False,False,False,2026-02,3474.74,High
+Unit-121,Southern Command,Artillery Support,92,Awaiting Parts,3904.0,24,2026-03-18,Delayed,226.0,0.4,1728706.72,False,False,False,False,False,False,2026-03,7649.14,Low
+Unit-100,Central Command,Engineering Equipment,216,Decommissioned,2843.6,9,2026-07-30,In Transit,113.0,0.48,1762422.54,False,False,False,False,False,False,2026-07,15596.66,Low
+Unit-124,Northern Command,Medical Unit,67,Awaiting Parts,2466.3,10,2026-03-01,In Transit,424.5,0.93,1851707.36,False,True,False,False,False,False,2026-03,4362.09,High
+Unit-124,Eastern Command,Transport Vehicle,41,Decommissioned,4762.7,5,2026-05-06,Delayed,458.0,0.86,1454652.63,False,False,False,False,False,False,2026-05,3176.1,High
+Unit-115,Northern Command,Transport Vehicle,216,Decommissioned,7134.462499999999,4,2026-06-19,Cancelled,366.0,0.44,71554.9,False,False,False,False,True,False,2026-06,195.51,Low
+Unit-115,Southern Command,Artillery Support,67,Operational,2251.9,1,2026-01-23,Delivered,240.0,0.68,1199120.89,False,False,False,False,False,False,2026-01,4996.34,Moderate
+Unit-112,Northern Command,Medical Unit,153,Operational,1455.1,27,2026-01-31,Unknown,128.0,0.96,971669.54,False,False,False,True,False,False,2026-01,7591.17,High
+Unit-106,Southern Command,Medical Unit,202,Under Maintenance,2481.2,7,2026-08-07,Cancelled,769.0,0.78,503767.89,True,False,False,False,False,False,2026-08,655.09,Moderate
+Unit-121,Eastern Command,Transport Vehicle,156,Decommissioned,477.2,39,2026-06-26,Delayed,655.0,0.64,2123560.88,False,False,False,False,False,False,2026-06,3242.08,Moderate
+Unit-106,Southern Command,Artillery Support,56,Decommissioned,909.3,23,2026-04-06,In Transit,561.0,0.72,3537507.31875,False,False,False,False,False,True,2026-04,6305.72,Moderate
+Unit-115,Central Command,Transport Vehicle,152,Under Maintenance,3521.1,31,2026-02-03,Delivered,644.0,0.43,2489732.36,False,False,False,False,False,False,2026-02,3866.04,Low
+Unit-127,Eastern Command,Medical Unit,249,Under Maintenance,1590.2,13,2026-05-04,In Transit,149.0,0.62,1300717.07,False,False,False,False,False,False,2026-05,8729.64,Moderate
+Unit-109,Central Command,Transport Vehicle,118,Awaiting Parts,3083.4,30,2026-07-29,Delivered,268.0,0.6,512570.01,False,False,False,False,False,False,2026-07,1912.57,Moderate
+Unit-127,Southern Command,Engineering Equipment,241,Decommissioned,4372.9,1,2026-03-23,In Transit,424.5,0.65,1789852.61,False,True,False,False,False,False,2026-03,4216.38,Moderate
+Unit-127,Eastern Command,Transport Vehicle,65,Awaiting Parts,1940.1,3,2026-01-04,Cancelled,450.0,0.78,1703466.06,False,False,False,False,False,False,2026-01,3785.48,Moderate
+Unit-106,Southern Command,Communication Equipment,48,Awaiting Parts,4111.0,22,2026-01-26,Delivered,244.0,0.62,2358243.31,False,False,False,False,False,False,2026-01,9664.93,Moderate
+Unit-127,Central Command,Medical Unit,85,Awaiting Parts,1152.6,40,2026-07-28,Delayed,273.0,0.67,2052711.1,False,False,False,False,False,False,2026-07,7519.09,Moderate
+Unit-106,Northern Command,Engineering Equipment,130,Operational,1710.0,6,2026-05-14,Delayed,542.0,0.64,610863.63,False,False,False,False,False,False,2026-05,1127.05,Moderate
+Unit-127,Southern Command,Communication Equipment,213,Under Maintenance,616.7,18,2026-01-04,Cancelled,231.0,0.43,2244739.42,False,False,False,False,False,False,2026-01,9717.49,Low
+Unit-103,Central Command,Communication Equipment,79,Operational,4323.2,6,2026-04-20,Unknown,621.0,0.9,2163258.73,False,False,False,True,False,False,2026-04,3483.51,High
+Unit-109,Central Command,Medical Unit,221,Under Maintenance,1161.3,17,2026-04-30,Delivered,427.0,0.56,2308486.85,False,False,False,False,False,False,2026-04,5406.29,Low
+Unit-106,Western Command,Engineering Equipment,54,Awaiting Parts,3305.7,14,2026-06-26,Cancelled,550.0,0.46,944898.44,False,False,False,False,False,False,2026-06,1718.0,Low
+Unit-109,Western Command,Medical Unit,199,Decommissioned,880.4,22,2026-05-23,In Transit,141.0,0.84,1130181.5,False,False,False,False,False,False,2026-05,8015.47,High
+Unit-127,Eastern Command,Engineering Equipment,154,Under Maintenance,2481.2,31,2026-05-30,Delivered,306.0,0.54,809733.67,True,False,False,False,False,False,2026-05,2646.19,Low
+Unit-124,Southern Command,Communication Equipment,150,Decommissioned,1408.8,26,2026-07-30,Delayed,696.0,0.43,578484.82,False,False,False,False,False,False,2026-07,831.16,Low
+Unit-100,Eastern Command,Engineering Equipment,239,Awaiting Parts,289.6,23,2026-03-24,Cancelled,314.0,0.77,125904.33,False,False,False,False,False,False,2026-03,400.97,Moderate
+Unit-100,Eastern Command,Artillery Support,101,Decommissioned,1058.2,0,2026-04-22,Unknown,136.0,0.89,1045233.33,False,False,False,True,False,False,2026-04,7685.54,High
+Unit-115,Southern Command,Communication Equipment,57,Under Maintenance,3384.3,29,2026-05-01,Delivered,507.0,0.47,1399811.48,False,False,False,False,False,False,2026-05,2760.97,Low
+Unit-121,Central Command,Transport Vehicle,101,Decommissioned,3978.6,21,2026-07-31,Cancelled,109.0,0.54,1696238.76,False,False,False,False,False,False,2026-07,15561.82,Low
+Unit-103,Eastern Command,Communication Equipment,50,Operational,1369.5,27,2026-01-23,In Transit,602.0,0.82,1312177.3,False,False,False,False,False,False,2026-01,2179.7,High
+Unit-115,Eastern Command,Communication Equipment,89,Unknown,3303.9,38,2026-05-28,Delayed,778.0,0.77,2042962.52,False,False,True,False,False,False,2026-05,2625.92,Moderate
+Unit-127,Eastern Command,Communication Equipment,131,Decommissioned,655.6,13,2026-04-23,Cancelled,391.0,0.41,609195.96,False,False,False,False,False,False,2026-04,1558.05,Low
+Unit-109,Southern Command,Transport Vehicle,17,Decommissioned,2475.3,25,2026-04-09,Delayed,36.0,0.9,3537507.31875,False,False,False,False,False,True,2026-04,98264.09,High
+Unit-124,Southern Command,Engineering Equipment,195,Under Maintenance,2382.0,29,2026-08-08,Unknown,61.0,0.46,2370860.34,False,False,False,True,False,False,2026-08,38866.56,Low
+Unit-106,Northern Command,Medical Unit,103,Awaiting Parts,2191.0,39,2026-04-01,Cancelled,440.0,0.4,362787.55,False,False,False,False,False,False,2026-04,824.52,Low
+Unit-103,Western Command,Transport Vehicle,199,Operational,2051.6,3,2026-04-06,Delivered,738.0,0.76,572177.57,False,False,False,False,False,False,2026-04,775.31,Moderate
+Unit-127,Southern Command,Communication Equipment,146,Operational,4315.4,10,2026-04-13,Delayed,754.0,0.79,1745478.79,False,False,False,False,False,False,2026-04,2314.96,Moderate
+Unit-100,Western Command,Communication Equipment,220,Awaiting Parts,1725.3,35,2026-04-29,Delayed,27.0,0.55,2269198.93,False,False,False,False,False,False,2026-04,84044.4,Low
+Unit-112,Northern Command,Communication Equipment,7,Decommissioned,4871.3,26,2026-07-11,In Transit,36.0,0.95,1852556.86,False,False,False,False,False,False,2026-07,51459.91,High
+Unit-100,Western Command,Communication Equipment,206,Decommissioned,3733.7,16,2026-05-07,In Transit,632.0,0.84,2426826.05,False,False,False,False,False,False,2026-05,3839.91,High
+Unit-103,Northern Command,Artillery Support,172,Awaiting Parts,4271.7,5,2026-06-06,Cancelled,503.0,0.99,974733.68,False,False,False,False,False,False,2026-06,1937.84,High
+Unit-109,Central Command,Communication Equipment,159,Under Maintenance,1802.6,10,2026-03-27,In Transit,279.0,0.68,2187551.64,False,False,False,False,False,False,2026-03,7840.69,Moderate
+Unit-100,Southern Command,Medical Unit,80,Operational,1566.7,36,2026-05-17,Delivered,60.0,0.92,416878.36,False,False,False,False,False,False,2026-05,6947.97,High
+Unit-103,Southern Command,Engineering Equipment,225,Operational,3050.4,27,2026-04-24,In Transit,103.0,0.84,1639419.38,False,False,False,False,False,False,2026-04,15916.69,High
+Unit-109,Central Command,Engineering Equipment,68,Decommissioned,4295.6,22,2026-05-14,Cancelled,604.0,0.53,398119.44,False,False,False,False,False,False,2026-05,659.14,Low
+Unit-121,Northern Command,Medical Unit,83,Decommissioned,342.7,33,2026-02-26,In Transit,674.0,0.54,1107291.29,False,False,False,False,False,False,2026-02,1642.87,Low
+Unit-103,Central Command,Transport Vehicle,159,Under Maintenance,2507.3,34,2026-04-20,Cancelled,619.0,0.95,935876.77,False,False,False,False,False,False,2026-04,1511.92,High
+Unit-118,Southern Command,Medical Unit,70,Awaiting Parts,1540.7,34,2026-08-01,Delayed,521.0,0.51,550412.5,False,False,False,False,False,False,2026-08,1056.45,Low
+Unit-118,Eastern Command,Communication Equipment,247,Awaiting Parts,4185.9,13,2026-06-12,Delayed,398.0,0.86,787073.08,False,False,False,False,False,False,2026-06,1977.57,High
+Unit-124,Eastern Command,Communication Equipment,120,Under Maintenance,2227.9,32,2026-02-03,Cancelled,611.0,0.57,646331.69,False,False,False,False,False,False,2026-02,1057.83,Low
+Unit-121,Southern Command,Engineering Equipment,234,Decommissioned,4083.3,8,2026-05-08,Delivered,776.0,0.58,1745669.35,False,False,False,False,False,False,2026-05,2249.57,Low
+Unit-112,Southern Command,Artillery Support,22,Operational,2735.7,36,2026-01-15,Cancelled,424.5,0.51,1058371.68,False,True,False,False,False,False,2026-01,2493.22,Low
+Unit-109,Central Command,Artillery Support,118,Unknown,1987.4,9,2026-02-23,Delivered,424.5,0.94,2393399.11,False,True,True,False,False,False,2026-02,5638.16,High
+Unit-124,Southern Command,Medical Unit,33,Decommissioned,4742.2,1,2026-06-22,Cancelled,60.0,0.55,1296675.33,False,False,False,False,False,False,2026-06,21611.26,Low
+Unit-106,Central Command,Medical Unit,44,Operational,820.6,36,2026-05-16,Cancelled,364.0,0.92,1335308.43,False,False,False,False,False,False,2026-05,3668.43,High
+Unit-118,Northern Command,Artillery Support,105,Operational,2481.2,18,2026-04-04,Delayed,292.0,0.8,858935.17,True,False,False,False,False,False,2026-04,2941.56,High
+Unit-127,Western Command,Artillery Support,114,Under Maintenance,4388.2,21,2026-02-14,In Transit,433.0,0.91,2452858.49,False,False,False,False,False,False,2026-02,5664.8,High
+Unit-112,Eastern Command,Communication Equipment,148,Under Maintenance,1603.6,1,2026-03-23,Cancelled,146.0,0.97,1165359.62,False,False,False,False,False,False,2026-03,7981.92,High
+Unit-106,Central Command,Transport Vehicle,42,Awaiting Parts,2366.4,36,2026-05-08,In Transit,496.0,0.62,1076101.19,False,False,False,False,False,False,2026-05,2169.56,Moderate
+Unit-115,Eastern Command,Communication Equipment,47,Decommissioned,3985.4,16,2026-02-14,In Transit,650.0,0.95,1781226.3,False,False,False,False,False,False,2026-02,2740.35,High
+Unit-118,Northern Command,Artillery Support,53,Under Maintenance,604.3,2,2026-08-06,Delivered,789.0,0.78,754044.47,False,False,False,False,False,False,2026-08,955.7,Moderate
+Unit-109,Eastern Command,Communication Equipment,53,Decommissioned,3528.1,14,2026-03-21,In Transit,774.0,0.63,612606.76,False,False,False,False,False,False,2026-03,791.48,Moderate
+Unit-118,Northern Command,Communication Equipment,170,Under Maintenance,3214.0,5,2026-06-17,Cancelled,732.0,0.56,2471184.91,False,False,False,False,False,False,2026-06,3375.94,Low
+Unit-127,Central Command,Communication Equipment,27,Awaiting Parts,1239.7,37,2026-04-18,In Transit,403.0,0.97,1019217.89,False,False,False,False,False,False,2026-04,2529.08,High
+Unit-127,Western Command,Transport Vehicle,137,Awaiting Parts,1415.2,40,2026-06-30,In Transit,549.0,0.69,1775709.38,False,False,False,False,False,False,2026-06,3234.44,Moderate
+Unit-118,Northern Command,Transport Vehicle,219,Under Maintenance,2910.2,25,2026-02-24,In Transit,715.0,0.87,2104086.68,False,False,False,False,False,False,2026-02,2942.78,High
+Unit-100,Central Command,Artillery Support,99,Decommissioned,1236.3,21,2026-03-06,In Transit,424.5,0.96,657597.84,False,True,False,False,False,False,2026-03,1549.11,High
+Unit-103,Western Command,Medical Unit,185,Under Maintenance,3055.3,29,2026-05-12,Cancelled,488.0,0.66,1241965.49,False,False,False,False,False,False,2026-05,2545.01,Moderate
+Unit-115,Western Command,Medical Unit,207,Decommissioned,2221.0,23,2026-04-29,Cancelled,424.5,0.95,1927604.22,False,True,False,False,False,False,2026-04,4540.88,High
+Unit-106,Eastern Command,Artillery Support,137,Awaiting Parts,3200.4,39,2026-07-27,Unknown,424.5,0.84,605511.75,False,True,False,True,False,False,2026-07,1426.41,High
+Unit-106,Western Command,Communication Equipment,77,Awaiting Parts,2650.2,1,2026-05-14,Delayed,712.0,0.52,150328.43,False,False,False,False,False,False,2026-05,211.14,Low
+Unit-103,Northern Command,Communication Equipment,186,Decommissioned,2749.7,3,2026-04-13,Delivered,26.0,0.43,2063805.0,False,False,False,False,False,False,2026-04,79377.12,Low
+Unit-109,Western Command,Medical Unit,43,Awaiting Parts,4084.6,3,2026-01-08,Delayed,348.0,0.81,1705461.02,False,False,False,False,False,False,2026-01,4900.75,High
+Unit-121,Western Command,Medical Unit,200,Decommissioned,4020.1,8,2026-05-09,In Transit,292.0,0.45,332387.93,False,False,False,False,False,False,2026-05,1138.31,Low
+Unit-112,Western Command,Engineering Equipment,73,Operational,1691.1,31,2026-03-05,In Transit,719.0,0.77,2394230.01,False,False,False,False,False,False,2026-03,3329.94,Moderate
+Unit-109,Western Command,Communication Equipment,45,Awaiting Parts,2801.6,20,2026-03-03,In Transit,603.0,0.52,99200.23,False,False,False,False,False,False,2026-03,164.51,Low
+Unit-100,Southern Command,Transport Vehicle,229,Under Maintenance,1344.6,3,2026-01-31,In Transit,563.0,0.89,1713257.34,False,False,False,False,False,False,2026-01,3043.09,High
+Unit-103,Eastern Command,Artillery Support,227,Decommissioned,2481.2,0,2026-04-13,Unknown,532.0,0.99,775722.52,True,False,False,True,False,False,2026-04,1458.13,High
+Unit-103,Northern Command,Communication Equipment,83,Under Maintenance,1342.5,28,2026-06-15,Cancelled,571.0,0.9,1418702.43,False,False,False,False,False,False,2026-06,2484.59,High
+Unit-100,Eastern Command,Medical Unit,60,Operational,2411.4,32,2026-08-07,Cancelled,708.0,1.0,1571989.6,False,False,False,False,False,False,2026-08,2220.32,High
+Unit-121,Central Command,Medical Unit,241,Unknown,1554.2,30,2026-05-26,Delayed,787.0,0.73,2163280.21,False,False,True,False,False,False,2026-05,2748.77,Moderate
+Unit-127,Southern Command,Artillery Support,97,Decommissioned,3439.9,38,2026-07-17,Cancelled,310.0,0.81,837738.41,False,False,False,False,False,False,2026-07,2702.38,High
+Unit-109,Central Command,Transport Vehicle,26,Decommissioned,2728.1,30,2026-05-12,In Transit,554.0,0.61,1868169.33,False,False,False,False,False,False,2026-05,3372.15,Moderate
+Unit-103,Western Command,Communication Equipment,215,Under Maintenance,247.3,31,2026-08-08,Cancelled,452.0,0.46,2188672.16,False,False,False,False,False,False,2026-08,4842.2,Low
+Unit-112,Eastern Command,Medical Unit,209,Under Maintenance,3991.4,1,2026-06-20,Delivered,494.0,0.78,1529721.74,False,False,False,False,False,False,2026-06,3096.6,Moderate
+Unit-118,Eastern Command,Transport Vehicle,181,Under Maintenance,7134.462499999999,34,2026-04-10,Delivered,370.0,0.72,920451.98,False,False,False,False,True,False,2026-04,2487.71,Moderate
+Unit-127,Eastern Command,Artillery Support,2,Operational,421.2,7,2026-06-24,Delayed,552.0,0.63,2460139.12,False,False,False,False,False,False,2026-06,4456.77,Moderate
+Unit-100,Central Command,Medical Unit,219,Awaiting Parts,2537.2,6,2026-07-13,Cancelled,749.0,0.65,1035820.95,False,False,False,False,False,False,2026-07,1382.94,Moderate
+Unit-112,Southern Command,Artillery Support,121,Under Maintenance,2525.9,14,2026-01-19,Cancelled,91.0,0.64,917525.03,False,False,False,False,False,False,2026-01,10082.69,Moderate
+Unit-106,Northern Command,Transport Vehicle,11,Under Maintenance,3478.5,40,2026-01-11,Delivered,774.0,0.43,2148420.05,False,False,False,False,False,False,2026-01,2775.74,Low
+Unit-115,Western Command,Communication Equipment,85,Decommissioned,697.0,36,2026-04-23,Delivered,677.0,0.76,2098383.05,False,False,False,False,False,False,2026-04,3099.53,Moderate
+Unit-109,Northern Command,Artillery Support,239,Operational,1373.9,32,2026-03-24,Cancelled,434.0,1.0,115875.72,False,False,False,False,False,False,2026-03,266.99,High
+Unit-127,Central Command,Artillery Support,37,Decommissioned,1037.6,38,2026-06-14,Cancelled,647.0,0.5,3537507.31875,False,False,False,False,False,True,2026-06,5467.55,Low
+Unit-103,Western Command,Communication Equipment,225,Decommissioned,4651.8,3,2026-01-10,Delayed,368.0,0.98,1112527.36,False,False,False,False,False,False,2026-01,3023.17,High
+Unit-115,Central Command,Artillery Support,87,Operational,684.4,5,2026-03-15,In Transit,333.0,0.88,1736656.61,False,False,False,False,False,False,2026-03,5215.19,High
+Unit-106,Central Command,Medical Unit,71,Decommissioned,1766.9,5,2026-05-19,Cancelled,410.0,0.52,1887951.16,False,False,False,False,False,False,2026-05,4604.76,Low
+Unit-115,Western Command,Transport Vehicle,117,Decommissioned,2020.4,25,2026-01-27,Cancelled,83.0,0.51,2462435.62,False,False,False,False,False,False,2026-01,29667.9,Low
+Unit-118,Northern Command,Artillery Support,139,Decommissioned,2035.2,8,2026-07-11,In Transit,772.0,0.82,981215.94,False,False,False,False,False,False,2026-07,1271.01,High
+Unit-127,Central Command,Transport Vehicle,246,Operational,3573.6,31,2026-05-22,Delayed,29.0,0.6,1799078.12,False,False,False,False,False,False,2026-05,62037.18,Moderate
+Unit-112,Central Command,Communication Equipment,133,Under Maintenance,3254.7,11,2026-05-06,In Transit,276.0,0.66,2245959.75,False,False,False,False,False,False,2026-05,8137.54,Moderate
+Unit-109,Eastern Command,Communication Equipment,67,Under Maintenance,4629.1,6,2026-04-10,Cancelled,424.5,0.43,1829858.64,False,True,False,False,False,False,2026-04,4310.62,Low
+Unit-115,Central Command,Communication Equipment,199,Decommissioned,2655.5,35,2026-05-25,Delivered,580.0,0.69,1667378.73,False,False,False,False,False,False,2026-05,2874.79,Moderate
+Unit-109,Western Command,Transport Vehicle,65,Under Maintenance,1500.2,15,2026-07-15,In Transit,285.0,0.73,2093777.74,False,False,False,False,False,False,2026-07,7346.59,Moderate
+Unit-127,Southern Command,Communication Equipment,89,Operational,200.3,11,2026-04-14,Delayed,793.0,0.73,1476133.94,False,False,False,False,False,False,2026-04,1861.46,Moderate
+Unit-106,Southern Command,Medical Unit,97,Decommissioned,4156.1,14,2026-03-13,Delayed,156.0,0.82,1020427.95,False,False,False,False,False,False,2026-03,6541.2,High
+Unit-124,Eastern Command,Communication Equipment,108,Operational,1514.2,30,2026-02-07,Delayed,647.0,0.51,1671860.55,False,False,False,False,False,False,2026-02,2584.02,Low
+Unit-109,Eastern Command,Communication Equipment,98,Decommissioned,1302.3,6,2026-06-21,Cancelled,318.0,0.44,1493823.27,False,False,False,False,False,False,2026-06,4697.56,Low
+Unit-112,Eastern Command,Communication Equipment,22,Operational,2456.9,20,2026-01-13,Cancelled,513.0,0.88,559600.33,False,False,False,False,False,False,2026-01,1090.84,High
+Unit-109,Eastern Command,Communication Equipment,118,Under Maintenance,1653.0,1,2026-01-28,Delivered,87.0,0.88,2288457.76,False,False,False,False,False,False,2026-01,26304.11,High
+Unit-127,Western Command,Medical Unit,198,Decommissioned,2481.2,5,2026-06-14,Delayed,175.0,0.78,1096149.51,True,False,False,False,False,False,2026-06,6263.71,Moderate
+Unit-124,Central Command,Transport Vehicle,59,Under Maintenance,2267.9,10,2026-01-24,Delivered,777.0,0.53,1804423.24,False,False,False,False,False,False,2026-01,2322.3,Low
+Unit-109,Eastern Command,Engineering Equipment,72,Operational,161.3,15,2026-05-15,Delayed,337.0,0.58,1408511.24,False,False,False,False,False,False,2026-05,4179.56,Low
+Unit-115,Western Command,Transport Vehicle,86,Decommissioned,465.3,17,2026-05-09,Delayed,274.0,0.7,62128.8,False,False,False,False,False,False,2026-05,226.75,Moderate
+Unit-124,Northern Command,Artillery Support,49,Awaiting Parts,258.9,6,2026-05-10,Delivered,798.0,0.94,205253.65,False,False,False,False,False,False,2026-05,257.21,High
+Unit-124,Southern Command,Engineering Equipment,147,Under Maintenance,2662.0,22,2026-02-26,Delivered,779.0,0.65,788106.14,False,False,False,False,False,False,2026-02,1011.69,Moderate
+Unit-127,Central Command,Medical Unit,180,Under Maintenance,1495.7,6,2026-07-21,Cancelled,498.0,0.66,1699703.0,False,False,False,False,False,False,2026-07,3413.06,Moderate
+Unit-100,Eastern Command,Artillery Support,31,Operational,988.4,37,2026-02-19,In Transit,544.0,0.92,1150328.95,False,False,False,False,False,False,2026-02,2114.58,High
+Unit-124,Eastern Command,Communication Equipment,180,Operational,3140.0,30,2026-02-24,In Transit,29.0,0.67,883074.77,False,False,False,False,False,False,2026-02,30450.85,Moderate
+Unit-124,Northern Command,Transport Vehicle,31,Under Maintenance,3539.5,9,2026-01-17,Delayed,117.0,0.88,2392027.89,False,False,False,False,False,False,2026-01,20444.68,High
+Unit-118,Southern Command,Communication Equipment,58,Operational,4030.6,34,2026-03-26,In Transit,93.0,0.79,1460228.21,False,False,False,False,False,False,2026-03,15701.38,Moderate
+Unit-100,Southern Command,Communication Equipment,83,Under Maintenance,897.1,19,2026-05-18,Delayed,547.0,0.56,2284797.0,False,False,False,False,False,False,2026-05,4176.96,Low
+Unit-109,Eastern Command,Transport Vehicle,7,Unknown,4219.3,27,2026-08-08,Cancelled,402.0,0.9,1485381.08,False,False,True,False,False,False,2026-08,3694.98,High
+Unit-112,Southern Command,Medical Unit,183,Operational,4923.3,1,2026-06-03,In Transit,38.0,0.44,695504.3,False,False,False,False,False,False,2026-06,18302.74,Low
+Unit-109,Western Command,Medical Unit,39,Awaiting Parts,3862.4,13,2026-02-20,In Transit,745.0,0.99,2493369.81,False,False,False,False,False,False,2026-02,3346.81,High
+Unit-115,Eastern Command,Transport Vehicle,42,Decommissioned,4138.1,34,2026-03-30,Delayed,548.0,0.88,201033.74,False,False,False,False,False,False,2026-03,366.85,High
+Unit-124,Western Command,Medical Unit,135,Operational,4370.4,11,2026-06-05,Delayed,196.0,0.48,1566798.04,False,False,False,False,False,False,2026-06,7993.87,Low
+Unit-124,Eastern Command,Transport Vehicle,87,Decommissioned,4356.4,13,2026-01-22,Delayed,684.0,0.69,745884.14,False,False,False,False,False,False,2026-01,1090.47,Moderate
+Unit-103,Southern Command,Transport Vehicle,165,Decommissioned,7134.462499999999,2,2026-05-30,Delayed,662.0,0.81,142791.32,False,False,False,False,True,False,2026-05,215.7,High
+Unit-118,Western Command,Engineering Equipment,82,Under Maintenance,712.3,10,2026-04-25,Delayed,149.0,0.58,382023.93,False,False,False,False,False,False,2026-04,2563.92,Low
+Unit-127,Central Command,Communication Equipment,85,Awaiting Parts,1958.3,31,2026-07-07,Delivered,531.0,0.74,557134.87,False,False,False,False,False,False,2026-07,1049.22,Moderate
+Unit-124,Central Command,Communication Equipment,248,Unknown,4054.0,0,2026-08-03,In Transit,331.0,0.74,1969755.45,False,False,True,False,False,False,2026-08,5950.92,Moderate
+Unit-106,Central Command,Communication Equipment,196,Operational,993.7,23,2026-06-22,Unknown,674.0,0.89,1409540.51,False,False,False,True,False,False,2026-06,2091.31,High
+Unit-121,Central Command,Artillery Support,179,Awaiting Parts,4617.8,12,2026-08-04,Delayed,446.0,0.47,1133189.32,False,False,False,False,False,False,2026-08,2540.78,Low
+Unit-106,Western Command,Engineering Equipment,65,Awaiting Parts,1934.3,19,2026-02-04,In Transit,706.0,0.89,895931.58,False,False,False,False,False,False,2026-02,1269.02,High
+Unit-127,Eastern Command,Transport Vehicle,112,Under Maintenance,2152.8,9,2026-06-20,Cancelled,301.0,0.52,738591.78,False,False,False,False,False,False,2026-06,2453.79,Low
+Unit-121,Central Command,Medical Unit,127,Under Maintenance,74.7,19,2026-02-22,Cancelled,671.0,0.97,691565.14,False,False,False,False,False,False,2026-02,1030.65,High
+Unit-121,Southern Command,Engineering Equipment,238,Under Maintenance,2954.6,9,2026-03-19,In Transit,278.0,0.84,1400612.61,False,False,False,False,False,False,2026-03,5038.17,High
+Unit-106,Eastern Command,Medical Unit,210,Decommissioned,7134.462499999999,16,2026-04-14,Cancelled,737.0,0.6,733702.64,False,False,False,False,True,False,2026-04,995.53,Moderate
+Unit-118,Eastern Command,Engineering Equipment,91,Under Maintenance,2481.2,18,2026-04-29,In Transit,400.0,0.72,1276225.37,False,False,False,False,False,False,2026-04,3190.56,Moderate
+Unit-124,Central Command,Communication Equipment,177,Decommissioned,3882.4,14,2026-06-03,In Transit,173.0,0.46,1969722.39,False,False,False,False,False,False,2026-06,11385.68,Low
+Unit-127,Northern Command,Transport Vehicle,50,Decommissioned,3138.8,1,2026-01-14,Cancelled,616.0,0.86,157612.85,False,False,False,False,False,False,2026-01,255.87,High
+Unit-127,Central Command,Transport Vehicle,102,Operational,3895.7,21,2026-04-13,In Transit,752.0,0.66,2453991.24,False,False,False,False,False,False,2026-04,3263.29,Moderate
+Unit-115,Eastern Command,Medical Unit,44,Operational,64.2,17,2026-01-21,Cancelled,146.0,0.74,1909072.16,False,False,False,False,False,False,2026-01,13075.84,Moderate
+Unit-100,Northern Command,Artillery Support,186,Operational,1143.8,18,2026-02-24,Cancelled,649.0,0.52,500664.23,False,False,False,False,False,False,2026-02,771.44,Low
+Unit-127,Southern Command,Medical Unit,4,Under Maintenance,2516.2,18,2026-07-25,Delayed,169.0,0.87,1802519.62,False,False,False,False,False,False,2026-07,10665.8,High
+Unit-115,Southern Command,Engineering Equipment,43,Awaiting Parts,1408.3,17,2026-03-08,Delivered,603.0,0.66,833999.91,False,False,False,False,False,False,2026-03,1383.08,Moderate
+Unit-118,Eastern Command,Medical Unit,54,Decommissioned,3931.2,35,2026-06-03,Cancelled,57.0,0.68,2227549.35,False,False,False,False,False,False,2026-06,39079.81,Moderate
+Unit-106,Western Command,Medical Unit,148,Decommissioned,2898.3,11,2026-01-03,In Transit,725.0,0.79,2393506.83,False,False,False,False,False,False,2026-01,3301.39,Moderate
+Unit-127,Western Command,Communication Equipment,7,Operational,3364.5,12,2026-05-29,Cancelled,366.0,0.61,722393.55,False,False,False,False,False,False,2026-05,1973.75,Moderate
+Unit-112,Northern Command,Engineering Equipment,83,Operational,3716.7,29,2026-07-26,Delayed,473.0,0.46,905058.91,False,False,False,False,False,False,2026-07,1913.44,Low
+Unit-100,Western Command,Medical Unit,47,Under Maintenance,2481.2,40,2026-07-08,Delivered,476.0,0.72,1717730.96,True,False,False,False,False,False,2026-07,3608.68,Moderate
+Unit-121,Southern Command,Artillery Support,160,Operational,4133.0,30,2026-05-25,Delayed,33.0,0.52,1477111.67,False,False,False,False,False,False,2026-05,44760.96,Low
+Unit-115,Central Command,Medical Unit,126,Operational,3358.8,9,2026-06-04,Delayed,207.0,0.41,1640691.99,False,False,False,False,False,False,2026-06,7926.05,Low
+Unit-103,Northern Command,Transport Vehicle,207,Awaiting Parts,1004.5,19,2026-01-23,In Transit,149.0,0.89,1027483.24,False,False,False,False,False,False,2026-01,6895.86,High
+Unit-109,Northern Command,Engineering Equipment,181,Under Maintenance,125.3,17,2026-01-18,Delayed,540.0,0.43,1984321.06,False,False,False,False,False,False,2026-01,3674.67,Low
+Unit-121,Western Command,Artillery Support,35,Decommissioned,2331.6,15,2026-07-11,Delivered,320.0,0.58,1438866.31,False,False,False,False,False,False,2026-07,4496.46,Low
+Unit-115,Western Command,Communication Equipment,197,Awaiting Parts,2308.3,20,2026-04-13,Cancelled,141.0,0.43,2098633.1,False,False,False,False,False,False,2026-04,14883.92,Low
+Unit-112,Western Command,Transport Vehicle,161,Operational,3235.6,2,2026-05-18,Delayed,530.0,0.8,391281.77,False,False,False,False,False,False,2026-05,738.27,High
+Unit-121,Southern Command,Medical Unit,107,Under Maintenance,1460.4,22,2026-04-23,Delayed,798.0,0.66,1882003.43,False,False,False,False,False,False,2026-04,2358.4,Moderate
+Unit-100,Northern Command,Transport Vehicle,47,Decommissioned,176.8,30,2026-03-25,Delivered,572.0,0.68,1254348.37,False,False,False,False,False,False,2026-03,2192.92,Moderate
+Unit-109,Northern Command,Engineering Equipment,44,Decommissioned,56.4,12,2026-03-15,Delivered,376.0,0.69,1254136.03,False,False,False,False,False,False,2026-03,3335.47,Moderate
+Unit-124,Eastern Command,Medical Unit,169,Decommissioned,3563.9,9,2026-04-04,Delayed,487.0,0.95,1412512.03,False,False,False,False,False,False,2026-04,2900.44,High
+Unit-115,Northern Command,Engineering Equipment,204,Decommissioned,309.5,7,2026-02-11,Cancelled,580.0,0.81,1880295.71,False,False,False,False,False,False,2026-02,3241.89,High
+Unit-121,Eastern Command,Medical Unit,157,Operational,2493.8,13,2026-07-16,Delayed,776.0,0.55,1007826.77,False,False,False,False,False,False,2026-07,1298.75,Low
+Unit-124,Central Command,Communication Equipment,169,Operational,3741.4,30,2026-03-06,In Transit,260.0,0.84,552782.94,False,False,False,False,False,False,2026-03,2126.09,High
+Unit-127,Northern Command,Communication Equipment,225,Decommissioned,2122.4,38,2026-03-18,Delayed,363.0,0.73,253593.32,False,False,False,False,False,False,2026-03,698.6,Moderate
+Unit-106,Northern Command,Communication Equipment,188,Under Maintenance,2481.2,28,2026-06-20,Cancelled,651.0,0.48,1755014.78,True,False,False,False,False,False,2026-06,2695.88,Low
+Unit-106,Southern Command,Transport Vehicle,66,Awaiting Parts,3563.5,29,2026-05-25,Cancelled,334.0,0.83,609660.21,False,False,False,False,False,False,2026-05,1825.33,High
+Unit-127,Northern Command,Engineering Equipment,53,Decommissioned,1620.4,4,2026-03-05,In Transit,685.0,0.49,608096.62,False,False,False,False,False,False,2026-03,887.73,Low
+Unit-115,Western Command,Communication Equipment,28,Operational,4024.3,13,2026-04-09,In Transit,213.0,0.71,62628.93,False,False,False,False,False,False,2026-04,294.03,Moderate
+Unit-115,Southern Command,Artillery Support,146,Decommissioned,7134.462499999999,26,2026-03-27,Delayed,343.0,0.94,517614.08,False,False,False,False,True,False,2026-03,1509.08,High
+Unit-109,Western Command,Engineering Equipment,195,Decommissioned,4664.7,1,2026-02-27,Unknown,244.0,0.86,2140185.68,False,False,False,True,False,False,2026-02,8771.25,High
+Unit-100,Central Command,Artillery Support,20,Under Maintenance,1692.3,19,2026-06-09,Delayed,32.0,0.69,1240205.22,False,False,False,False,False,False,2026-06,38756.41,Moderate
+Unit-127,Northern Command,Transport Vehicle,67,Decommissioned,1682.2,16,2026-07-26,Delayed,206.0,0.53,1326012.9,False,False,False,False,False,False,2026-07,6436.96,Low
+Unit-103,Eastern Command,Communication Equipment,134,Operational,766.9,6,2026-07-03,Delivered,52.0,0.57,1931417.16,False,False,False,False,False,False,2026-07,37142.64,Low
+Unit-112,Western Command,Medical Unit,61,Decommissioned,7134.462499999999,4,2026-02-16,Delayed,242.0,0.69,2093146.74,False,False,False,False,True,False,2026-02,8649.37,Moderate
+Unit-124,Eastern Command,Engineering Equipment,165,Under Maintenance,472.8,32,2026-01-04,In Transit,261.0,0.91,546802.15,False,False,False,False,False,False,2026-01,2095.03,High
+Unit-100,Eastern Command,Medical Unit,234,Under Maintenance,3240.1,39,2026-05-12,Cancelled,156.0,0.68,395198.62,False,False,False,False,False,False,2026-05,2533.32,Moderate
+Unit-118,Eastern Command,Communication Equipment,146,Under Maintenance,357.2,18,2026-01-04,Delayed,383.0,0.62,1820471.47,False,False,False,False,False,False,2026-01,4753.19,Moderate
+Unit-127,Western Command,Medical Unit,105,Under Maintenance,2570.5,2,2026-01-15,Delivered,597.0,0.46,904157.49,False,False,False,False,False,False,2026-01,1514.5,Low
+Unit-106,Central Command,Transport Vehicle,143,Decommissioned,231.3,5,2026-03-03,Delivered,752.0,0.74,472520.25,False,False,False,False,False,False,2026-03,628.35,Moderate
+Unit-124,Southern Command,Engineering Equipment,89,Decommissioned,845.7,5,2026-07-01,In Transit,633.0,0.66,524716.38,False,False,False,False,False,False,2026-07,828.94,Moderate
+Unit-109,Northern Command,Transport Vehicle,26,Unknown,1113.8,11,2026-07-28,In Transit,106.0,0.89,1181385.08,False,False,True,False,False,False,2026-07,11145.14,High
+Unit-106,Western Command,Engineering Equipment,95,Operational,1677.3,37,2026-04-01,Cancelled,632.0,0.85,2367319.92,False,False,False,False,False,False,2026-04,3745.76,High
+Unit-121,Western Command,Engineering Equipment,228,Under Maintenance,1751.6,20,2026-07-12,Delivered,651.0,0.72,1303705.26,False,False,False,False,False,False,2026-07,2002.62,Moderate
+Unit-121,Western Command,Transport Vehicle,172,Under Maintenance,7134.462499999999,25,2026-05-19,In Transit,587.0,0.6,999350.25,False,False,False,False,True,False,2026-05,1702.47,Moderate
+Unit-106,Western Command,Transport Vehicle,154,Decommissioned,4512.9,5,2026-04-26,Delivered,312.0,0.66,394187.51,False,False,False,False,False,False,2026-04,1263.42,Moderate
+Unit-115,Southern Command,Communication Equipment,65,Decommissioned,3702.7,23,2026-03-09,In Transit,611.0,0.49,860530.69,False,False,False,False,False,False,2026-03,1408.4,Low
+Unit-112,Southern Command,Transport Vehicle,188,Under Maintenance,3659.9,22,2026-07-01,Cancelled,388.0,0.45,932926.27,False,False,False,False,False,False,2026-07,2404.45,Low
+Unit-115,Northern Command,Engineering Equipment,73,Operational,2588.7,17,2026-02-05,In Transit,139.0,0.78,888588.18,False,False,False,False,False,False,2026-02,6392.72,Moderate
+Unit-127,Western Command,Communication Equipment,14,Operational,961.3,28,2026-07-02,Delivered,101.0,0.96,856644.76,False,False,False,False,False,False,2026-07,8481.63,High
+Unit-103,Western Command,Artillery Support,117,Operational,4374.2,26,2026-06-10,Delivered,51.0,0.64,542742.44,False,False,False,False,False,False,2026-06,10642.01,Moderate
+Unit-112,Southern Command,Communication Equipment,184,Unknown,3683.3,8,2026-07-11,Cancelled,129.0,0.92,1306959.45,False,False,True,False,False,False,2026-07,10131.47,High
+Unit-115,Western Command,Communication Equipment,163,Decommissioned,4480.9,7,2026-05-14,In Transit,518.0,0.98,988580.48,False,False,False,False,False,False,2026-05,1908.46,High
+Unit-112,Central Command,Communication Equipment,174,Operational,144.5,27,2026-03-21,Delayed,165.0,0.66,940658.5,False,False,False,False,False,False,2026-03,5700.96,Moderate
+Unit-124,Southern Command,Communication Equipment,192,Operational,3950.5,38,2026-04-11,Delivered,54.0,0.42,1469134.28,False,False,False,False,False,False,2026-04,27206.19,Low
+Unit-121,Eastern Command,Transport Vehicle,211,Under Maintenance,2413.8,40,2026-04-04,In Transit,246.0,0.84,491587.19,False,False,False,False,False,False,2026-04,1998.32,High
+Unit-118,Northern Command,Transport Vehicle,67,Decommissioned,3178.6,12,2026-05-01,In Transit,464.0,0.83,1834387.05,False,False,False,False,False,False,2026-05,3953.42,High
+Unit-115,Southern Command,Artillery Support,83,Awaiting Parts,4627.9,10,2026-04-23,Cancelled,556.0,0.84,1390383.19,False,False,False,False,False,False,2026-04,2500.69,High
+Unit-106,Northern Command,Medical Unit,24,Decommissioned,4330.4,40,2026-02-09,In Transit,754.0,0.47,2029042.38,False,False,False,False,False,False,2026-02,2691.04,Low
+Unit-100,Eastern Command,Communication Equipment,165,Awaiting Parts,3157.3,16,2026-06-17,Delivered,161.0,0.85,111967.96,False,False,False,False,False,False,2026-06,695.45,High
+Unit-103,Western Command,Artillery Support,51,Decommissioned,3097.8,11,2026-06-08,Cancelled,652.0,0.81,2034493.68,False,False,False,False,False,False,2026-06,3120.39,High
+Unit-124,Eastern Command,Artillery Support,98,Awaiting Parts,7134.462499999999,8,2026-04-03,Cancelled,545.0,0.72,556832.32,False,False,False,False,True,False,2026-04,1021.71,Moderate
+Unit-115,Northern Command,Artillery Support,83,Awaiting Parts,4345.3,1,2026-06-16,Cancelled,644.0,0.81,877548.3,False,False,False,False,False,False,2026-06,1362.65,High
+Unit-109,Central Command,Communication Equipment,71,Decommissioned,788.3,8,2026-05-14,In Transit,791.0,0.43,624059.99,False,False,False,False,False,False,2026-05,788.95,Low
+Unit-109,Western Command,Artillery Support,127,Awaiting Parts,7134.462499999999,21,2026-07-06,Cancelled,67.0,0.78,474924.86,False,False,False,False,True,False,2026-07,7088.43,Moderate
+Unit-106,Central Command,Transport Vehicle,51,Decommissioned,1706.1,26,2026-06-09,Delivered,582.0,0.53,1490661.83,False,False,False,False,False,False,2026-06,2561.27,Low
+Unit-121,Northern Command,Communication Equipment,146,Awaiting Parts,3067.0,9,2026-03-26,Cancelled,39.0,0.72,297190.81,False,False,False,False,False,False,2026-03,7620.28,Moderate
+Unit-127,Eastern Command,Communication Equipment,210,Decommissioned,2481.2,2,2026-01-31,Delayed,149.0,0.95,1897658.58,True,False,False,False,False,False,2026-01,12735.96,High
+Unit-121,Western Command,Communication Equipment,107,Decommissioned,4037.7,3,2026-07-10,Delayed,688.0,0.68,2066149.18,False,False,False,False,False,False,2026-07,3003.12,Moderate
+Unit-100,Central Command,Engineering Equipment,94,Unknown,1453.2,35,2026-02-22,Delayed,764.0,0.92,1279400.99,False,False,True,False,False,False,2026-02,1674.61,High
+Unit-127,Western Command,Engineering Equipment,92,Decommissioned,3272.9,14,2026-05-22,In Transit,202.0,0.79,2322412.36,False,False,False,False,False,False,2026-05,11497.09,Moderate
+Unit-115,Northern Command,Transport Vehicle,225,Operational,2809.2,28,2026-03-21,Delayed,424.5,0.76,1174248.15,False,True,False,False,False,False,2026-03,2766.19,Moderate
+Unit-115,Northern Command,Medical Unit,97,Awaiting Parts,256.7,18,2026-04-15,In Transit,380.0,0.54,2131759.25,False,False,False,False,False,False,2026-04,5609.89,Low
+Unit-106,Central Command,Medical Unit,207,Under Maintenance,2481.2,38,2026-05-02,In Transit,179.0,0.73,370910.44,True,False,False,False,False,False,2026-05,2072.13,Moderate
+Unit-106,Southern Command,Medical Unit,112,Awaiting Parts,7134.462499999999,33,2026-02-08,In Transit,124.0,0.44,1595659.2,False,False,False,False,True,False,2026-02,12868.22,Low
+Unit-106,Northern Command,Medical Unit,168,Operational,101.4,25,2026-04-16,Delayed,537.0,0.68,2053821.68,False,False,False,False,False,False,2026-04,3824.62,Moderate
+Unit-127,Northern Command,Transport Vehicle,44,Awaiting Parts,3739.9,21,2026-07-25,Delivered,281.0,0.47,963885.41,False,False,False,False,False,False,2026-07,3430.2,Low
+Unit-127,Western Command,Transport Vehicle,227,Awaiting Parts,743.6,10,2026-02-08,Delivered,800.0,0.92,1863019.57,False,False,False,False,False,False,2026-02,2328.77,High
+Unit-106,Eastern Command,Artillery Support,63,Under Maintenance,4230.1,29,2026-07-19,Delivered,210.0,0.95,1770977.7,False,False,False,False,False,False,2026-07,8433.23,High
+Unit-103,Northern Command,Communication Equipment,201,Under Maintenance,2416.3,11,2026-04-22,In Transit,108.0,0.88,2430560.36,False,False,False,False,False,False,2026-04,22505.19,High
+Unit-112,Western Command,Engineering Equipment,104,Operational,3383.1,14,2026-03-06,Cancelled,122.0,0.65,1349108.76,False,False,False,False,False,False,2026-03,11058.27,Moderate
+Unit-100,Eastern Command,Transport Vehicle,164,Decommissioned,625.4,16,2026-04-10,In Transit,37.0,0.62,999883.09,False,False,False,False,False,False,2026-04,27023.87,Moderate
+Unit-112,Eastern Command,Medical Unit,38,Decommissioned,3066.3,19,2026-03-02,Delayed,162.0,0.41,1405927.58,False,False,False,False,False,False,2026-03,8678.57,Low
+Unit-109,Northern Command,Communication Equipment,145,Under Maintenance,3187.8,2,2026-03-04,Delayed,20.0,0.42,169268.03,False,False,False,False,False,False,2026-03,8463.4,Low
+Unit-121,Northern Command,Transport Vehicle,1,Under Maintenance,1201.3,2,2026-06-15,In Transit,151.0,0.78,1344220.2,False,False,False,False,False,False,2026-06,8902.12,Moderate
+Unit-112,Eastern Command,Transport Vehicle,106,Awaiting Parts,3692.0,31,2026-04-22,In Transit,113.0,0.78,1176270.51,False,False,False,False,False,False,2026-04,10409.47,Moderate
+Unit-127,Northern Command,Medical Unit,5,Awaiting Parts,3621.4,25,2026-05-07,Delayed,626.0,0.47,140415.66,False,False,False,False,False,False,2026-05,224.31,Low
+Unit-100,Northern Command,Engineering Equipment,235,Awaiting Parts,3159.8,2,2026-06-09,In Transit,144.0,0.71,1112543.62,False,False,False,False,False,False,2026-06,7726.0,Moderate
+Unit-121,Northern Command,Engineering Equipment,56,Under Maintenance,2434.8,36,2026-06-20,In Transit,685.0,0.4,2452215.55,False,False,False,False,False,False,2026-06,3579.88,Low
+Unit-103,Central Command,Transport Vehicle,100,Decommissioned,1653.0,36,2026-03-03,Delayed,428.0,0.61,1743574.95,False,False,False,False,False,False,2026-03,4073.77,Moderate
+Unit-118,Southern Command,Communication Equipment,249,Unknown,3454.3,14,2026-03-29,Delayed,434.0,0.99,2455610.73,False,False,True,False,False,False,2026-03,5658.09,High
+Unit-127,Western Command,Transport Vehicle,22,Under Maintenance,3765.5,14,2026-02-14,In Transit,420.0,0.99,197746.82,False,False,False,False,False,False,2026-02,470.83,High
+Unit-121,Western Command,Artillery Support,2,Decommissioned,708.9,22,2026-06-28,Delayed,744.0,0.49,1430007.88,False,False,False,False,False,False,2026-06,1922.05,Low
+Unit-121,Northern Command,Artillery Support,100,Awaiting Parts,2277.2,16,2026-07-19,Delivered,161.0,0.55,2435536.07,False,False,False,False,False,False,2026-07,15127.55,Low
+Unit-103,Central Command,Transport Vehicle,53,Operational,3623.9,39,2026-05-16,Cancelled,424.0,0.54,896289.03,False,False,False,False,False,False,2026-05,2113.89,Low
+Unit-109,Central Command,Transport Vehicle,111,Under Maintenance,3429.7,11,2026-05-25,Delayed,344.0,0.71,1942102.89,False,False,False,False,False,False,2026-05,5645.65,Moderate
+Unit-106,Eastern Command,Medical Unit,170,Operational,1691.6,30,2026-03-19,In Transit,116.0,0.46,634863.18,False,False,False,False,False,False,2026-03,5472.96,Low
+Unit-100,Southern Command,Transport Vehicle,71,Decommissioned,1902.4,13,2026-04-20,Cancelled,440.0,0.84,1759931.47,False,False,False,False,False,False,2026-04,3999.84,High
+Unit-115,Central Command,Engineering Equipment,197,Decommissioned,2481.2,21,2026-03-31,Delivered,94.0,0.94,2046125.85,True,False,False,False,False,False,2026-03,21767.3,High
+Unit-118,Northern Command,Transport Vehicle,106,Operational,2514.5,36,2026-02-08,In Transit,656.0,0.76,979927.7,False,False,False,False,False,False,2026-02,1493.79,Moderate
+Unit-103,Western Command,Medical Unit,121,Awaiting Parts,413.1,22,2026-03-23,Cancelled,785.0,0.69,683366.12,False,False,False,False,False,False,2026-03,870.53,Moderate
+Unit-115,Western Command,Medical Unit,182,Operational,4486.0,13,2026-02-06,Delivered,615.0,0.73,2343641.85,False,False,False,False,False,False,2026-02,3810.8,Moderate
+Unit-115,Western Command,Engineering Equipment,80,Decommissioned,1026.9,20,2026-04-23,Delivered,717.0,0.56,1015229.04,False,False,False,False,False,False,2026-04,1415.94,Low
+Unit-121,Southern Command,Artillery Support,31,Under Maintenance,3430.6,2,2026-04-07,Cancelled,297.0,0.6,419715.21,False,False,False,False,False,False,2026-04,1413.18,Moderate
+Unit-112,Central Command,Medical Unit,200,Unknown,1806.0,14,2026-03-10,Cancelled,723.0,0.55,1093955.95,False,False,True,False,False,False,2026-03,1513.08,Low
+Unit-115,Southern Command,Medical Unit,2,Awaiting Parts,2010.3,23,2026-01-30,Cancelled,363.0,0.64,210344.97,False,False,False,False,False,False,2026-01,579.46,Moderate
+Unit-124,Northern Command,Medical Unit,5,Decommissioned,2220.8,38,2026-06-19,In Transit,49.0,0.65,1435711.24,False,False,False,False,False,False,2026-06,29300.23,Moderate
+Unit-112,Southern Command,Medical Unit,231,Operational,1311.9,25,2026-04-15,Delayed,475.0,0.99,2201259.67,False,False,False,False,False,False,2026-04,4634.23,High
+Unit-115,Southern Command,Communication Equipment,168,Operational,227.2,28,2026-05-14,Delayed,65.0,0.61,1712595.82,False,False,False,False,False,False,2026-05,26347.63,Moderate
+Unit-103,Southern Command,Communication Equipment,216,Awaiting Parts,2029.9,31,2026-07-26,In Transit,210.0,0.83,401377.25,False,False,False,False,False,False,2026-07,1911.32,High
+Unit-112,Western Command,Artillery Support,120,Under Maintenance,1361.9,18,2026-01-28,Cancelled,644.0,0.51,597144.14,False,False,False,False,False,False,2026-01,927.24,Low
+Unit-127,Northern Command,Transport Vehicle,43,Awaiting Parts,4335.4,5,2026-07-30,Cancelled,217.0,0.55,2455207.64,False,False,False,False,False,False,2026-07,11314.32,Low
+Unit-118,Central Command,Communication Equipment,122,Awaiting Parts,4707.8,10,2026-05-22,Delayed,130.0,0.76,975029.37,False,False,False,False,False,False,2026-05,7500.23,Moderate
+Unit-106,Central Command,Communication Equipment,55,Operational,3351.7,29,2026-06-10,Delivered,699.0,0.51,140595.23,False,False,False,False,False,False,2026-06,201.14,Low
+Unit-118,Central Command,Engineering Equipment,154,Under Maintenance,3478.8,2,2026-04-28,Delayed,295.0,0.67,694945.51,False,False,False,False,False,False,2026-04,2355.75,Moderate
+Unit-112,Western Command,Transport Vehicle,3,Awaiting Parts,2481.2,17,2026-03-22,Delayed,506.0,0.72,1390155.48,True,False,False,False,False,False,2026-03,2747.34,Moderate
+Unit-121,Western Command,Engineering Equipment,64,Under Maintenance,2837.5,23,2026-01-10,In Transit,608.0,0.76,61366.74,False,False,False,False,False,False,2026-01,100.93,Moderate
+Unit-112,Southern Command,Artillery Support,78,Decommissioned,2808.7,25,2026-01-31,Delayed,96.0,0.52,2269601.78,False,False,False,False,False,False,2026-01,23641.69,Low
+Unit-109,Western Command,Medical Unit,91,Under Maintenance,4535.3,39,2026-01-23,Delivered,685.0,0.65,299953.57,False,False,False,False,False,False,2026-01,437.89,Moderate
+Unit-115,Central Command,Transport Vehicle,36,Awaiting Parts,3386.3,7,2026-03-28,Cancelled,43.0,0.97,934092.39,False,False,False,False,False,False,2026-03,21723.08,High
+Unit-106,Eastern Command,Medical Unit,65,Under Maintenance,4839.3,14,2026-07-11,Cancelled,518.0,0.5,1686190.77,False,False,False,False,False,False,2026-07,3255.19,Low
+Unit-103,Western Command,Engineering Equipment,244,Awaiting Parts,706.4,40,2026-05-11,Delivered,740.0,0.62,1269825.49,False,False,False,False,False,False,2026-05,1715.98,Moderate
+Unit-115,Northern Command,Communication Equipment,206,Under Maintenance,1996.8,19,2026-01-14,Delivered,120.0,0.92,1312869.37,False,False,False,False,False,False,2026-01,10940.58,High
+Unit-121,Western Command,Engineering Equipment,158,Under Maintenance,1629.4,2,2026-02-20,Cancelled,185.0,0.78,731585.52,False,False,False,False,False,False,2026-02,3954.52,Moderate
+Unit-124,Eastern Command,Transport Vehicle,134,Awaiting Parts,702.7,0,2026-05-23,Delivered,691.0,0.89,2443296.73,False,False,False,False,False,False,2026-05,3535.89,High
+Unit-121,Eastern Command,Artillery Support,63,Operational,3968.8,2,2026-03-13,Cancelled,490.0,0.41,1365369.74,False,False,False,False,False,False,2026-03,2786.47,Low
+Unit-124,Western Command,Artillery Support,106,Under Maintenance,2481.2,36,2026-06-04,In Transit,603.0,1.0,3537507.31875,True,False,False,False,False,True,2026-06,5866.51,High
+Unit-100,Central Command,Communication Equipment,119,Awaiting Parts,4920.0,32,2026-01-27,In Transit,424.5,1.0,1360437.58,False,True,False,False,False,False,2026-01,3204.8,High
+Unit-106,Southern Command,Transport Vehicle,20,Under Maintenance,1088.0,8,2026-02-07,Delayed,244.0,0.43,696396.13,False,False,False,False,False,False,2026-02,2854.08,Low
+Unit-115,Northern Command,Artillery Support,173,Under Maintenance,4039.7,3,2026-07-14,Cancelled,243.0,0.51,1136715.37,False,False,False,False,False,False,2026-07,4677.84,Low
+Unit-112,Central Command,Engineering Equipment,239,Decommissioned,4997.5,19,2026-06-13,Delivered,325.0,0.86,82455.98,False,False,False,False,False,False,2026-06,253.71,High
+Unit-109,Northern Command,Communication Equipment,18,Awaiting Parts,2743.5,6,2026-03-22,Cancelled,236.0,1.0,1848299.04,False,False,False,False,False,False,2026-03,7831.78,High
+Unit-115,Southern Command,Transport Vehicle,75,Operational,4772.6,31,2026-04-25,Delivered,563.0,0.88,379210.5,False,False,False,False,False,False,2026-04,673.55,High
+Unit-106,Southern Command,Engineering Equipment,17,Awaiting Parts,422.2,20,2026-04-01,Delayed,318.0,0.43,1470306.72,False,False,False,False,False,False,2026-04,4623.61,Low
+Unit-115,Western Command,Communication Equipment,167,Operational,408.6,34,2026-01-25,Delivered,539.0,0.53,260570.72,False,False,False,False,False,False,2026-01,483.43,Low
+Unit-103,Northern Command,Medical Unit,249,Under Maintenance,2650.8,0,2026-02-15,Delayed,668.0,0.84,1276785.54,False,False,False,False,False,False,2026-02,1911.36,High
+Unit-121,Northern Command,Transport Vehicle,7,Under Maintenance,2543.7,40,2026-01-21,Delayed,638.0,0.71,385526.16,False,False,False,False,False,False,2026-01,604.27,Moderate
+Unit-121,Northern Command,Medical Unit,115,Under Maintenance,7134.462499999999,12,2026-03-19,Cancelled,629.0,0.97,2135422.58,False,False,False,False,True,False,2026-03,3394.95,High
+Unit-118,Western Command,Artillery Support,14,Under Maintenance,694.3,34,2026-05-16,Delayed,749.0,0.42,1364674.12,False,False,False,False,False,False,2026-05,1821.99,Low
+Unit-103,Central Command,Communication Equipment,124,Decommissioned,2111.2,14,2026-02-23,In Transit,575.0,0.62,2398724.13,False,False,False,False,False,False,2026-02,4171.69,Moderate
+Unit-121,Central Command,Medical Unit,112,Decommissioned,4134.6,32,2026-03-18,Delivered,89.0,0.98,1979324.4,False,False,False,False,False,False,2026-03,22239.6,High
+Unit-127,Eastern Command,Engineering Equipment,44,Operational,275.6,29,2026-07-12,Delivered,785.0,0.83,2451530.96,False,False,False,False,False,False,2026-07,3122.97,High
+Unit-103,Central Command,Communication Equipment,163,Awaiting Parts,7134.462499999999,9,2026-02-15,Cancelled,166.0,0.82,2345267.05,False,False,False,False,True,False,2026-02,14128.11,High
+Unit-100,Northern Command,Communication Equipment,238,Under Maintenance,1344.0,38,2026-06-13,Cancelled,555.0,0.54,1138320.23,False,False,False,False,False,False,2026-06,2051.03,Low
+Unit-109,Western Command,Artillery Support,101,Operational,1671.7,9,2026-06-14,Delayed,690.0,0.73,279296.36,False,False,False,False,False,False,2026-06,404.78,Moderate
+Unit-118,Western Command,Engineering Equipment,138,Unknown,4746.4,0,2026-01-07,Delayed,518.0,0.7,2188994.03,False,False,True,False,False,False,2026-01,4225.86,Moderate
+Unit-112,Northern Command,Transport Vehicle,89,Awaiting Parts,3274.6,29,2026-04-28,Delivered,367.0,0.58,1787048.16,False,False,False,False,False,False,2026-04,4869.34,Low
+Unit-121,Central Command,Transport Vehicle,196,Under Maintenance,1873.9,22,2026-03-11,In Transit,321.0,0.63,1423472.35,False,False,False,False,False,False,2026-03,4434.49,Moderate
+Unit-121,Southern Command,Engineering Equipment,198,Awaiting Parts,4832.8,34,2026-08-05,Delivered,278.0,0.93,1692508.83,False,False,False,False,False,False,2026-08,6088.16,High
+Unit-127,Eastern Command,Communication Equipment,131,Under Maintenance,4304.1,35,2026-05-13,Cancelled,199.0,0.81,433729.3,False,False,False,False,False,False,2026-05,2179.54,High
+Unit-115,Western Command,Medical Unit,212,Under Maintenance,4344.3,4,2026-03-25,Delayed,317.0,0.69,1368692.46,False,False,False,False,False,False,2026-03,4317.64,Moderate
+Unit-103,Western Command,Medical Unit,227,Decommissioned,1475.0,10,2026-06-25,Delayed,87.0,0.9,1545589.37,False,False,False,False,False,False,2026-06,17765.4,High
+Unit-118,Northern Command,Transport Vehicle,189,Under Maintenance,772.1,18,2026-02-11,Delayed,88.0,0.47,1251748.64,False,False,False,False,False,False,2026-02,14224.42,Low

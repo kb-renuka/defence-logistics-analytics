@@ -1,0 +1,27 @@
+{
+  "rows_raw": 669,
+  "duplicates_removed": 19,
+  "unparseable_dates": 0,
+  "missing_values_by_column": {
+    "Maintenance_Status": 23,
+    "Fuel_Consumption_Litres": 27,
+    "Delivery_Status": 12,
+    "Personnel_Count": 20
+  },
+  "outlier_summary": {
+    "Fuel_Consumption_Litres": {
+      "lower_bound": -2024.04,
+      "upper_bound": 7134.46,
+      "outliers_flagged": 16
+    },
+    "Monthly_Cost_INR": {
+      "lower_bound": -1007165.67,
+      "upper_bound": 3537507.32,
+      "outliers_flagged": 10
+    }
+  },
+  "validation_issues": [
+    "None found"
+  ],
+  "rows_cleaned": 650
+}

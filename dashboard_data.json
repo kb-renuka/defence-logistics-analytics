@@ -1,0 +1,128 @@
+{
+  "regions": [
+    {
+      "Region": "Central Command",
+      "total_cost": 170642356.8,
+      "avg_readiness": 0.71,
+      "delayed": 30,
+      "records": 131
+    },
+    {
+      "Region": "Eastern Command",
+      "total_cost": 163020924.38,
+      "avg_readiness": 0.72,
+      "delayed": 32,
+      "records": 136
+    },
+    {
+      "Region": "Northern Command",
+      "total_cost": 168615937.34,
+      "avg_readiness": 0.7,
+      "delayed": 38,
+      "records": 133
+    },
+    {
+      "Region": "Southern Command",
+      "total_cost": 173716471.35,
+      "avg_readiness": 0.67,
+      "delayed": 43,
+      "records": 116
+    },
+    {
+      "Region": "Western Command",
+      "total_cost": 173327731.64,
+      "avg_readiness": 0.71,
+      "delayed": 36,
+      "records": 134
+    }
+  ],
+  "months": [
+    {
+      "Delivery_Month": "2026-01",
+      "total_cost": 107800174.12
+    },
+    {
+      "Delivery_Month": "2026-02",
+      "total_cost": 106787042.36
+    },
+    {
+      "Delivery_Month": "2026-03",
+      "total_cost": 112769024.64
+    },
+    {
+      "Delivery_Month": "2026-04",
+      "total_cost": 135565753.48
+    },
+    {
+      "Delivery_Month": "2026-05",
+      "total_cost": 135113766.99
+    },
+    {
+      "Delivery_Month": "2026-06",
+      "total_cost": 123072703.14
+    },
+    {
+      "Delivery_Month": "2026-07",
+      "total_cost": 93161252.51
+    },
+    {
+      "Delivery_Month": "2026-08",
+      "total_cost": 35053704.27
+    }
+  ],
+  "equip": [
+    {
+      "Equipment_Type": "Artillery Support",
+      "total_cost": 112809364.58,
+      "avg_fuel": 2572.89
+    },
+    {
+      "Equipment_Type": "Communication Equipment",
+      "total_cost": 212068832.83,
+      "avg_fuel": 2510.8
+    },
+    {
+      "Equipment_Type": "Engineering Equipment",
+      "total_cost": 126419363.39,
+      "avg_fuel": 2250.92
+    },
+    {
+      "Equipment_Type": "Medical Unit",
+      "total_cost": 188522719.16,
+      "avg_fuel": 2671.56
+    },
+    {
+      "Equipment_Type": "Transport Vehicle",
+      "total_cost": 209503141.54,
+      "avg_fuel": 2752.05
+    }
+  ],
+  "status": [
+    {
+      "status": "Delayed",
+      "count": 179
+    },
+    {
+      "status": "Cancelled",
+      "count": 159
+    },
+    {
+      "status": "In Transit",
+      "count": 157
+    },
+    {
+      "status": "Delivered",
+      "count": 143
+    },
+    {
+      "status": "Unknown",
+      "count": 12
+    }
+  ],
+  "kpi": {
+    "total_cost": 849323421.5,
+    "avg_readiness": 0.702,
+    "delayed_pct": 27.5,
+    "records": 650
+  }
+}
