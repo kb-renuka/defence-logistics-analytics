@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Defence Logistics & Operations Analytics Dashboard</title>
+<style>
+  :root {
+    --bg: #f5f6f8;
+    --card: #ffffff;
+    --border: #e2e4e8;
+    --text-primary: #14181f;
+    --text-secondary: #5b6472;
+    --accent: #2a78d6;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text-primary);
+    padding: 32px 16px 64px;
+  }
+  .wrap { max-width: 1000px; margin: 0 auto; }
+  header { margin-bottom: 28px; }
+  h1 { font-size: 24px; font-weight: 600; margin: 0 0 6px; }
+  .subtitle { color: var(--text-secondary); font-size: 14px; margin: 0; }
+  .badge {
+    display: inline-block; font-size: 12px; padding: 3px 10px; border-radius: 999px;
+    background: #eaf1fb; color: var(--accent); margin-top: 10px;
+  }
+  .controls { display: flex; align-items: center; gap: 10px; margin: 24px 0; }
+  .controls label { font-size: 13px; color: var(--text-secondary); }
+  select {
+    padding: 8px 12px; border-radius: 8px; border: 1px solid var(--border);
+    background: var(--card); font-size: 14px; min-width: 200px;
+  }
+  .kpi-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin-bottom: 28px; }
+  .kpi-card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 16px; }
+  .kpi-label { font-size: 13px; color: var(--text-secondary); margin: 0 0 6px; }
+  .kpi-value { font-size: 26px; font-weight: 600; margin: 0; }
+  .chart-row { display: grid; gap: 20px; margin-bottom: 20px; }
+  .two-col { grid-template-columns: 1fr 1fr; }
+  @media (max-width: 640px) { .two-col { grid-template-columns: 1fr; } }
+  .chart-card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 20px; }
+  .chart-title { font-size: 14px; font-weight: 600; margin: 0 0 12px; }
+  .chart-box { position: relative; height: 240px; }
+  .chart-box.short { height: 200px; }
+  footer { text-align: center; margin-top: 40px; font-size: 12px; color: var(--text-secondary); }
+  footer a { color: var(--accent); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Defence Logistics & Operations Analytics Dashboard</h1>
+    <p class="subtitle">Synthetic dataset — not real or classified data. Python/Pandas cleaning &rarr; SQL analysis &rarr; this dashboard.</p>
+    <span class="badge">650 records · 5 regional commands</span>
+  </header>
+
+  <div class="controls">
+    <label for="regionFilter">Region</label>
+    <select id="regionFilter">
+      <option value="all">All regions</option>
+      <option value="Northern Command">Northern Command</option>
+      <option value="Western Command">Western Command</option>
+      <option value="Eastern Command">Eastern Command</option>
+      <option value="Southern Command">Southern Command</option>
+      <option value="Central Command">Central Command</option>
+    </select>
+  </div>
+
+  <div class="kpi-grid">
+    <div class="kpi-card"><p class="kpi-label">Total cost</p><p class="kpi-value" id="kpiCost">₹0</p></div>
+    <div class="kpi-card"><p class="kpi-label">Avg readiness</p><p class="kpi-value" id="kpiReadiness">0%</p></div>
+    <div class="kpi-card"><p class="kpi-label">Delayed</p><p class="kpi-value" id="kpiDelayed">0%</p></div>
+    <div class="kpi-card"><p class="kpi-label">Records</p><p class="kpi-value" id="kpiRecords">0</p></div>
+  </div>
+
+  <div class="chart-row">
+    <div class="chart-card">
+      <p class="chart-title">Cost by region</p>
+      <div class="chart-box"><canvas id="regionChart" role="img" aria-label="Bar chart of total cost by region"></canvas></div>
+    </div>
+  </div>
+
+  <div class="chart-row">
+    <div class="chart-card">
+      <p class="chart-title">Monthly cost trend</p>
+      <div class="chart-box"><canvas id="monthChart" role="img" aria-label="Line chart of monthly cost trend"></canvas></div>
+    </div>
+  </div>
+
+  <div class="chart-row two-col">
+    <div class="chart-card">
+      <p class="chart-title">Delivery status</p>
+      <div class="chart-box short"><canvas id="statusChart" role="img" aria-label="Doughnut chart of delivery status breakdown"></canvas></div>
+    </div>
+    <div class="chart-card">
+      <p class="chart-title">Cost by equipment type</p>
+      <div class="chart-box short"><canvas id="equipChart" role="img" aria-label="Bar chart of cost by equipment type"></canvas></div>
+    </div>
+  </div>
+
+  <footer>
+    Portfolio project by K B Renuka · <a href="https://github.com/kb-renuka/defence-logistics-analytics">View source on GitHub</a>
+  </footer>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script>
+const DATA = {"regions":[{"Region":"Central Command","total_cost":170642356.8,"avg_readiness":0.71,"delayed":30,"records":131},{"Region":"Eastern Command","total_cost":163020924.38,"avg_readiness":0.72,"delayed":32,"records":136},{"Region":"Northern Command","total_cost":168615937.34,"avg_readiness":0.70,"delayed":38,"records":133},{"Region":"Southern Command","total_cost":173716471.35,"avg_readiness":0.67,"delayed":43,"records":116},{"Region":"Western Command","total_cost":173327731.64,"avg_readiness":0.71,"delayed":36,"records":134}],"months":[{"m":"2026-01","c":107800174.12},{"m":"2026-02","c":106787042.36},{"m":"2026-03","c":112769024.64},{"m":"2026-04","c":135565753.48},{"m":"2026-05","c":135113766.99},{"m":"2026-06","c":123072703.14},{"m":"2026-07","c":93161252.51},{"m":"2026-08","c":35053704.27}],"equip":[{"t":"Artillery Support","c":112809364.58},{"t":"Communication Equipment","c":212068832.83},{"t":"Engineering Equipment","c":126419363.39},{"t":"Medical Unit","c":188522719.16},{"t":"Transport Vehicle","c":209503141.54}],"status":[{"s":"Delayed","n":179},{"s":"Cancelled","n":159},{"s":"In Transit","n":157},{"s":"Delivered","n":143},{"s":"Unknown","n":12}]};
+
+const fmtCr = v => '₹' + (v/10000000).toFixed(1) + 'Cr';
+const colors = ['#2a78d6','#eb6834','#1baf7a','#eda100','#e87ba4'];
+let regionChart, monthChart, statusChart, equipChart;
+
+function render(filterRegion) {
+  const regions = filterRegion === 'all' ? DATA.regions : DATA.regions.filter(r => r.Region === filterRegion);
+  const totalCost = regions.reduce((a, r) => a + r.total_cost, 0);
+  const totalRecords = regions.reduce((a, r) => a + r.records, 0);
+  const totalDelayed = regions.reduce((a, r) => a + r.delayed, 0);
+  const avgReadiness = regions.reduce((a, r) => a + r.avg_readiness * r.records, 0) / totalRecords;
+
+  document.getElementById('kpiCost').textContent = fmtCr(totalCost);
+  document.getElementById('kpiReadiness').textContent = (avgReadiness * 100).toFixed(1) + '%';
+  document.getElementById('kpiDelayed').textContent = ((totalDelayed / totalRecords) * 100).toFixed(1) + '%';
+  document.getElementById('kpiRecords').textContent = totalRecords.toLocaleString();
+
+  if (regionChart) regionChart.destroy();
+  regionChart = new Chart(document.getElementById('regionChart'), {
+    type: 'bar',
+    data: {
+      labels: DATA.regions.map(r => r.Region.replace(' Command', '')),
+      datasets: [{
+        data: DATA.regions.map(r => r.total_cost / 10000000),
+        backgroundColor: DATA.regions.map(r => (filterRegion === 'all' || r.Region === filterRegion) ? '#2a78d6' : '#c3c2b7'),
+        borderRadius: 4, maxBarThickness: 40
+      }]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: false }, tooltip: { callbacks: { label: c => '₹' + c.parsed.y.toFixed(1) + ' Cr' } } },
+      scales: { y: { ticks: { callback: v => '₹' + v + 'Cr' }, grid: { color: '#e1e0d9' } }, x: { grid: { display: false } } }
+    }
+  });
+
+  if (monthChart) monthChart.destroy();
+  monthChart = new Chart(document.getElementById('monthChart'), {
+    type: 'line',
+    data: {
+      labels: DATA.months.map(m => m.m),
+      datasets: [{
+        data: DATA.months.map(m => m.c / 10000000),
+        borderColor: '#2a78d6', backgroundColor: 'rgba(42,120,214,0.1)',
+        fill: true, tension: 0.3, pointRadius: 4, pointBackgroundColor: '#2a78d6'
+      }]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: false }, tooltip: { callbacks: { label: c => '₹' + c.parsed.y.toFixed(1) + ' Cr' } } },
+      scales: { y: { ticks: { callback: v => '₹' + v + 'Cr' }, grid: { color: '#e1e0d9' } }, x: { grid: { display: false } } }
+    }
+  });
+
+  if (statusChart) statusChart.destroy();
+  statusChart = new Chart(document.getElementById('statusChart'), {
+    type: 'doughnut',
+    data: { labels: DATA.status.map(s => s.s), datasets: [{ data: DATA.status.map(s => s.n), backgroundColor: colors }] },
+    options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'bottom', labels: { boxWidth: 10, font: { size: 11 } } } } }
+  });
+
+  if (equipChart) equipChart.destroy();
+  equipChart = new Chart(document.getElementById('equipChart'), {
+    type: 'bar',
+    data: {
+      labels: DATA.equip.map(e => e.t.replace(' Equipment', '').replace(' Support', '').replace(' Vehicle', '').replace(' Unit', '')),
+      datasets: [{ data: DATA.equip.map(e => e.c / 10000000), backgroundColor: '#1baf7a', borderRadius: 4, maxBarThickness: 28 }]
+    },
+    options: {
+      indexAxis: 'y', responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: false }, tooltip: { callbacks: { label: c => '₹' + c.parsed.x.toFixed(1) + ' Cr' } } },
+      scales: { x: { ticks: { callback: v => '₹' + v + 'Cr' }, grid: { color: '#e1e0d9' } }, y: { grid: { display: false } } }
+    }
+  });
+}
+
+document.getElementById('regionFilter').addEventListener('change', e => render(e.target.value));
+render('all');
+</script>
+</body>
+</html>
